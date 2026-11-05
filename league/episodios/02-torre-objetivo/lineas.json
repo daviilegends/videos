@@ -1,0 +1,92 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué la torre ignora a todo el mundo, y de repente te elige a ti? Como el profe que solo te pregunta cuando no estudiaste.",
+  "start": 0.25,
+  "end": 5.243
+ },
+ {
+  "id": "reglas",
+  "text": "No es que te odie. La torre sigue unas reglas muy claras, y hoy te las enseño.",
+  "start": 5.663,
+  "end": 9.032
+ },
+ {
+  "id": "regla1",
+  "text": "Regla uno: la torre ataca a la primera unidad enemiga que entra en su rango, y no la suelta hasta que muere.",
+  "start": 9.452,
+  "end": 14.113
+ },
+ {
+  "id": "rango",
+  "text": "Su rango de ataque es de setecientas cincuenta unidades.",
+  "start": 14.533,
+  "end": 17.197
+ },
+ {
+  "id": "subditos",
+  "text": "Por eso, si tus súbditos entran primero, la torre se entretiene con ellos.",
+  "start": 17.617,
+  "end": 21.001
+ },
+ {
+  "id": "excepcion",
+  "text": "Pero hay una excepción. Si dañas a un campeón enemigo cerca de su torre,",
+  "start": 21.421,
+  "end": 24.586
+ },
+ {
+  "id": "cambia",
+  "text": "la torre se olvida de los súbditos, y cambia de objetivo hacia ti.",
+  "start": 25.006,
+  "end": 27.79
+ },
+ {
+  "id": "calienta",
+  "text": "Y aquí viene lo peor: cada disparo que te acierta pega un cincuenta por ciento más fuerte. Se calienta más rápido que tu tío hablando de fútbol.",
+  "start": 28.21,
+  "end": 34.55
+ },
+ {
+  "id": "tope",
+  "text": "Hasta un ciento cincuenta por ciento extra. O sea, el cuarto disparo duele dos veces y media lo que el primero. Duele más que el recibo de la luz en verano.",
+  "start": 34.97,
+  "end": 41.726
+ },
+ {
+  "id": "reset",
+  "text": "Ese calentamiento solo se reinicia cinco segundos después de su último disparo a un campeón.",
+  "start": 42.146,
+  "end": 45.958
+ },
+ {
+  "id": "cambio",
+  "text": "Y cambiar de objetivo no lo reinicia. Si salta de tu compañero a ti, te llega caliente.",
+  "start": 46.378,
+  "end": 50.196
+ },
+ {
+  "id": "armadura",
+  "text": "Otro dato: sin súbditos enemigos cerca, la torre recibe un ochenta por ciento menos de daño.",
+  "start": 50.616,
+  "end": 55.08
+ },
+ {
+  "id": "porqueso",
+  "text": "Por eso, tirarla tú solo, sin tu oleada, es como querer tumbar una pared a cachetadas.",
+  "start": 55.5,
+  "end": 59.745
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: entra a la torre cuando tu oleada ya esté adentro, y no le pegues al rival bajo su torre si no puedes rematarlo.",
+  "start": 60.165,
+  "end": 65.661
+ },
+ {
+  "id": "cierre",
+  "text": "Ahora ya sabes cómo piensa la torre. Cada like es un puñetazo a Teemo… y si comentas, le pegamos dos.",
+  "start": 66.081,
+  "end": 71.252
+ }
+]

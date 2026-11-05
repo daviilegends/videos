@@ -1,0 +1,35 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Comparación de voces</title><style>
+:root{color-scheme:dark;--bg:#14181b;--card:#1e2428;--line:#333c42;--text:#e8ecee;--muted:#a3afb6;--accent:#d7c56f}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,sans-serif}
+main{max-width:1040px;margin:auto;padding:32px 16px 64px}h1{margin:0 0 8px;font-size:30px}
+.lead,.cfg,.note,small{color:var(--muted)}blockquote{margin:20px 0;padding:14px 18px;border-left:3px solid var(--accent);background:var(--card)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:14px;margin:24px 0}
+article{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px}
+h2{font-size:17px;margin:0}h2 span{display:inline-block;width:28px;height:28px;line-height:28px;text-align:center;border-radius:50%;background:var(--accent);color:#14181b;margin-right:6px}
+.cfg{margin:6px 0 12px;font-size:14px}.note{margin:10px 0 0;font-size:13px}audio{width:100%}
+.scroll{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:14px;min-width:820px}th,td{padding:8px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}th{color:var(--muted);font-weight:600}
+</style></head><body><main><h1>Comparación de voces</h1>
+<p class="lead">Mismo texto, generado en tu RTX 2060 y con el volumen igualado a -16 LUFS. Escucha con audífonos y fíjate en el acento, las pausas y la tensión dramática.</p>
+<blockquote>Abres los ojos y lo primero que escuchas es el silencio. Este hospital lleva más de veinte años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla.</blockquote>
+<div class="grid"><article><h2><span>A</span> VoxCPM2</h2><p class="cfg">Narrador diseñado y clonado frase por frase</p>
+<audio controls preload="metadata" src="norm/voxcpm2_clon_frases.wav"></audio>
+<p class="note">Whisper entendió: sin diferencias</p></article><article><h2><span>B</span> VoxCPM2</h2><p class="cfg">Diseño de voz, texto completo de una vez</p>
+<audio controls preload="metadata" src="norm/voxcpm2_diseno.wav"></audio>
+<p class="note">Whisper entendió: abres -&gt; abre</p></article><article><h2><span>C</span> Qwen3-TTS 1.7B VoiceDesign</h2><p class="cfg">Diseño de voz, texto completo de una vez</p>
+<audio controls preload="metadata" src="norm/qwen17_diseno.wav"></audio>
+<p class="note">Whisper entendió: sin diferencias</p></article><article><h2><span>D</span> Qwen3-TTS 1.7B VoiceDesign</h2><p class="cfg">Diseño de voz frase por frase</p>
+<audio controls preload="metadata" src="norm/qwen17_diseno_frases.wav"></audio>
+<p class="note">Whisper entendió: entreabiertas -&gt; entre abiertas</p></article><article><h2><span>E</span> Chatterbox es-MX-LATAM</h2><p class="cfg">Ajuste narrador (exag. 0.65, cfg 0.35)</p>
+<audio controls preload="metadata" src="norm/chatterbox_latam_narrador.wav"></audio>
+<p class="note">Whisper entendió: abres -&gt; abre; este -&gt; eche</p></article><article><h2><span>F</span> Chatterbox es-MX-LATAM</h2><p class="cfg">Ajuste de tu servidor (0.5 / 0.5)</p>
+<audio controls preload="metadata" src="norm/chatterbox_latam_actual.wav"></audio>
+<p class="note">Whisper entendió: abres -&gt; abre; este -&gt; eche; empieza -&gt; empiece</p></article><article><h2><span>G</span> Chatterbox general (el actual)</h2><p class="cfg">Ajuste narrador (exag. 0.65, cfg 0.35)</p>
+<audio controls preload="metadata" src="norm/chatterbox_general_narrador.wav"></audio>
+<p class="note">Whisper entendió: sin diferencias</p></article><article><h2><span>H</span> Chatterbox general (el actual)</h2><p class="cfg">Ajuste de tu servidor (0.5 / 0.5)</p>
+<audio controls preload="metadata" src="norm/chatterbox_general_actual.wav"></audio>
+<p class="note">Whisper entendió:  -&gt; eh</p></article><article><h2><span>I</span> Kokoro-82M</h2><p class="cfg">Voz predefinida em_alex</p>
+<audio controls preload="metadata" src="norm/kokoro_em_alex.wav"></audio>
+<p class="note">Whisper entendió: sin diferencias</p></article></div><h2>Mediciones</h2><div class="scroll"><table><tr><th></th><th>Modelo</th><th>Audio</th><th>Generación</th><th>Tiempo por s de audio</th><th>VRAM pico</th><th>RAM</th><th>Muestreo</th><th>Dif. Whisper</th><th>Estabilidad de voz</th><th>Licencia</th><th>Descarga</th></tr><tr><td>A</td><td>VoxCPM2</td><td>33.28 s</td><td>174.5 s</td><td>5.24×</td><td>7.05 GB</td><td>1.19 GB</td><td>48 kHz</td><td>0</td><td>0.947</td><td>Apache-2.0</td><td>4.96 GB</td></tr><tr><td>B</td><td>VoxCPM2</td><td>27.84 s</td><td>134.5 s</td><td>4.83×</td><td>7.04 GB</td><td>0.84 GB</td><td>48 kHz</td><td>1</td><td>0.955</td><td>Apache-2.0</td><td>4.96 GB</td></tr><tr><td>C</td><td>Qwen3-TTS 1.7B VoiceDesign</td><td>37.28 s</td><td>133.0 s</td><td>3.57×</td><td>6.19 GB</td><td>1.39 GB</td><td>24 kHz</td><td>0</td><td>0.945</td><td>Apache-2.0</td><td>4.52 GB</td></tr><tr><td>D</td><td>Qwen3-TTS 1.7B VoiceDesign</td><td>37.6 s</td><td>163.2 s</td><td>4.34×</td><td>6.19 GB</td><td>1.39 GB</td><td>24 kHz</td><td>1</td><td>0.878</td><td>Apache-2.0</td><td>4.52 GB</td></tr><tr><td>E</td><td>Chatterbox es-MX-LATAM</td><td>35.36 s</td><td>61.9 s</td><td>1.75×</td><td>4.11 GB</td><td>2.22 GB</td><td>24 kHz</td><td>2</td><td>0.948</td><td>MIT</td><td>3.2 GB</td></tr><tr><td>F</td><td>Chatterbox es-MX-LATAM</td><td>34.2 s</td><td>60.9 s</td><td>1.78×</td><td>4.1 GB</td><td>2.2 GB</td><td>24 kHz</td><td>3</td><td>0.951</td><td>MIT</td><td>3.2 GB</td></tr><tr><td>G</td><td>Chatterbox general (el actual)</td><td>39.72 s</td><td>71.2 s</td><td>1.79×</td><td>4.29 GB</td><td>2.37 GB</td><td>24 kHz</td><td>0</td><td>0.952</td><td>MIT</td><td>ya instalado</td></tr><tr><td>H</td><td>Chatterbox general (el actual)</td><td>35.52 s</td><td>66.0 s</td><td>1.86×</td><td>4.14 GB</td><td>2.35 GB</td><td>24 kHz</td><td>1</td><td>0.933</td><td>MIT</td><td>ya instalado</td></tr><tr><td>I</td><td>Kokoro-82M</td><td>29.23 s</td><td>2.4 s</td><td>0.08×</td><td>0.88 GB</td><td>1.51 GB</td><td>24 kHz</td><td>0</td><td>0.969</td><td>Apache-2.0</td><td>0.31 GB</td></tr></table></div>
+<p><small>Estabilidad de voz: similitud mínima de seis tramos contra el promedio del audio (1 = idéntica). Es una medición aproximada. "Dif. Whisper" cuenta diferencias contra el guion, sin contar "veinte" transcrito como "20"; puede ser un error de Whisper y no del modelo. Ningún número sustituye tu oído.</small></p>
+</main></body></html>

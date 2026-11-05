@@ -1,0 +1,418 @@
+[
+ {
+  "id": "AiAnimPrototipo01",
+  "name": "AI Animation Studio - Prototype",
+  "active": false,
+  "nodes": [
+   {
+    "id": "webhook",
+    "name": "Nuevo proyecto",
+    "type": "n8n-nodes-base.webhook",
+    "typeVersion": 2,
+    "position": [
+     0,
+     200
+    ],
+    "webhookId": "ai-animation-prototipo",
+    "parameters": {
+     "httpMethod": "POST",
+     "path": "ai-animation-prototipo",
+     "responseMode": "responseNode",
+     "options": {}
+    }
+   },
+   {
+    "id": "historia",
+    "name": "Historia",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     240,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/story",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "personaje",
+    "name": "Personaje",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     480,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/assets",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "fondos",
+    "name": "Fondos",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     720,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/backgrounds",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "narracion",
+    "name": "Narracion",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     960,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/narration",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "animacion",
+    "name": "Animacion",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     1200,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/animation",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "render",
+    "name": "Render",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     1440,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/render",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "validar",
+    "name": "Validar",
+    "type": "n8n-nodes-base.httpRequest",
+    "typeVersion": 4.2,
+    "position": [
+     1680,
+     200
+    ],
+    "onError": "continueErrorOutput",
+    "parameters": {
+     "method": "POST",
+     "url": "http://127.0.0.1:8772/validate",
+     "sendBody": true,
+     "specifyBody": "json",
+     "jsonBody": "={{ JSON.stringify({ title: $('Nuevo proyecto').first().json.body?.title }) }}",
+     "options": {
+      "timeout": 2400000
+     }
+    }
+   },
+   {
+    "id": "aprobado",
+    "name": "Aprobado",
+    "type": "n8n-nodes-base.if",
+    "typeVersion": 2.2,
+    "position": [
+     1920,
+     200
+    ],
+    "parameters": {
+     "conditions": {
+      "options": {
+       "caseSensitive": true,
+       "leftValue": "",
+       "typeValidation": "loose",
+       "version": 2
+      },
+      "combinator": "and",
+      "conditions": [
+       {
+        "id": "qc",
+        "leftValue": "={{ $json.passed }}",
+        "rightValue": true,
+        "operator": {
+         "type": "boolean",
+         "operation": "true",
+         "singleValue": true
+        }
+       }
+      ]
+     },
+     "options": {}
+    }
+   },
+   {
+    "id": "ok",
+    "name": "Responder OK",
+    "type": "n8n-nodes-base.respondToWebhook",
+    "typeVersion": 1.1,
+    "position": [
+     2160,
+     100
+    ],
+    "parameters": {
+     "respondWith": "json",
+     "responseBody": "={{ JSON.stringify({ status: 'completed', output: $json.output, report: $json.report, checks: $json.checks }) }}",
+     "options": {}
+    }
+   },
+   {
+    "id": "qcfail",
+    "name": "Responder QC fallido",
+    "type": "n8n-nodes-base.respondToWebhook",
+    "typeVersion": 1.1,
+    "position": [
+     2160,
+     300
+    ],
+    "parameters": {
+     "respondWith": "json",
+     "responseBody": "={{ JSON.stringify({ status: 'qc_failed', report: $json.report, checks: $json.checks }) }}",
+     "options": {
+      "responseCode": 422
+     }
+    }
+   },
+   {
+    "id": "error",
+    "name": "Error",
+    "type": "n8n-nodes-base.respondToWebhook",
+    "typeVersion": 1.1,
+    "position": [
+     1920,
+     480
+    ],
+    "parameters": {
+     "respondWith": "json",
+     "responseBody": "={{ JSON.stringify({ status: 'error', node: $prevNode.name, detail: $json.error ?? $json }) }}",
+     "options": {
+      "responseCode": 500
+     }
+    }
+   }
+  ],
+  "connections": {
+   "Nuevo proyecto": {
+    "main": [
+     [
+      {
+       "node": "Historia",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Historia": {
+    "main": [
+     [
+      {
+       "node": "Personaje",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Personaje": {
+    "main": [
+     [
+      {
+       "node": "Fondos",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Fondos": {
+    "main": [
+     [
+      {
+       "node": "Narracion",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Narracion": {
+    "main": [
+     [
+      {
+       "node": "Animacion",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Animacion": {
+    "main": [
+     [
+      {
+       "node": "Render",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Render": {
+    "main": [
+     [
+      {
+       "node": "Validar",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Validar": {
+    "main": [
+     [
+      {
+       "node": "Aprobado",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Error",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   },
+   "Aprobado": {
+    "main": [
+     [
+      {
+       "node": "Responder OK",
+       "type": "main",
+       "index": 0
+      }
+     ],
+     [
+      {
+       "node": "Responder QC fallido",
+       "type": "main",
+       "index": 0
+      }
+     ]
+    ]
+   }
+  },
+  "settings": {
+   "executionOrder": "v1"
+  },
+  "pinData": {},
+  "versionId": "11111111-2222-4333-8444-555555555501"
+ }
+]

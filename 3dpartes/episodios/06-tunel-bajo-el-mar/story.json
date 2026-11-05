@@ -1,0 +1,38 @@
+{
+ "title": "How a tunnel under the sea is built",
+ "idioma_voz": "en",
+ "subtitulos": "palabra_en",
+ "scenes": [
+  {"id": "b1", "etiqueta": "", "lines": [
+   {"en": "You need to get cars across the sea. But giant ships pass through here every day, so a bridge is out."}]},
+  {"id": "b2", "etiqueta": "", "lines": [
+   {"en": "So you start digging a tunnel from the beach, straight under the water."},
+   {"en": "And the sea says: thank you very much, and pours right in."}]},
+  {"id": "b3", "etiqueta": "DREDGER", "lines": [
+   {"en": "So this time, you don't dig under the sea. You dig on the bottom of it. A dredger scoops out a long trench across the seabed.", "nombra": true}]},
+  {"id": "b4", "etiqueta": "GRAVEL BED", "lines": [
+   {"en": "Then you spread a perfectly flat bed of gravel along the bottom of the trench.", "nombra": true}]},
+  {"id": "b5", "etiqueta": "DRY DOCK", "lines": [
+   {"en": "Meanwhile, on the shore, you build a giant dry pit next to the sea.", "nombra": true}]},
+  {"id": "b6", "etiqueta": "TUNNEL ELEMENTS", "lines": [
+   {"en": "Inside it, you cast huge hollow boxes of concrete. These are the pieces of your tunnel.", "nombra": true}]},
+  {"id": "b7", "etiqueta": "BULKHEADS", "lines": [
+   {"en": "You seal both ends of every piece with steel walls, so not a single drop gets in.", "nombra": true}]},
+  {"id": "b8", "etiqueta": "", "lines": [
+   {"en": "Now you flood the dock. And the concrete box... floats! It's full of air, so it behaves like a ship."}]},
+  {"id": "b9", "etiqueta": "TUGBOATS", "lines": [
+   {"en": "Tugboats drag it out to sea, right above the trench.", "nombra": true}]},
+  {"id": "b10", "etiqueta": "BALLAST TANKS", "lines": [
+   {"en": "You fill tanks inside it with water, and it slowly sinks, down onto the gravel bed.", "nombra": true}]},
+  {"id": "b11", "etiqueta": "RUBBER GASKET", "lines": [
+   {"en": "Each piece has a fat rubber seal on its end. You pull it tight against the last piece.", "nombra": true}]},
+  {"id": "b12", "etiqueta": "", "lines": [
+   {"en": "Then you pump out the water trapped between them. And now the whole sea pushes on the other end, squeezing the joint shut. Free pressure!"}]},
+  {"id": "b13", "etiqueta": "", "lines": [
+   {"en": "Piece after piece, the tunnel crosses the whole strait."}]},
+  {"id": "b14", "etiqueta": "ROCK BACKFILL", "lines": [
+   {"en": "You bury it under tons of rock, so anchors and currents can never touch it.", "nombra": true}]},
+  {"id": "b15", "etiqueta": "", "lines": [
+   {"en": "Knock out the steel walls, pave the road, turn on the lights. Congratulations! You have built a tunnel under the sea."}]}
+ ]
+}

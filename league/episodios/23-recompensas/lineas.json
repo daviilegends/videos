@@ -1,0 +1,110 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué matar al que va ganando da tanto oro?",
+  "start": 0.25,
+  "end": 1.974
+ },
+ {
+  "id": "spoiler",
+  "text": "Porque el juego le pone precio a su cabeza.",
+  "start": 2.394,
+  "end": 4.042
+ },
+ {
+  "id": "base",
+  "text": "Matar a un campeón da trescientos de oro al principio, y hasta cuatrocientos veinte en nivel dieciocho.",
+  "start": 4.462,
+  "end": 8.563
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: matar a alguien en nivel tres da trescientos. Mucho más que cualquier súbdito.",
+  "start": 8.983,
+  "end": 12.957
+ },
+ {
+  "id": "primera",
+  "text": "La primera sangre de la partida da cien de oro extra.",
+  "start": 13.377,
+  "end": 15.592
+ },
+ {
+  "id": "sube",
+  "text": "Pero si un campeón va ganando mucho oro, su cabeza vale más: le crece una recompensa.",
+  "start": 16.012,
+  "end": 20.01
+ },
+ {
+  "id": "broma",
+  "text": "Como en las películas del viejo oeste: se busca, vivo o muerto.",
+  "start": 20.43,
+  "end": 23.364
+ },
+ {
+  "id": "baja",
+  "text": "Y al revés: si alguien muere una y otra vez, su recompensa va bajando.",
+  "start": 23.784,
+  "end": 27.031
+ },
+ {
+  "id": "minimo",
+  "text": "Hasta un mínimo de cincuenta de oro.",
+  "start": 27.451,
+  "end": 28.992
+ },
+ {
+  "id": "broma2",
+  "text": "O sea, si mueres mucho, tu cabeza vale casi nada. Auch.",
+  "start": 29.412,
+  "end": 32.286
+ },
+ {
+  "id": "asistencia",
+  "text": "Los que ayudan también ganan: se reparten la mitad de la recompensa.",
+  "start": 32.706,
+  "end": 35.498
+ },
+ {
+  "id": "tope",
+  "text": "Y hay un tope: una sola muerte no puede dar más que la base más setecientos.",
+  "start": 35.918,
+  "end": 39.273
+ },
+ {
+  "id": "sobra",
+  "text": "Si su recompensa era mayor, lo que sobra se guarda para la próxima vez que muera.",
+  "start": 39.693,
+  "end": 43.064
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: si vas perdiendo, cazar al que va ganando puede darle la vuelta a la partida.",
+  "start": 43.484,
+  "end": 47.624
+ },
+ {
+  "id": "tip2",
+  "text": "Y si tú vas ganando, cuidado: ahora eres el premio gordo.",
+  "start": 48.044,
+  "end": 50.725
+ },
+ {
+  "id": "tip3",
+  "text": "Juega más seguro y con visión: si mueres, le regalas todo ese oro al rival.",
+  "start": 51.145,
+  "end": 54.404
+ },
+ {
+  "id": "tip4",
+  "text": "Y si eres el que caza, ve en grupo: la mitad para los que ayudan también cuenta.",
+  "start": 54.824,
+  "end": 58.309
+ },
+ {
+  "id": "cierre",
+  "text": "Así funcionan las recompensas. Cada like sube la recompensa… por la cabeza de Teemo.",
+  "start": 58.729,
+  "end": 62.509
+ }
+]

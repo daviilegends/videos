@@ -1,0 +1,70 @@
+{
+ "chatterbox_general_actual": {
+  "wer": 0.025,
+  "diffs": [
+   "veinte -> 20",
+   " -> eh"
+  ],
+  "text": "Abres los ojos, y lo primero que escuchas es el silencio. Este hospital lleva más de 20 años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. ¡Eh! Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas, y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ },
+ "chatterbox_general_narrador": {
+  "wer": 0.0,
+  "diffs": [],
+  "text": "Abres los ojos, y lo primero que escuchas es el silencio. Este hospital lleva más de veinte años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ },
+ "chatterbox_latam_actual": {
+  "wer": 0.049,
+  "diffs": [
+   "abres -> abre",
+   "este -> eche",
+   "veinte -> 20",
+   "empieza -> empiece"
+  ],
+  "text": "Abre los ojos y lo primero que escuchas es el silencio. Eche hospital lleva más de 20 años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas, y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado empiece a abrirla."
+ },
+ "chatterbox_latam_narrador": {
+  "wer": 0.037,
+  "diffs": [
+   "abres -> abre",
+   "este -> eche",
+   "veinte -> 20"
+  ],
+  "text": "Abre los ojos y lo primero que escuchas es el silencio. Eche hospital lleva más de 20 años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas, y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ },
+ "kokoro_em_alex": {
+  "wer": 0.012,
+  "diffs": [
+   "veinte -> 20"
+  ],
+  "text": "Abres los ojos y lo primero que escuchas es el silencio. Este hospital lleva más de 20 años cerrado y, según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo desde el otro lado empieza a abrirla."
+ },
+ "qwen17_diseno": {
+  "wer": 0.012,
+  "diffs": [
+   "veinte -> 20"
+  ],
+  "text": "Abres los ojos y lo primero que escuchas es el silencio. Este hospital lleva más de 20 años cerrado y, según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ },
+ "qwen17_diseno_frases": {
+  "wer": 0.025,
+  "diffs": [
+   "entreabiertas -> entre abiertas"
+  ],
+  "text": "Abres los ojos y lo primero que escuchas es el silencio. Este hospital lleva más de veinte años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entre abiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ },
+ "voxcpm2_clon_frases": {
+  "wer": 0.012,
+  "diffs": [
+   "veinte -> 20"
+  ],
+  "text": "Abres los ojos y lo primero que escuchas es el silencio. Este hospital lleva más de 20 años cerrado y según los registros nadie debería estar aquí. Entonces, desde el fondo del pasillo alguien grita tu nombre. Caminas despacio con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ },
+ "voxcpm2_diseno": {
+  "wer": 0.025,
+  "diffs": [
+   "abres -> abre",
+   "veinte -> 20"
+  ],
+  "text": "Abre los ojos, y lo primero que escuchas es el silencio. Este hospital lleva más de 20 años cerrado, y según los registros, nadie debería estar aquí. Entonces, desde el fondo del pasillo, alguien grita tu nombre. Caminas despacio, con la linterna temblando en la mano, pasando junto a camillas volcadas, puertas entreabiertas y un olor a medicina vieja que no termina de irse. Y cuando por fin llegas a la última puerta, algo, desde el otro lado, empieza a abrirla."
+ }
+}

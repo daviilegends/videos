@@ -1,0 +1,854 @@
+[
+ {
+  "text": "Tienes",
+  "start": 0.74,
+  "end": 1.26,
+  "sentence": 0
+ },
+ {
+  "text": "un",
+  "start": 1.26,
+  "end": 1.36,
+  "sentence": 0
+ },
+ {
+  "text": "jardín",
+  "start": 1.36,
+  "end": 1.64,
+  "sentence": 0
+ },
+ {
+  "text": "vacío",
+  "start": 1.64,
+  "end": 2.0,
+  "sentence": 0
+ },
+ {
+  "text": "y",
+  "start": 2.0,
+  "end": 2.12,
+  "sentence": 0
+ },
+ {
+  "text": "quieres",
+  "start": 2.12,
+  "end": 2.32,
+  "sentence": 0
+ },
+ {
+  "text": "una",
+  "start": 2.32,
+  "end": 2.5,
+  "sentence": 0
+ },
+ {
+  "text": "alberca.",
+  "start": 2.5,
+  "end": 2.9,
+  "sentence": 0
+ },
+ {
+  "text": "Primero",
+  "start": 3.54,
+  "end": 4.04,
+  "sentence": 1
+ },
+ {
+  "text": "marcas",
+  "start": 4.04,
+  "end": 4.34,
+  "sentence": 1
+ },
+ {
+  "text": "la",
+  "start": 4.34,
+  "end": 4.44,
+  "sentence": 1
+ },
+ {
+  "text": "forma",
+  "start": 4.44,
+  "end": 4.64,
+  "sentence": 1
+ },
+ {
+  "text": "con",
+  "start": 4.64,
+  "end": 4.86,
+  "sentence": 1
+ },
+ {
+  "text": "estacas",
+  "start": 4.86,
+  "end": 5.14,
+  "sentence": 1
+ },
+ {
+  "text": "y",
+  "start": 5.14,
+  "end": 5.32,
+  "sentence": 1
+ },
+ {
+  "text": "cuerda.",
+  "start": 5.32,
+  "end": 5.64,
+  "sentence": 1
+ },
+ {
+  "text": "Eso",
+  "start": 6.12,
+  "end": 6.5,
+  "sentence": 2
+ },
+ {
+  "text": "se",
+  "start": 6.5,
+  "end": 6.62,
+  "sentence": 2
+ },
+ {
+  "text": "llama",
+  "start": 6.62,
+  "end": 6.8,
+  "sentence": 2
+ },
+ {
+  "text": "trazo.",
+  "start": 6.8,
+  "end": 7.2,
+  "sentence": 2
+ },
+ {
+  "text": "Luego",
+  "start": 8.2,
+  "end": 8.6,
+  "sentence": 3
+ },
+ {
+  "text": "Pero",
+  "start": 10.34,
+  "end": 10.6,
+  "sentence": 4
+ },
+ {
+  "text": "si",
+  "start": 10.6,
+  "end": 10.74,
+  "sentence": 4
+ },
+ {
+  "text": "paredes",
+  "start": 11.0,
+  "end": 11.38,
+  "sentence": 4
+ },
+ {
+  "text": "rectas,",
+  "start": 11.38,
+  "end": 11.76,
+  "sentence": 4
+ },
+ {
+  "text": "la",
+  "start": 12.28,
+  "end": 12.34,
+  "sentence": 4
+ },
+ {
+  "text": "tierra",
+  "start": 12.34,
+  "end": 12.54,
+  "sentence": 4
+ },
+ {
+  "text": "se",
+  "start": 12.54,
+  "end": 12.7,
+  "sentence": 4
+ },
+ {
+  "text": "derrumba.",
+  "start": 12.7,
+  "end": 13.06,
+  "sentence": 4
+ },
+ {
+  "text": "Entonces",
+  "start": 14.1,
+  "end": 14.54,
+  "sentence": 5
+ },
+ {
+  "text": "cortas",
+  "start": 14.54,
+  "end": 15.02,
+  "sentence": 5
+ },
+ {
+  "text": "las",
+  "start": 15.02,
+  "end": 15.12,
+  "sentence": 5
+ },
+ {
+  "text": "paredes",
+  "start": 15.12,
+  "end": 15.48,
+  "sentence": 5
+ },
+ {
+  "text": "un",
+  "start": 15.48,
+  "end": 15.6,
+  "sentence": 5
+ },
+ {
+  "text": "poco",
+  "start": 15.6,
+  "end": 15.74,
+  "sentence": 5
+ },
+ {
+  "text": "inclinadas,",
+  "start": 15.74,
+  "end": 16.26,
+  "sentence": 5
+ },
+ {
+  "text": "para",
+  "start": 16.26,
+  "end": 16.96,
+  "sentence": 5
+ },
+ {
+  "text": "que",
+  "start": 16.96,
+  "end": 17.06,
+  "sentence": 5
+ },
+ {
+  "text": "la",
+  "start": 17.06,
+  "end": 17.18,
+  "sentence": 5
+ },
+ {
+  "text": "tierra",
+  "start": 17.18,
+  "end": 17.36,
+  "sentence": 5
+ },
+ {
+  "text": "no",
+  "start": 17.36,
+  "end": 17.54,
+  "sentence": 5
+ },
+ {
+  "text": "se",
+  "start": 17.54,
+  "end": 17.68,
+  "sentence": 5
+ },
+ {
+  "text": "caiga.",
+  "start": 17.68,
+  "end": 17.92,
+  "sentence": 5
+ },
+ {
+  "text": "Eso",
+  "start": 18.46,
+  "end": 18.72,
+  "sentence": 6
+ },
+ {
+  "text": "es",
+  "start": 18.72,
+  "end": 18.84,
+  "sentence": 6
+ },
+ {
+  "text": "un",
+  "start": 18.84,
+  "end": 18.96,
+  "sentence": 6
+ },
+ {
+  "text": "talud.",
+  "start": 18.96,
+  "end": 19.26,
+  "sentence": 6
+ },
+ {
+  "text": "En",
+  "start": 20.28,
+  "end": 20.58,
+  "sentence": 7
+ },
+ {
+  "text": "el",
+  "start": 20.58,
+  "end": 20.68,
+  "sentence": 7
+ },
+ {
+  "text": "fondo",
+  "start": 20.68,
+  "end": 20.88,
+  "sentence": 7
+ },
+ {
+  "text": "pones",
+  "start": 20.88,
+  "end": 21.22,
+  "sentence": 7
+ },
+ {
+  "text": "grava",
+  "start": 21.22,
+  "end": 21.5,
+  "sentence": 7
+ },
+ {
+  "text": "y",
+  "start": 21.5,
+  "end": 21.62,
+  "sentence": 7
+ },
+ {
+  "text": "la",
+  "start": 21.62,
+  "end": 21.7,
+  "sentence": 7
+ },
+ {
+  "text": "compactas,",
+  "start": 21.7,
+  "end": 22.32,
+  "sentence": 7
+ },
+ {
+  "text": "para",
+  "start": 22.32,
+  "end": 22.84,
+  "sentence": 7
+ },
+ {
+  "text": "que",
+  "start": 22.84,
+  "end": 22.96,
+  "sentence": 7
+ },
+ {
+  "text": "el",
+  "start": 22.96,
+  "end": 23.1,
+  "sentence": 7
+ },
+ {
+  "text": "piso",
+  "start": 23.1,
+  "end": 23.32,
+  "sentence": 7
+ },
+ {
+  "text": "no",
+  "start": 23.32,
+  "end": 23.44,
+  "sentence": 7
+ },
+ {
+  "text": "se",
+  "start": 23.44,
+  "end": 23.58,
+  "sentence": 7
+ },
+ {
+  "text": "hunda.",
+  "start": 23.58,
+  "end": 23.8,
+  "sentence": 7
+ },
+ {
+  "text": "Pero",
+  "start": 24.6,
+  "end": 25.12,
+  "sentence": 8
+ },
+ {
+  "text": "el",
+  "start": 25.12,
+  "end": 25.24,
+  "sentence": 8
+ },
+ {
+  "text": "concreto",
+  "start": 25.24,
+  "end": 25.68,
+  "sentence": 8
+ },
+ {
+  "text": "solo",
+  "start": 25.68,
+  "end": 26.14,
+  "sentence": 8
+ },
+ {
+  "text": "se",
+  "start": 26.14,
+  "end": 26.32,
+  "sentence": 8
+ },
+ {
+  "text": "agrieta",
+  "start": 26.32,
+  "end": 26.6,
+  "sentence": 8
+ },
+ {
+  "text": "con",
+  "start": 26.6,
+  "end": 26.76,
+  "sentence": 8
+ },
+ {
+  "text": "el",
+  "start": 26.76,
+  "end": 26.86,
+  "sentence": 8
+ },
+ {
+  "text": "peso",
+  "start": 26.86,
+  "end": 27.06,
+  "sentence": 8
+ },
+ {
+  "text": "del",
+  "start": 27.06,
+  "end": 27.22,
+  "sentence": 8
+ },
+ {
+  "text": "agua.",
+  "start": 27.22,
+  "end": 27.44,
+  "sentence": 8
+ },
+ {
+  "text": "Entonces",
+  "start": 28.84,
+  "end": 29.32,
+  "sentence": 9
+ },
+ {
+  "text": "colocas",
+  "start": 29.32,
+  "end": 29.86,
+  "sentence": 9
+ },
+ {
+  "text": "una",
+  "start": 29.86,
+  "end": 30.0,
+  "sentence": 9
+ },
+ {
+  "text": "malla",
+  "start": 30.0,
+  "end": 30.2,
+  "sentence": 9
+ },
+ {
+  "text": "de",
+  "start": 30.2,
+  "end": 30.34,
+  "sentence": 9
+ },
+ {
+  "text": "varillas",
+  "start": 30.34,
+  "end": 30.58,
+  "sentence": 9
+ },
+ {
+  "text": "de",
+  "start": 30.58,
+  "end": 30.74,
+  "sentence": 9
+ },
+ {
+  "text": "acero.",
+  "start": 30.74,
+  "end": 30.98,
+  "sentence": 9
+ },
+ {
+  "text": "Eso",
+  "start": 31.66,
+  "end": 32.06,
+  "sentence": 10
+ },
+ {
+  "text": "se",
+  "start": 32.06,
+  "end": 32.2,
+  "sentence": 10
+ },
+ {
+  "text": "llama",
+  "start": 32.2,
+  "end": 32.46,
+  "sentence": 10
+ },
+ {
+  "text": "armado.",
+  "start": 32.98,
+  "end": 33.46,
+  "sentence": 10
+ },
+ {
+  "text": "Después",
+  "start": 34.76,
+  "end": 35.14,
+  "sentence": 11
+ },
+ {
+  "text": "lanzas",
+  "start": 35.14,
+  "end": 35.52,
+  "sentence": 11
+ },
+ {
+  "text": "el",
+  "start": 35.52,
+  "end": 35.62,
+  "sentence": 11
+ },
+ {
+  "text": "concreto",
+  "start": 35.62,
+  "end": 35.94,
+  "sentence": 11
+ },
+ {
+  "text": "sobre",
+  "start": 35.94,
+  "end": 36.18,
+  "sentence": 11
+ },
+ {
+  "text": "el",
+  "start": 36.18,
+  "end": 36.28,
+  "sentence": 11
+ },
+ {
+  "text": "armado,",
+  "start": 36.28,
+  "end": 36.56,
+  "sentence": 11
+ },
+ {
+  "text": "piso",
+  "start": 36.7,
+  "end": 36.8,
+  "sentence": 11
+ },
+ {
+  "text": "y",
+  "start": 36.8,
+  "end": 36.88,
+  "sentence": 11
+ },
+ {
+  "text": "paredes",
+  "start": 36.88,
+  "end": 37.24,
+  "sentence": 11
+ },
+ {
+  "text": "en",
+  "start": 37.24,
+  "end": 37.34,
+  "sentence": 11
+ },
+ {
+  "text": "una",
+  "start": 37.34,
+  "end": 37.46,
+  "sentence": 11
+ },
+ {
+  "text": "sola",
+  "start": 37.46,
+  "end": 37.62,
+  "sentence": 11
+ },
+ {
+  "text": "pieza.",
+  "start": 37.62,
+  "end": 38.02,
+  "sentence": 11
+ },
+ {
+  "text": "Pero",
+  "start": 38.76,
+  "end": 39.24,
+  "sentence": 12
+ },
+ {
+  "text": "el",
+  "start": 39.24,
+  "end": 39.36,
+  "sentence": 12
+ },
+ {
+  "text": "concreto",
+  "start": 39.36,
+  "end": 39.74,
+  "sentence": 12
+ },
+ {
+  "text": "deja",
+  "start": 39.74,
+  "end": 39.96,
+  "sentence": 12
+ },
+ {
+  "text": "pasar",
+  "start": 39.96,
+  "end": 40.2,
+  "sentence": 12
+ },
+ {
+  "text": "el",
+  "start": 40.2,
+  "end": 40.38,
+  "sentence": 12
+ },
+ {
+  "text": "agua",
+  "start": 40.38,
+  "end": 40.54,
+  "sentence": 12
+ },
+ {
+  "text": "poco",
+  "start": 40.54,
+  "end": 40.78,
+  "sentence": 12
+ },
+ {
+  "text": "a",
+  "start": 40.78,
+  "end": 40.9,
+  "sentence": 12
+ },
+ {
+  "text": "poco.",
+  "start": 40.9,
+  "end": 41.08,
+  "sentence": 12
+ },
+ {
+  "text": "Entonces",
+  "start": 42.28,
+  "end": 42.76,
+  "sentence": 13
+ },
+ {
+  "text": "lo",
+  "start": 42.76,
+  "end": 42.98,
+  "sentence": 13
+ },
+ {
+  "text": "cubres",
+  "start": 42.98,
+  "end": 43.26,
+  "sentence": 13
+ },
+ {
+  "text": "con",
+  "start": 43.26,
+  "end": 43.44,
+  "sentence": 13
+ },
+ {
+  "text": "un",
+  "start": 43.44,
+  "end": 43.56,
+  "sentence": 13
+ },
+ {
+  "text": "impermeabilizante.",
+  "start": 43.56,
+  "end": 44.32,
+  "sentence": 13
+ },
+ {
+  "text": "Instalas",
+  "start": 45.44,
+  "end": 45.92,
+  "sentence": 14
+ },
+ {
+  "text": "las",
+  "start": 45.92,
+  "end": 46.04,
+  "sentence": 14
+ },
+ {
+  "text": "tuberías.",
+  "start": 46.04,
+  "end": 46.48,
+  "sentence": 14
+ },
+ {
+  "text": "El",
+  "start": 47.44,
+  "end": 47.68,
+  "sentence": 15
+ },
+ {
+  "text": "agua",
+  "start": 47.68,
+  "end": 47.84,
+  "sentence": 15
+ },
+ {
+  "text": "sale",
+  "start": 47.84,
+  "end": 48.06,
+  "sentence": 15
+ },
+ {
+  "text": "por",
+  "start": 48.06,
+  "end": 48.22,
+  "sentence": 15
+ },
+ {
+  "text": "el",
+  "start": 48.22,
+  "end": 48.32,
+  "sentence": 15
+ },
+ {
+  "text": "fondo,",
+  "start": 48.32,
+  "end": 48.56,
+  "sentence": 15
+ },
+ {
+  "text": "pasa",
+  "start": 49.02,
+  "end": 49.2,
+  "sentence": 15
+ },
+ {
+  "text": "por",
+  "start": 49.2,
+  "end": 49.42,
+  "sentence": 15
+ },
+ {
+  "text": "un",
+  "start": 49.42,
+  "end": 49.52,
+  "sentence": 15
+ },
+ {
+  "text": "filtro",
+  "start": 49.52,
+  "end": 49.84,
+  "sentence": 15
+ },
+ {
+  "text": "y",
+  "start": 49.84,
+  "end": 50.2,
+  "sentence": 15
+ },
+ {
+  "text": "regresa",
+  "start": 50.2,
+  "end": 50.52,
+  "sentence": 15
+ },
+ {
+  "text": "limpia.",
+  "start": 50.52,
+  "end": 50.9,
+  "sentence": 15
+ },
+ {
+  "text": "Pones",
+  "start": 51.82,
+  "end": 52.16,
+  "sentence": 16
+ },
+ {
+  "text": "el",
+  "start": 52.16,
+  "end": 52.32,
+  "sentence": 16
+ },
+ {
+  "text": "azulejo",
+  "start": 52.32,
+  "end": 52.76,
+  "sentence": 16
+ },
+ {
+  "text": "y",
+  "start": 52.76,
+  "end": 53.12,
+  "sentence": 16
+ },
+ {
+  "text": "llenas",
+  "start": 53.12,
+  "end": 53.38,
+  "sentence": 16
+ },
+ {
+  "text": "de",
+  "start": 53.38,
+  "end": 53.5,
+  "sentence": 16
+ },
+ {
+  "text": "agua.",
+  "start": 53.5,
+  "end": 53.72,
+  "sentence": 16
+ },
+ {
+  "text": "Felicidades,",
+  "start": 54.54,
+  "end": 55.18,
+  "sentence": 17
+ },
+ {
+  "text": "construiste",
+  "start": 55.7,
+  "end": 56.22,
+  "sentence": 17
+ },
+ {
+  "text": "una",
+  "start": 56.22,
+  "end": 56.36,
+  "sentence": 17
+ },
+ {
+  "text": "alberca.",
+  "start": 56.36,
+  "end": 56.76,
+  "sentence": 17
+ }
+]

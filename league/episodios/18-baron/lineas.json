@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué matar al barón cambia toda la partida?",
+  "start": 0.25,
+  "end": 2.06
+ },
+ {
+  "id": "spoiler",
+  "text": "No es solo un monstruo grande. Es el botón de empujar de todo tu equipo.",
+  "start": 2.48,
+  "end": 5.609
+ },
+ {
+  "id": "cuando",
+  "text": "El barón Nashor aparece al minuto veinte, en el foso de arriba del río.",
+  "start": 6.029,
+  "end": 9.18
+ },
+ {
+  "id": "antes",
+  "text": "Antes aparecía al veinticinco, pero desde el parche veintiséis punto uno, sale antes.",
+  "start": 9.6,
+  "end": 13.194
+ },
+ {
+  "id": "reaparece",
+  "text": "Y cuando lo matan, vuelve seis minutos después.",
+  "start": 13.614,
+  "end": 15.742
+ },
+ {
+  "id": "premio",
+  "text": "Al matarlo, todos los aliados vivos reciben la Mano del Barón durante ciento ochenta segundos.",
+  "start": 16.162,
+  "end": 20.522
+ },
+ {
+  "id": "da",
+  "text": "Te da más daño de ataque y más poder de habilidad.",
+  "start": 20.942,
+  "end": 22.983
+ },
+ {
+  "id": "recall",
+  "text": "Tu recall se vuelve mucho más rápido.",
+  "start": 23.403,
+  "end": 25.008
+ },
+ {
+  "id": "subditos",
+  "text": "Y lo más fuerte: los súbditos cerca de ti se vuelven mucho más poderosos.",
+  "start": 25.428,
+  "end": 29.112
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: una oleada normal apenas le hace cosquillas a una torre. Con el barón, la derrite.",
+  "start": 29.532,
+  "end": 33.943
+ },
+ {
+  "id": "broma",
+  "text": "Tus súbditos pasan de ser niños de primaria a luchadores profesionales.",
+  "start": 34.363,
+  "end": 37.306
+ },
+ {
+  "id": "vivos",
+  "text": "Ojo: solo lo reciben los aliados que están vivos cuando cae el barón.",
+  "start": 37.726,
+  "end": 40.866
+ },
+ {
+  "id": "riesgo",
+  "text": "Y es peligroso: si el rival te encuentra a medio barón, te puede robar la pelea… y el barón.",
+  "start": 41.286,
+  "end": 45.263
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: antes de hacer barón, asegúrate de que el rival no pueda llegar. Por ejemplo, después de ganar una pelea.",
+  "start": 45.683,
+  "end": 51.19
+ },
+ {
+  "id": "tip2",
+  "text": "Y con el buff, empuja con tus súbditos: para eso está.",
+  "start": 51.61,
+  "end": 54.542
+ },
+ {
+  "id": "tip3",
+  "text": "Y si el rival hace el barón, no pelees en su línea: defiende con tus torres y súbditos.",
+  "start": 54.962,
+  "end": 58.807
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona el barón. Cada like es un barón… que Teemo no va a ver.",
+  "start": 59.227,
+  "end": 62.443
+ }
+]

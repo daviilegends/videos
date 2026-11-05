@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué el jungla siempre lleva Smite?",
+  "start": 0.25,
+  "end": 1.854
+ },
+ {
+  "id": "spoiler",
+  "text": "Porque sin él, limpiar la jungla es lentísimo, y los objetivos se le escapan.",
+  "start": 2.274,
+  "end": 5.779
+ },
+ {
+  "id": "que",
+  "text": "Smite hace seiscientos de daño verdadero a un monstruo o a un súbdito enemigo.",
+  "start": 6.199,
+  "end": 9.801
+ },
+ {
+  "id": "verdadero",
+  "text": "Daño verdadero significa que ignora la armadura y la resistencia mágica.",
+  "start": 10.221,
+  "end": 13.418
+ },
+ {
+  "id": "cargas",
+  "text": "Tiene dos cargas, y cada carga tarda noventa segundos en volver.",
+  "start": 13.838,
+  "end": 16.784
+ },
+ {
+  "id": "rango",
+  "text": "Su alcance es de quinientas unidades.",
+  "start": 17.204,
+  "end": 18.967
+ },
+ {
+  "id": "ejemplo",
+  "text": "Es casi como golpear desde un paso largo: tienes que estar cerca, pero no encima.",
+  "start": 19.387,
+  "end": 23.262
+ },
+ {
+  "id": "mascota",
+  "text": "Y crece con tu mascota de la jungla: al darle quince premios, se vuelve más fuerte y hace mil.",
+  "start": 23.682,
+  "end": 27.792
+ },
+ {
+  "id": "primal",
+  "text": "Con treinta y cinco premios, hace mil cuatrocientos, también a los monstruos que están cerca.",
+  "start": 28.212,
+  "end": 32.05
+ },
+ {
+  "id": "campeones",
+  "text": "Ya mejorado, también puede golpear a campeones: poquito daño, pero los ralentiza.",
+  "start": 32.471,
+  "end": 36.586
+ },
+ {
+  "id": "robo",
+  "text": "Su uso más famoso: robar objetivos. El dragón o el barón son de quien da el último golpe.",
+  "start": 37.006,
+  "end": 41.348
+ },
+ {
+  "id": "broma",
+  "text": "Es como el último taco de la charola: el que lo agarra primero, se lo come.",
+  "start": 41.768,
+  "end": 44.882
+ },
+ {
+  "id": "cuenta",
+  "text": "Consejo de la profe: cuenta el daño. Cuando al monstruo le quede menos vida que tu Smite… ahí.",
+  "start": 45.302,
+  "end": 49.55
+ },
+ {
+  "id": "nervios",
+  "text": "Y no lo gastes por nervios antes de tiempo, porque luego no lo tienes cuando importa.",
+  "start": 49.97,
+  "end": 53.34
+ },
+ {
+  "id": "rival",
+  "text": "Y si el jungla rival está cerca del dragón, cuida tu Smite como si fuera tu cartera.",
+  "start": 53.76,
+  "end": 57.319
+ },
+ {
+  "id": "ambos",
+  "text": "Y recuerda: el jungla rival también tiene el suyo. Es un duelo de reflejos.",
+  "start": 57.739,
+  "end": 61.49
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona Smite. Cada like es un Smite… directo a Teemo.",
+  "start": 61.91,
+  "end": 65.029
+ }
+]

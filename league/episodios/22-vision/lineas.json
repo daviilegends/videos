@@ -1,0 +1,110 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué los buenos jugadores siempre saben dónde estás?",
+  "start": 0.25,
+  "end": 2.418
+ },
+ {
+  "id": "spoiler",
+  "text": "No es magia ni hacks. Es visión.",
+  "start": 2.838,
+  "end": 4.716
+ },
+ {
+  "id": "respuesta",
+  "text": "Por los guardianes. Pequeños tótems que dan visión del mapa.",
+  "start": 5.136,
+  "end": 7.813
+ },
+ {
+  "id": "invisible",
+  "text": "El guardián normal se vuelve invisible para el rival poco después de ponerlo.",
+  "start": 8.233,
+  "end": 11.337
+ },
+ {
+  "id": "radio",
+  "text": "Da visión en un radio de novecientas unidades.",
+  "start": 11.757,
+  "end": 13.844
+ },
+ {
+  "id": "dura",
+  "text": "Dura entre noventa y ciento veinte segundos.",
+  "start": 14.264,
+  "end": 16.221
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: pones uno en el río, y durante un buen rato ves a quién cruza.",
+  "start": 16.641,
+  "end": 19.854
+ },
+ {
+  "id": "cargas",
+  "text": "El de tu accesorio tiene dos cargas, y puedes tener hasta tres de estos guardianes en el mapa.",
+  "start": 20.274,
+  "end": 24.12
+ },
+ {
+  "id": "control",
+  "text": "Luego está el guardián de control. Cuesta setenta y cinco de oro.",
+  "start": 24.54,
+  "end": 27.148
+ },
+ {
+  "id": "revela",
+  "text": "Ese sí se ve, pero revela y desactiva los guardianes enemigos que estén cerca.",
+  "start": 27.568,
+  "end": 30.864
+ },
+ {
+  "id": "uno",
+  "text": "Solo puedes tener uno puesto en el mapa a la vez.",
+  "start": 31.284,
+  "end": 33.302
+ },
+ {
+  "id": "limite",
+  "text": "Así que elige bien dónde pones tu guardián de control.",
+  "start": 33.722,
+  "end": 36.043
+ },
+ {
+  "id": "broma",
+  "text": "El guardián de control es como el vecino chismoso: no se esconde, pero todo lo ve.",
+  "start": 36.463,
+  "end": 40.275
+ },
+ {
+  "id": "donde",
+  "text": "¿Dónde ponerlos? En el río, en los arbustos, y en la entrada de la jungla.",
+  "start": 40.695,
+  "end": 44.283
+ },
+ {
+  "id": "jungla",
+  "text": "Y sobre todo, cerca de los objetivos: dragón, larvas, heraldo y barón.",
+  "start": 44.703,
+  "end": 48.656
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: si no ves al jungla rival en el mapa, asume que viene por ti.",
+  "start": 49.076,
+  "end": 52.922
+ },
+ {
+  "id": "tip2",
+  "text": "Y cuando el rival te pone un guardián, quítalo: es como apagarle la cámara.",
+  "start": 53.342,
+  "end": 56.685
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona la visión. Cada like es un guardián… en el arbusto favorito de Teemo.",
+  "start": 57.105,
+  "end": 60.88
+ }
+]

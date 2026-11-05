@@ -1,0 +1,284 @@
+[
+ {
+  "text": "Son las ocho de la noche.",
+  "start": 0.0,
+  "end": 2.18,
+  "sentence": 0
+ },
+ {
+  "text": "Entras al elevador,",
+  "start": 3.44,
+  "end": 4.68,
+  "sentence": 1
+ },
+ {
+  "text": "presionas el botón de tu piso y",
+  "start": 4.68,
+  "end": 6.3,
+  "sentence": 1
+ },
+ {
+  "text": "comienzas a subir.",
+  "start": 6.3,
+  "end": 7.04,
+  "sentence": 1
+ },
+ {
+  "text": "Pero de repente...",
+  "start": 8.18,
+  "end": 9.14,
+  "sentence": 2
+ },
+ {
+  "text": "Un golpe.",
+  "start": 9.96,
+  "end": 10.6,
+  "sentence": 3
+ },
+ {
+  "text": "Las luces parpadean y el elevador se detiene.",
+  "start": 11.62,
+  "end": 14.42,
+  "sentence": 4
+ },
+ {
+  "text": "Presionas los botones.",
+  "start": 16.12,
+  "end": 17.02,
+  "sentence": 5
+ },
+ {
+  "text": "Nada.",
+  "start": 18.06,
+  "end": 18.4,
+  "sentence": 6
+ },
+ {
+  "text": "Intentas abrir las puertas,",
+  "start": 19.78,
+  "end": 21.5,
+  "sentence": 7
+ },
+ {
+  "text": "pero no se mueven.",
+  "start": 21.5,
+  "end": 22.3,
+  "sentence": 7
+ },
+ {
+  "text": "Estás atrapado.",
+  "start": 23.58,
+  "end": 24.6,
+  "sentence": 8
+ },
+ {
+  "text": "Lo primero que debes saber es que un",
+  "start": 25.88,
+  "end": 28.34,
+  "sentence": 9
+ },
+ {
+  "text": "elevador detenido normalmente no",
+  "start": 28.34,
+  "end": 29.88,
+  "sentence": 9
+ },
+ {
+  "text": "significa que te estés quedando sin oxígeno.",
+  "start": 29.88,
+  "end": 32.12,
+  "sentence": 9
+ },
+ {
+  "text": "Los elevadores tienen sistemas de",
+  "start": 32.76,
+  "end": 34.7,
+  "sentence": 10
+ },
+ {
+  "text": "ventilación y no son cajas herméticas.",
+  "start": 34.7,
+  "end": 37.24,
+  "sentence": 10
+ },
+ {
+  "text": "Pero el verdadero problema comienza",
+  "start": 38.12,
+  "end": 40.04,
+  "sentence": 11
+ },
+ {
+  "text": "cuando pasan las horas.",
+  "start": 40.04,
+  "end": 40.96,
+  "sentence": 11
+ },
+ {
+  "text": "La ansiedad puede hacerte sentir que",
+  "start": 42.1,
+  "end": 43.8,
+  "sentence": 12
+ },
+ {
+  "text": "el espacio se vuelve cada vez más pequeño.",
+  "start": 43.8,
+  "end": 45.62,
+  "sentence": 12
+ },
+ {
+  "text": "El cansancio, la sed y la",
+  "start": 46.82,
+  "end": 49.24,
+  "sentence": 13
+ },
+ {
+  "text": "incertidumbre pueden aumentar tu angustia.",
+  "start": 49.24,
+  "end": 51.34,
+  "sentence": 13
+ },
+ {
+  "text": "Intentas llamar a alguien,",
+  "start": 52.48,
+  "end": 53.64,
+  "sentence": 14
+ },
+ {
+  "text": "pero no tienes señal.",
+  "start": 54.06,
+  "end": 55.04,
+  "sentence": 14
+ },
+ {
+  "text": "Golpeas la puerta y gritas esperando",
+  "start": 56.04,
+  "end": 57.8,
+  "sentence": 15
+ },
+ {
+  "text": "que alguien te escuche.",
+  "start": 57.8,
+  "end": 58.92,
+  "sentence": 15
+ },
+ {
+  "text": "Pasan dos horas.",
+  "start": 59.9,
+  "end": 60.88,
+  "sentence": 16
+ },
+ {
+  "text": "Después cinco.",
+  "start": 62.06,
+  "end": 62.78,
+  "sentence": 17
+ },
+ {
+  "text": "La temperatura y las condiciones del",
+  "start": 64.1,
+  "end": 65.82,
+  "sentence": 18
+ },
+ {
+  "text": "elevador dependerán de su",
+  "start": 65.82,
+  "end": 67.4,
+  "sentence": 18
+ },
+ {
+  "text": "ventilación, el edificio y el fallo",
+  "start": 67.4,
+  "end": 69.56,
+  "sentence": 18
+ },
+ {
+  "text": "que haya ocurrido.",
+  "start": 69.56,
+  "end": 70.22,
+  "sentence": 18
+ },
+ {
+  "text": "Y entonces llega la madrugada.",
+  "start": 70.86,
+  "end": 72.2,
+  "sentence": 19
+ },
+ {
+  "text": "Lo más difícil ya no es solamente",
+  "start": 73.02,
+  "end": 74.82,
+  "sentence": 20
+ },
+ {
+  "text": "estar encerrado.",
+  "start": 74.82,
+  "end": 75.72,
+  "sentence": 20
+ },
+ {
+  "text": "Es no saber cuándo alguien va a",
+  "start": 76.46,
+  "end": 77.92,
+  "sentence": 21
+ },
+ {
+  "text": "encontrarte.",
+  "start": 77.92,
+  "end": 78.3,
+  "sentence": 21
+ },
+ {
+  "text": "En una situación real,",
+  "start": 79.38,
+  "end": 80.94,
+  "sentence": 22
+ },
+ {
+  "text": "lo correcto es utilizar el botón de",
+  "start": 81.58,
+  "end": 83.28,
+  "sentence": 22
+ },
+ {
+  "text": "alarma o comunicación,",
+  "start": 83.28,
+  "end": 84.68,
+  "sentence": 22
+ },
+ {
+  "text": "pedir ayuda y esperar al personal de rescate.",
+  "start": 85.1,
+  "end": 87.34,
+  "sentence": 22
+ },
+ {
+  "text": "Nunca intentar salir por tu cuenta.",
+  "start": 88.14,
+  "end": 89.96,
+  "sentence": 23
+ },
+ {
+  "text": "Porque un elevador detenido puede",
+  "start": 91.0,
+  "end": 92.58,
+  "sentence": 24
+ },
+ {
+  "text": "ser aterrador, pero intentar escapar",
+  "start": 92.58,
+  "end": 95.0,
+  "sentence": 24
+ },
+ {
+  "text": "sin ayuda puede convertirlo en una",
+  "start": 95.0,
+  "end": 96.98,
+  "sentence": 24
+ },
+ {
+  "text": "emergencia mucho más peligrosa.",
+  "start": 96.98,
+  "end": 98.54,
+  "sentence": 24
+ }
+]

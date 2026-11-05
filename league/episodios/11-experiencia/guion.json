@@ -1,0 +1,73 @@
+{
+ "titulo": "Experiencia compartida: por qué el de la línea sola sube más rápido",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Experience_(champion) (1500 units; solo 100%; shared 130% total: 65% each for 2; 18 cap)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué el que va solo en su línea sube de nivel más rápido que el de abajo?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es suerte, ni que sea mejor jugador. Son matemáticas."
+  },
+  {
+   "id": "regla",
+   "text": "Cuando muere un súbdito, reparte experiencia a los campeones que están cerca."
+  },
+  {
+   "id": "rango",
+   "text": "Tienes que estar a menos de mil quinientas unidades de donde murió."
+  },
+  {
+   "id": "solo",
+   "text": "Si estás solo, te llevas el cien por ciento."
+  },
+  {
+   "id": "dos",
+   "text": "Si son dos, el total sube a ciento treinta por ciento, pero se reparte: sesenta y cinco para cada uno."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: un súbdito que te daría cien, a dos les da sesenta y cinco a cada uno."
+  },
+  {
+   "id": "mas",
+   "text": "Con tres, cuatro o cinco, el total se queda en ciento treinta, y cada vez toca menos."
+  },
+  {
+   "id": "broma",
+   "text": "Como la pizza: entre más amigos llegan, más pequeña tu rebanada."
+  },
+  {
+   "id": "por_eso",
+   "text": "Por eso, quien juega solo en su línea suele subir más rápido que la pareja de abajo."
+  },
+  {
+   "id": "lejos",
+   "text": "Y si te alejas más de mil quinientas unidades, no recibes nada."
+  },
+  {
+   "id": "broma2",
+   "text": "O sea: si te vas a pasear por la jungla, la experiencia se queda en la línea, llorando."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: si no estás peleando, quédate cerca de las oleadas para no perder experiencia."
+  },
+  {
+   "id": "tip2",
+   "text": "Y cuando tu equipo junta a varios en una línea, recuerda que todos suben más lento."
+  },
+  {
+   "id": "max",
+   "text": "El nivel máximo normal es dieciocho. Hay modos y misiones que lo suben, pero eso es otra clase."
+  },
+  {
+   "id": "cierre",
+   "text": "Ya sabes repartir la pizza. Cada like es experiencia… que Teemo no se va a llevar.",
+   "voz": "Ya sabes repartir la pizza. Cada like es experiencia… que Timo no se va a llevar."
+  }
+ ]
+}

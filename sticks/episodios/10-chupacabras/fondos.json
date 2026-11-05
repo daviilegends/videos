@@ -1,0 +1,36 @@
+{
+  "estilo": "Hand-drawn 2D cartoon background illustration, thick slightly irregular black ink outlines, flat colors with soft cel shading, graphic novel web cartoon style. Low-key night scene in rural Mexico in the 1990s, deep shadows, pools of warm lamp light and cold blue moonlight, muted desaturated palette of indigo, teal, ochre and brown, mysterious atmosphere, highly detailed environment, wide cinematic composition. Empty scene with no people, no animals, no characters, no text, no letters.",
+  "fondos": {
+    "granja": [
+      211,
+      "Small rural Mexican farm at night, frontal wide view. An adobe house with a tiled roof and one lit window on the left, a wooden corral fence crossing the middle of the frame, a tall nopal cactus, a big full moon in a cloudy sky, flat empty dirt ground completely clear in the foreground."
+    ],
+    "corral": [
+      223,
+      "Inside a wooden goat corral at dawn, frontal view. Weathered fence boards on the back, a wooden water trough on the right, scattered hay on the ground, a small feeding shed with a tin roof on the left, wide empty dirt ground in the middle and foreground, pale blue morning light."
+    ],
+    "plaza": [
+      353,
+      "Small Mexican town square at night, frontal wide view. A white gazebo kiosk in the middle distance, a colonial church facade with a bell tower behind it, warm street lamps, wrought iron benches on the sides, papel picado strings, wide empty paved ground completely clear in the foreground."
+    ],
+    "sala": [
+      347,
+      "Inside a humble windowless 1990s Mexican living room. Living room of a modest Mexican home in the 1990s at night, frontal view. A boxy old CRT television on a wooden stand against the back wall on the right, its screen dark gray and facing the viewer, a fabric couch on the left, a small table lamp, a calendar and a religious picture frame on the wall, tiled floor clear in the foreground, the television is the brightest object.",
+      "Hand-drawn 2D cartoon background illustration, thick slightly irregular black ink outlines, flat colors with soft cel shading, graphic novel web cartoon style. Closed interior room at night in rural Mexico in the 1990s, deep shadows, light only from indoor lamps, muted desaturated palette of indigo, teal, ochre and brown, mysterious atmosphere, highly detailed environment, wide cinematic composition. Empty scene with no people, no animals, no characters, no text, no letters."
+    ],
+    "tv": [
+      331,
+      "Inside a humble 1990s Mexican living room. Extreme frontal close-up of an old CRT television set sitting on a wooden cabinet against a plain painted wall with a faded floral wallpaper. A large blank dark gray glass screen fills most of the frame, a wood-grain plastic cabinet around it, round knobs and a speaker grille on the right side, a rabbit-ear antenna on top, a lace doily under it, warm light from a table lamp at the side.",
+      "Hand-drawn 2D cartoon background illustration, thick slightly irregular black ink outlines, flat colors with soft cel shading, graphic novel web cartoon style. Closed interior room at night in rural Mexico in the 1990s, deep shadows, light only from indoor lamps, muted desaturated palette of indigo, teal, ochre and brown, mysterious atmosphere, highly detailed environment, wide cinematic composition. Empty scene with no people, no animals, no characters, no text, no letters."
+    ],
+    "monte": [
+      277,
+      "Northern Mexican desert scrubland at night, frontal wide view. Dark mesquite bushes and tall saguaro-like cactus in the middle ground, a dense black thicket in the center, a barbed wire fence, a low hill, cold moonlight, a starry sky, sandy ground clear in the foreground."
+    ],
+    "laboratorio": [
+      337,
+      "Inside a small windowless veterinary laboratory. An empty stainless steel examination table in the center under a hanging lamp, a microscope and glass jars on a counter, shelves with books and bottles, a white tiled wall behind the table, a plain ceiling with fluorescent tubes, tiled floor clear in the foreground.",
+      "Hand-drawn 2D cartoon background illustration, thick slightly irregular black ink outlines, flat colors with soft cel shading, graphic novel web cartoon style. Closed interior room at night in rural Mexico in the 1990s, deep shadows, light only from indoor lamps, muted desaturated palette of indigo, teal, ochre and brown, mysterious atmosphere, highly detailed environment, wide cinematic composition. Empty scene with no people, no animals, no characters, no text, no letters."
+    ]
+  }
+}

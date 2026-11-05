@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Sabías que la torre del rival es una alcancía llena de oro?",
+  "start": 0.25,
+  "end": 2.635
+ },
+ {
+  "id": "spoiler",
+  "text": "No es broma. Hoy te enseño a sacarle el oro.",
+  "start": 3.054,
+  "end": 5.294
+ },
+ {
+  "id": "placas",
+  "text": "Las torres exteriores de cada línea tienen placas, y cada placa que rompes, paga.",
+  "start": 5.714,
+  "end": 9.364
+ },
+ {
+  "id": "cinco",
+  "text": "Cada torre exterior tiene cinco placas. Se ven en su barra de vida, como rebanadas.",
+  "start": 9.784,
+  "end": 13.614
+ },
+ {
+  "id": "oro",
+  "text": "Cada placa que destruyes da ciento veinte de oro.",
+  "start": 14.034,
+  "end": 16.275
+ },
+ {
+  "id": "local",
+  "text": "Pero ojo: es oro local. Solo se lo reparten los campeones aliados que están cerca.",
+  "start": 16.695,
+  "end": 20.629
+ },
+ {
+  "id": "remate",
+  "text": "Si tú diste el golpe o ayudaste en los últimos diez segundos, también te toca, aunque estés lejos.",
+  "start": 21.049,
+  "end": 25.37
+ },
+ {
+  "id": "cuenta",
+  "text": "Cinco placas por ciento veinte: seiscientos de oro, solo en placas.",
+  "start": 25.79,
+  "end": 29.219
+ },
+ {
+  "id": "cada_torre",
+  "text": "Y eso, por cada torre exterior del rival. Hay tres líneas, haz cuentas.",
+  "start": 29.639,
+  "end": 33.262
+ },
+ {
+  "id": "broma",
+  "text": "Es como encontrar billetes en la chamarra del invierno pasado.",
+  "start": 33.682,
+  "end": 36.156
+ },
+ {
+  "id": "bulwark",
+  "text": "Y hay un detalle: mientras pierde placas, la torre se vuelve más resistente.",
+  "start": 36.576,
+  "end": 39.86
+ },
+ {
+  "id": "bulwark2",
+  "text": "Entre más rebanadas le quitas, más trabajo cuesta la siguiente.",
+  "start": 40.28,
+  "end": 42.969
+ },
+ {
+  "id": "cuando",
+  "text": "¿Cuándo atacar placas? Cuando tu rival no está en la línea: regresó a base, o murió.",
+  "start": 43.389,
+  "end": 47.598
+ },
+ {
+  "id": "oleada",
+  "text": "Y siempre con tu oleada adelante, porque ya sabes que la torre ataca primero a los súbditos.",
+  "start": 48.018,
+  "end": 51.815
+ },
+ {
+  "id": "riesgo",
+  "text": "Si vas solo, la torre te pega a ti, y esa alcancía se convierte en tu tumba.",
+  "start": 52.235,
+  "end": 55.501
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: unas cuantas placas a tiempo valen más que una pelea perdida.",
+  "start": 55.921,
+  "end": 59.599
+ },
+ {
+  "id": "cierre",
+  "text": "Así funcionan las placas. Cada like es una placa menos en la torre de Teemo.",
+  "start": 60.019,
+  "end": 63.242
+ }
+]

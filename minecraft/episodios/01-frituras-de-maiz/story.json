@@ -1,0 +1,40 @@
+{
+ "title": "¿Cómo se hacen las frituras de queso?",
+ "idioma_voz": "es",
+ "subtitulos": "palabra_en",
+ "scenes": [
+  {"id": "b1", "etiqueta": "", "lines": [
+   {"es": "Quieres hacer una fritura crujiente, ligerita y llena de queso. Pero el maíz es duro como una piedra."}]},
+  {"id": "b2", "etiqueta": "SÉMOLA", "lines": [
+   {"es": "Primero lo mueles entre rodillos de acero hasta dejarlo como arena fina.", "nombra": true},
+   {"es": "Eso es la sémola de maíz."}]},
+  {"id": "b3", "etiqueta": "", "lines": [
+   {"es": "Le agregas un poco de agua y lo mezclas hasta tener una masa húmeda, pero no aguada."}]},
+  {"id": "b4", "etiqueta": "", "lines": [
+   {"es": "Pero si la horneas así, te sale una galleta dura y plana. Nada crujiente."}]},
+  {"id": "b5", "etiqueta": "EXTRUSOR", "lines": [
+   {"es": "Entonces la metes a una máquina con un tornillo gigante que gira dentro de un tubo."},
+   {"es": "El tornillo la aprieta tanto que la fricción la calienta a más de cien grados.", "nombra": true},
+   {"es": "Eso es el extrusor."}]},
+  {"id": "b6", "etiqueta": "", "lines": [
+   {"es": "Ahí adentro, el agua quiere hervir, pero la presión es tan alta que no la deja convertirse en vapor."}]},
+  {"id": "b7", "etiqueta": "EXPANSIÓN", "lines": [
+   {"es": "Al final del tubo hay un agujerito. Cuando la masa sale, la presión desaparece de golpe."},
+   {"es": "El agua se vuelve vapor en un instante, y la masa se infla como palomita.", "nombra": true}]},
+  {"id": "b8", "etiqueta": "CUCHILLA ROTATORIA", "lines": [
+   {"es": "Pegada al agujero gira una cuchilla que la corta en pedacitos, miles por minuto.", "nombra": true}]},
+  {"id": "b9", "etiqueta": "HORNO DE SECADO", "lines": [
+   {"es": "Pero todavía están húmedas y se ponen chiclosas. Entonces pasan por un horno larguísimo que les saca el agua, hasta que truenan.", "nombra": true}]},
+  {"id": "b10", "etiqueta": "", "lines": [
+   {"es": "Ahora el sabor. Pero si les echas polvo de queso así nada más, se resbala y se cae."}]},
+  {"id": "b11", "etiqueta": "TAMBOR SAZONADOR", "lines": [
+   {"es": "Entonces las metes a un tambor que da vueltas. Primero las rocían con aceite, y luego les cae una lluvia de queso que ahora sí se queda pegada.", "nombra": true}]},
+  {"id": "b12", "etiqueta": "BÁSCULA MULTICABEZAL", "lines": [
+   {"es": "Una báscula con muchas cubetas pesa porciones al mismo tiempo, y junta justo las que suman lo de una bolsa.", "nombra": true}]},
+  {"id": "b13", "etiqueta": "NITRÓGENO", "lines": [
+   {"es": "Pero con aire normal, el aceite se echa a perder y las frituras se aplastan."},
+   {"es": "Entonces llenan la bolsa de nitrógeno. Cuida el sabor y funciona como colchón.", "nombra": true}]},
+  {"id": "b14", "etiqueta": "", "lines": [
+   {"es": "Y por eso tus dedos quedan naranjas. Felicidades, hiciste una fritura de queso."}]}
+ ]
+}

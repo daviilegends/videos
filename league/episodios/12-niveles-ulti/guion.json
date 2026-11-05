@@ -1,0 +1,77 @@
+{
+ "titulo": "Nivel 6: por qué todo cambia",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Ultimate_ability (levels 6, 11, 16; exceptions: Elise, Karma, Nidalee, Jayce)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué todos se emocionan cuando llegan a nivel seis?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Porque a partir de ahí, la línea se juega distinto."
+  },
+  {
+   "id": "regla",
+   "text": "La habilidad definitiva, la R, solo se puede aprender en los niveles seis, once y dieciséis."
+  },
+  {
+   "id": "seis",
+   "text": "En el seis la desbloqueas, y de repente tu campeón tiene un truco nuevo."
+  },
+  {
+   "id": "salto",
+   "text": "Es el primer gran salto de poder de la partida, y todos lo sienten."
+  },
+  {
+   "id": "once",
+   "text": "En el once sube de rango. Normalmente pega más fuerte o vuelve más rápido."
+  },
+  {
+   "id": "dieciseis",
+   "text": "Y en el dieciséis llega a su máximo."
+  },
+  {
+   "id": "rangos",
+   "text": "Seis, once y dieciséis: tres rangos, y no hay más."
+  },
+  {
+   "id": "excepciones",
+   "text": "Hay excepciones: Elise, Karma y Nidalee tienen su R desde el nivel uno."
+  },
+  {
+   "id": "jayce",
+   "text": "Y Jayce también la tiene desde el inicio, pero con un solo rango."
+  },
+  {
+   "id": "broma",
+   "text": "Nivel seis es como el viernes en la tarde: todo el mundo se siente invencible."
+  },
+  {
+   "id": "rival",
+   "text": "Por eso, cuando el rival llega a seis, cuidado: puede tener una pelea completamente distinta."
+  },
+  {
+   "id": "primero",
+   "text": "Y si tú llegas primero, esa ventaja dura poco. Aprovéchala antes de que él también suba."
+  },
+  {
+   "id": "barra",
+   "text": "Fíjate en el nivel del rival: aparece junto a su barra de vida."
+  },
+  {
+   "id": "cuenta",
+   "text": "Y cuenta: si está a punto de subir, mejor espera a que tú también estés listo."
+  },
+  {
+   "id": "broma2",
+   "text": "Pelear contra alguien que acaba de llegar a seis, sin tener el tuyo, es llevar una cuchara a una pelea de espadas."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funcionan los niveles. Cada like es un nivel… que Teemo no va a subir.",
+   "voz": "Así funcionan los niveles. Cada like es un nivel… que Timo no va a subir."
+  }
+ ]
+}

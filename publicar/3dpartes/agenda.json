@@ -1,0 +1,26 @@
+[
+ {
+  "slot": "2026-11-03T19:30:00-06:00",
+  "slug": "01-carretera"
+ },
+ {
+  "slot": "2026-11-04T19:30:00-06:00",
+  "slug": "02-relleno-sanitario"
+ },
+ {
+  "slot": "2026-11-05T19:30:00-06:00",
+  "slug": "03-pista-de-hielo"
+ },
+ {
+  "slot": "2026-11-06T19:30:00-06:00",
+  "slug": "04-muro-de-contencion"
+ },
+ {
+  "slot": "2026-11-07T19:30:00-06:00",
+  "slug": "05-edificio-antisismico"
+ },
+ {
+  "slot": "2026-11-08T19:30:00-06:00",
+  "slug": "06-tunel-bajo-el-mar"
+ }
+]

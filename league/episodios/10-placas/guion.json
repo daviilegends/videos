@@ -1,0 +1,80 @@
+{
+ "titulo": "Las placas de la torre: oro escondido",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Turret (5 plates, 120 local gold, last-hit/assist within 10 s, Bulwark)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Sabías que la torre del rival es una alcancía llena de oro?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es broma. Hoy te enseño a sacarle el oro."
+  },
+  {
+   "id": "placas",
+   "text": "Las torres exteriores de cada línea tienen placas, y cada placa que rompes, paga."
+  },
+  {
+   "id": "cinco",
+   "text": "Cada torre exterior tiene cinco placas. Se ven en su barra de vida, como rebanadas."
+  },
+  {
+   "id": "oro",
+   "text": "Cada placa que destruyes da ciento veinte de oro."
+  },
+  {
+   "id": "local",
+   "text": "Pero ojo: es oro local. Solo se lo reparten los campeones aliados que están cerca."
+  },
+  {
+   "id": "remate",
+   "text": "Si tú diste el golpe o ayudaste en los últimos diez segundos, también te toca, aunque estés lejos."
+  },
+  {
+   "id": "cuenta",
+   "text": "Cinco placas por ciento veinte: seiscientos de oro, solo en placas."
+  },
+  {
+   "id": "cada_torre",
+   "text": "Y eso, por cada torre exterior del rival. Hay tres líneas, haz cuentas."
+  },
+  {
+   "id": "broma",
+   "text": "Es como encontrar billetes en la chamarra del invierno pasado."
+  },
+  {
+   "id": "bulwark",
+   "text": "Y hay un detalle: mientras pierde placas, la torre se vuelve más resistente."
+  },
+  {
+   "id": "bulwark2",
+   "text": "Entre más rebanadas le quitas, más trabajo cuesta la siguiente."
+  },
+  {
+   "id": "cuando",
+   "text": "¿Cuándo atacar placas? Cuando tu rival no está en la línea: regresó a base, o murió."
+  },
+  {
+   "id": "oleada",
+   "text": "Y siempre con tu oleada adelante, porque ya sabes que la torre ataca primero a los súbditos."
+  },
+  {
+   "id": "riesgo",
+   "text": "Si vas solo, la torre te pega a ti, y esa alcancía se convierte en tu tumba."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: unas cuantas placas a tiempo valen más que una pelea perdida."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funcionan las placas. Cada like es una placa menos en la torre de Teemo.",
+   "voz": "Así funcionan las placas. Cada like es una placa menos en la torre de Timo."
+  }
+ ],
+ "fondo": {
+  "zoom": 0.85
+ }
+}

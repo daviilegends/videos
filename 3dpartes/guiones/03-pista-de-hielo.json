@@ -1,0 +1,113 @@
+{
+ "title": "Así se construye una pista de hielo",
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Quieres patinar sobre hielo, pero vives donde nunca hace frío."
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Primero compactas el terreno y tiendes una capa de arena."
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero el frío de la pista congelaría la tierra de abajo, y la tierra congelada se infla y rompe el piso."
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "etiqueta": "CALEFACCIÓN DEL SUBSUELO",
+   "text": "Entonces pones tubos con líquido tibio debajo de todo. Eso es la calefacción del subsuelo."
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "etiqueta": "AISLANTE TÉRMICO",
+   "text": "Encima colocas placas de aislante, para que el frío no baje."
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "etiqueta": "SALMUERA",
+   "text": "Luego tiendes cientos de tubos, muy juntos, que llevarán un líquido helado. Ese líquido se llama salmuera."
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "etiqueta": "LOSA DE REFRIGERACIÓN",
+   "text": "Cubres los tubos con concreto. Esa es la losa de refrigeración."
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "etiqueta": "ENFRIADOR",
+   "text": "Una máquina enfría la salmuera bajo cero y la hace circular. Saca el calor del piso como un refrigerador gigante. Eso es el enfriador."
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Rocías agua en capas muy delgadas, una tras otra, para que el hielo quede parejo."
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero el hielo es transparente y no se verían las líneas."
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Entonces pintas el hielo de blanco, pintas las líneas y las sellas con más agua, hasta juntar unos tres centímetros."
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero los discos de hockey saldrían volando hacia el público."
+  },
+  {
+   "id": "b13",
+   "bg": "-",
+   "etiqueta": "VALLAS",
+   "text": "Entonces pones vallas alrededor, con vidrio encima. Esas son las vallas."
+  },
+  {
+   "id": "b14",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero la humedad del aire forma niebla y gotas sobre el hielo."
+  },
+  {
+   "id": "b15",
+   "bg": "-",
+   "etiqueta": "DESHUMIDIFICADOR",
+   "text": "Entonces instalas máquinas que secan el aire. Esos son los deshumidificadores."
+  },
+  {
+   "id": "b16",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero los patines rayan el hielo en cada sesión."
+  },
+  {
+   "id": "b17",
+   "bg": "-",
+   "etiqueta": "PULIDORA DE HIELO",
+   "text": "Entonces pasa una máquina que rasura la superficie y deja una capa de agua tibia que se congela lisa. Esa es la pulidora de hielo."
+  },
+  {
+   "id": "b18",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Felicidades, construiste una pista de hielo."
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Te escondiste en el arbusto, y aun así te encontraron? Hoy te digo por qué.",
+  "start": 0.25,
+  "end": 3.507
+ },
+ {
+  "id": "spoiler",
+  "text": "Spoiler: no es magia. Son reglas, y hoy te las enseño.",
+  "start": 3.927,
+  "end": 7.124
+ },
+ {
+  "id": "regla",
+  "text": "Dentro de un arbusto, los enemigos que están afuera no te ven.",
+  "start": 7.544,
+  "end": 10.4
+ },
+ {
+  "id": "broma",
+  "text": "Ahí te sientes ninja de película. Pero cuidado.",
+  "start": 10.82,
+  "end": 12.858
+ },
+ {
+  "id": "ward",
+  "text": "Si alguien pone visión dentro del arbusto, por ejemplo un guardián, te ven completito.",
+  "start": 13.278,
+  "end": 16.959
+ },
+ {
+  "id": "vision",
+  "text": "Cualquier tipo de visión sobre el arbusto te revela.",
+  "start": 17.379,
+  "end": 19.387
+ },
+ {
+  "id": "ejemplos",
+  "text": "Un guardián, un aliado parado adentro, o una habilidad que da visión: todo cuenta.",
+  "start": 19.807,
+  "end": 23.744
+ },
+ {
+  "id": "ataque",
+  "text": "Y aquí está el error clásico: si haces un ataque o una habilidad con objetivo desde el arbusto,",
+  "start": 24.164,
+  "end": 28.152
+ },
+ {
+  "id": "revela",
+  "text": "te revelas durante dos segundos, en un radio de trescientas unidades a tu alrededor.",
+  "start": 28.572,
+  "end": 32.153
+ },
+ {
+  "id": "broma2",
+  "text": "O sea, tú solito prendes la luz del escondite.",
+  "start": 32.573,
+  "end": 34.489
+ },
+ {
+  "id": "ejemplo",
+  "text": "Imagina: el rival pasa, tú lo golpeas desde el arbusto… y de repente brillas como árbol de Navidad.",
+  "start": 34.909,
+  "end": 39.536
+ },
+ {
+  "id": "dos",
+  "text": "Dos segundos parecen nada, pero alcanzan para que te vean y te persigan.",
+  "start": 39.956,
+  "end": 42.931
+ },
+ {
+  "id": "tip1",
+  "text": "Consejo de la profe: si vas a emboscar, entra al arbusto antes de que te vean.",
+  "start": 43.351,
+  "end": 46.65
+ },
+ {
+  "id": "tip2",
+  "text": "Y cuando ataques, que sea para rematar, no para avisar.",
+  "start": 47.07,
+  "end": 49.836
+ },
+ {
+  "id": "tip3",
+  "text": "Y si pasas junto a un arbusto sin visión… mejor sospecha.",
+  "start": 50.256,
+  "end": 52.817
+ },
+ {
+  "id": "tip4",
+  "text": "Y tú también puedes usar visión para revisar un arbusto antes de entrar.",
+  "start": 53.237,
+  "end": 56.253
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona el arbusto. Cada like es un guardián en el arbusto donde se esconde Teemo.",
+  "start": 56.673,
+  "end": 60.297
+ }
+]

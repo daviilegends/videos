@@ -1,0 +1,19 @@
+archivos 805, 21.7 GB, sin etiqueta 458
+pisadas: 10 | 015_Foley_Footsteps_Asphalt_Boot_Walk_Fast_Run_Jog_Close.wav ; 169_Foley_Footsteps_Grass_Sneaker_Walk_Fast_Run_Jog_Close.wav ; 237_Foley_Footsteps_Metal_Boot_Walk_Normal_Close.wav
+puertas: 26 | soviet_elevator_door_close_001.wav ; DOOR_Closet_rattle_squeak_open_close.wav ; Door_Basement_04_02.wav
+cerraduras: 10 | Lock01_outdoor_opening_lite03.wav ; Lock02_scratch02.wav ; Lock03_outdoor_opening_solid03.wav
+llaves: 4 | Lock01_outdoor_opening_lite03.wav ; Lock02_scratch02.wav ; Lock03_outdoor_opening_solid03.wav
+vidrio: 20 | Peas Into Glass Cup-019.wav ; SH101_Glass_Break_Pane_702T_Fienup_004.wav ; Crystal, Glass, Huge, Tone, Rubbing, Musical_04.wav
+bocinas_carro: 3 | CSS 05 City_36_Street, Light, Ambience, Cars, Horn_09.wav ; SON_Quad_City_Berlin_002 - Large Main Road Junction, Cars And Heavy Trucks 8881eb21.wav ; BERLIN, PLATTFORM U-BAHN STATION KOTTBUSSER TOR, TRAIN STOPS MOVES ON, SIGN 3c92d07a.wav
+carros: 58 | HD Sportster Iron 883, Start, Accelerate on the spot, shut down, Beside vehicle.wav ; HD Sportster Iron 883, Start, long idle, shut down, Beside vehicle.wav ; City street large light voices and traffic rumble_02120215_120215_02.wav
+golpes: 44 | Bluezone-BC0226-hit-impact-004.wav ; Bluezone-BC0226-whoosh-impact-005.wav ; Bluezone-BC0226-whoosh-impact-012.wav
+crujidos: 30 | metal, heavy creaks, shipwreck, ship scraping its broadside 02.wav ; DOOR_Closet_rattle_squeak_open_close.wav ; DA 03 Dock Ambience_09_ Boat, Berth, Creak, Port_T09.wav
+metal: 61 | dry hard metal grind 09.wav ; dry hard sheet metal movement 05.wav ; metal, heavy creaks, shipwreck, ship scraping its broadside 02.wav
+ambiente_interior: 10 | ambient bunker big space inside small room moving noises stereo M10.wav ; 09_Barcelona_RoomTone_Fan_02.wav ; Hvac,Cooling unit,Refrigerator,Int,Drone,Rattle,Roomtone,Loop.wav
+electricidad_zumbido: 20 | 3006_Movement_Paper-Releae_03.wav ; E501_Head-Movement_Initiate_Malfunction_03.wav ; Levers_Sliders_233.wav
+corazon: 0 | 
+lluvia_viento: 48 | rain_umbrella_001_wide.wav ; QUIET STREET Night fast chirp crickets, distant activities, slight wind, ST.wav ; QUIET STREET Rain near sewer, ST.wav
+agua: 33 | FOUNTAIN Large, Splasher Spray at Playground, 3m Far.wav ; FOUNTAIN Small, Splashes of Multiple Squirts on the Ground, Close.wav ; W 04 Water_05_Cave, Ambience, Water Drops, River_T05.wav
+construccion: 16 | Heavy_MetalPipe_Scraping_on_Concrete_01_03.wav ; excavator MF 860 engine onboard start up idle gas pressing short accelerati 164953f1.wav ; excavator MF 860 exterior engine passby medium speed constant rpm stereo M10.wav
+suspenso_musical: 28 | Metal_Hit_Crash_090.wav ; Metal_Hit_Crash_199.wav ; Metal_Jolt_Rattle_Scrape_52.wav
+interfaz_transiciones: 26 | Bluezone-BC0226-whoosh-impact-005.wav ; Bluezone-BC0226-whoosh-impact-012.wav ; Bluezone-BC0214-explosion-whooshe-003.wav

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué el que va solo en su línea sube de nivel más rápido que el de abajo?",
+  "start": 0.25,
+  "end": 3.037
+ },
+ {
+  "id": "spoiler",
+  "text": "No es suerte, ni que sea mejor jugador. Son matemáticas.",
+  "start": 3.457,
+  "end": 6.267
+ },
+ {
+  "id": "regla",
+  "text": "Cuando muere un súbdito, reparte experiencia a los campeones que están cerca.",
+  "start": 6.687,
+  "end": 9.806
+ },
+ {
+  "id": "rango",
+  "text": "Tienes que estar a menos de mil quinientas unidades de donde murió.",
+  "start": 10.226,
+  "end": 12.685
+ },
+ {
+  "id": "solo",
+  "text": "Si estás solo, te llevas el cien por ciento.",
+  "start": 13.105,
+  "end": 15.037
+ },
+ {
+  "id": "dos",
+  "text": "Si son dos, el total sube a ciento treinta por ciento, pero se reparte: sesenta y cinco para cada uno.",
+  "start": 15.457,
+  "end": 20.15
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: un súbdito que te daría cien, a dos les da sesenta y cinco a cada uno.",
+  "start": 20.57,
+  "end": 24.457
+ },
+ {
+  "id": "mas",
+  "text": "Con tres, cuatro o cinco, el total se queda en ciento treinta, y cada vez toca menos.",
+  "start": 24.877,
+  "end": 28.719
+ },
+ {
+  "id": "broma",
+  "text": "Como la pizza: entre más amigos llegan, más pequeña tu rebanada.",
+  "start": 29.139,
+  "end": 32.269
+ },
+ {
+  "id": "por_eso",
+  "text": "Por eso, quien juega solo en su línea suele subir más rápido que la pareja de abajo.",
+  "start": 32.689,
+  "end": 36.08
+ },
+ {
+  "id": "lejos",
+  "text": "Y si te alejas más de mil quinientas unidades, no recibes nada.",
+  "start": 36.5,
+  "end": 39.381
+ },
+ {
+  "id": "broma2",
+  "text": "O sea: si te vas a pasear por la jungla, la experiencia se queda en la línea, llorando.",
+  "start": 39.801,
+  "end": 43.534
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: si no estás peleando, quédate cerca de las oleadas para no perder experiencia.",
+  "start": 43.954,
+  "end": 48.289
+ },
+ {
+  "id": "tip2",
+  "text": "Y cuando tu equipo junta a varios en una línea, recuerda que todos suben más lento.",
+  "start": 48.709,
+  "end": 52.185
+ },
+ {
+  "id": "max",
+  "text": "El nivel máximo normal es dieciocho. Hay modos y misiones que lo suben, pero eso es otra clase.",
+  "start": 52.605,
+  "end": 56.955
+ },
+ {
+  "id": "cierre",
+  "text": "Ya sabes repartir la pizza. Cada like es experiencia… que Teemo no se va a llevar.",
+  "start": 57.375,
+  "end": 61.145
+ }
+]

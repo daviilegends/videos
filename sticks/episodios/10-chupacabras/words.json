@@ -1,0 +1,1370 @@
+[
+ {
+  "text": "Imagina",
+  "start": 0.98,
+  "end": 1.56,
+  "sentence": 0
+ },
+ {
+  "text": "salir",
+  "start": 1.56,
+  "end": 1.8,
+  "sentence": 0
+ },
+ {
+  "text": "al",
+  "start": 1.8,
+  "end": 1.98,
+  "sentence": 0
+ },
+ {
+  "text": "corral",
+  "start": 1.98,
+  "end": 2.26,
+  "sentence": 0
+ },
+ {
+  "text": "una",
+  "start": 2.26,
+  "end": 2.42,
+  "sentence": 0
+ },
+ {
+  "text": "mañana",
+  "start": 2.42,
+  "end": 2.74,
+  "sentence": 0
+ },
+ {
+  "text": "y",
+  "start": 2.74,
+  "end": 3.34,
+  "sentence": 0
+ },
+ {
+  "text": "encontrar",
+  "start": 3.34,
+  "end": 3.74,
+  "sentence": 0
+ },
+ {
+  "text": "a",
+  "start": 3.74,
+  "end": 3.88,
+  "sentence": 0
+ },
+ {
+  "text": "tus",
+  "start": 3.88,
+  "end": 3.96,
+  "sentence": 0
+ },
+ {
+  "text": "animales",
+  "start": 3.96,
+  "end": 4.26,
+  "sentence": 0
+ },
+ {
+  "text": "muertos,",
+  "start": 4.26,
+  "end": 4.78,
+  "sentence": 0
+ },
+ {
+  "text": "con",
+  "start": 5.16,
+  "end": 5.42,
+  "sentence": 0
+ },
+ {
+  "text": "pequeños",
+  "start": 5.42,
+  "end": 5.8,
+  "sentence": 0
+ },
+ {
+  "text": "agujeros",
+  "start": 5.8,
+  "end": 6.2,
+  "sentence": 0
+ },
+ {
+  "text": "en",
+  "start": 6.2,
+  "end": 6.36,
+  "sentence": 0
+ },
+ {
+  "text": "el",
+  "start": 6.36,
+  "end": 6.46,
+  "sentence": 0
+ },
+ {
+  "text": "cuello.",
+  "start": 6.46,
+  "end": 6.78,
+  "sentence": 0
+ },
+ {
+  "text": "Durante",
+  "start": 8.06,
+  "end": 8.48,
+  "sentence": 1
+ },
+ {
+  "text": "los",
+  "start": 8.48,
+  "end": 8.62,
+  "sentence": 1
+ },
+ {
+  "text": "años",
+  "start": 8.62,
+  "end": 8.82,
+  "sentence": 1
+ },
+ {
+  "text": "México",
+  "start": 9.82,
+  "end": 10.1,
+  "sentence": 1
+ },
+ {
+  "text": "comenzó",
+  "start": 10.1,
+  "end": 10.6,
+  "sentence": 1
+ },
+ {
+  "text": "a",
+  "start": 10.6,
+  "end": 10.62,
+  "sentence": 1
+ },
+ {
+  "text": "escuchar",
+  "start": 10.62,
+  "end": 11.0,
+  "sentence": 1
+ },
+ {
+  "text": "una",
+  "start": 11.0,
+  "end": 11.12,
+  "sentence": 1
+ },
+ {
+  "text": "historia",
+  "start": 11.12,
+  "end": 11.44,
+  "sentence": 1
+ },
+ {
+  "text": "que",
+  "start": 11.44,
+  "end": 11.66,
+  "sentence": 1
+ },
+ {
+  "text": "parecía",
+  "start": 11.66,
+  "end": 12.04,
+  "sentence": 1
+ },
+ {
+  "text": "sacada",
+  "start": 12.04,
+  "end": 12.4,
+  "sentence": 1
+ },
+ {
+  "text": "de",
+  "start": 12.4,
+  "end": 12.54,
+  "sentence": 1
+ },
+ {
+  "text": "una",
+  "start": 12.54,
+  "end": 12.66,
+  "sentence": 1
+ },
+ {
+  "text": "película",
+  "start": 12.66,
+  "end": 13.02,
+  "sentence": 1
+ },
+ {
+  "text": "de",
+  "start": 13.02,
+  "end": 13.22,
+  "sentence": 1
+ },
+ {
+  "text": "ciencia",
+  "start": 13.22,
+  "end": 13.48,
+  "sentence": 1
+ },
+ {
+  "text": "ficción.",
+  "start": 13.48,
+  "end": 13.92,
+  "sentence": 1
+ },
+ {
+  "text": "En",
+  "start": 15.04,
+  "end": 15.4,
+  "sentence": 2
+ },
+ {
+  "text": "distintas",
+  "start": 15.4,
+  "end": 15.8,
+  "sentence": 2
+ },
+ {
+  "text": "comunidades",
+  "start": 15.8,
+  "end": 16.28,
+  "sentence": 2
+ },
+ {
+  "text": "se",
+  "start": 16.28,
+  "end": 16.52,
+  "sentence": 2
+ },
+ {
+  "text": "reportaba",
+  "start": 16.52,
+  "end": 16.94,
+  "sentence": 2
+ },
+ {
+  "text": "la",
+  "start": 16.94,
+  "end": 17.08,
+  "sentence": 2
+ },
+ {
+  "text": "muerte",
+  "start": 17.08,
+  "end": 17.28,
+  "sentence": 2
+ },
+ {
+  "text": "de",
+  "start": 17.28,
+  "end": 17.48,
+  "sentence": 2
+ },
+ {
+  "text": "animales",
+  "start": 17.48,
+  "end": 17.74,
+  "sentence": 2
+ },
+ {
+  "text": "de",
+  "start": 17.74,
+  "end": 17.96,
+  "sentence": 2
+ },
+ {
+  "text": "granja.",
+  "start": 17.96,
+  "end": 18.36,
+  "sentence": 2
+ },
+ {
+  "text": "Algunos",
+  "start": 19.78,
+  "end": 20.26,
+  "sentence": 3
+ },
+ {
+  "text": "testimonios",
+  "start": 20.26,
+  "end": 20.74,
+  "sentence": 3
+ },
+ {
+  "text": "aseguraban",
+  "start": 20.74,
+  "end": 21.24,
+  "sentence": 3
+ },
+ {
+  "text": "que",
+  "start": 21.24,
+  "end": 21.42,
+  "sentence": 3
+ },
+ {
+  "text": "los",
+  "start": 21.42,
+  "end": 21.54,
+  "sentence": 3
+ },
+ {
+  "text": "cuerpos",
+  "start": 21.54,
+  "end": 21.92,
+  "sentence": 3
+ },
+ {
+  "text": "tenían",
+  "start": 21.92,
+  "end": 22.2,
+  "sentence": 3
+ },
+ {
+  "text": "heridas",
+  "start": 22.2,
+  "end": 22.48,
+  "sentence": 3
+ },
+ {
+  "text": "extrañas,",
+  "start": 22.48,
+  "end": 23.1,
+  "sentence": 3
+ },
+ {
+  "text": "y",
+  "start": 23.1,
+  "end": 23.76,
+  "sentence": 3
+ },
+ {
+  "text": "que",
+  "start": 23.76,
+  "end": 23.88,
+  "sentence": 3
+ },
+ {
+  "text": "algo",
+  "start": 23.88,
+  "end": 24.08,
+  "sentence": 3
+ },
+ {
+  "text": "los",
+  "start": 24.08,
+  "end": 24.22,
+  "sentence": 3
+ },
+ {
+  "text": "había",
+  "start": 24.22,
+  "end": 24.44,
+  "sentence": 3
+ },
+ {
+  "text": "atacado",
+  "start": 24.44,
+  "end": 24.78,
+  "sentence": 3
+ },
+ {
+  "text": "durante",
+  "start": 24.78,
+  "end": 25.04,
+  "sentence": 3
+ },
+ {
+  "text": "la",
+  "start": 25.04,
+  "end": 25.2,
+  "sentence": 3
+ },
+ {
+  "text": "noche.",
+  "start": 25.2,
+  "end": 25.46,
+  "sentence": 3
+ },
+ {
+  "text": "Pronto",
+  "start": 26.6,
+  "end": 27.24,
+  "sentence": 4
+ },
+ {
+  "text": "apareció",
+  "start": 27.24,
+  "end": 27.64,
+  "sentence": 4
+ },
+ {
+  "text": "un",
+  "start": 27.64,
+  "end": 27.78,
+  "sentence": 4
+ },
+ {
+  "text": "nombre",
+  "start": 27.78,
+  "end": 28.0,
+  "sentence": 4
+ },
+ {
+  "text": "que",
+  "start": 28.0,
+  "end": 28.18,
+  "sentence": 4
+ },
+ {
+  "text": "todos",
+  "start": 28.18,
+  "end": 28.38,
+  "sentence": 4
+ },
+ {
+  "text": "comenzaron",
+  "start": 28.38,
+  "end": 28.94,
+  "sentence": 4
+ },
+ {
+  "text": "a",
+  "start": 28.94,
+  "end": 29.08,
+  "sentence": 4
+ },
+ {
+  "text": "repetir.",
+  "start": 29.08,
+  "end": 29.54,
+  "sentence": 4
+ },
+ {
+  "text": "El",
+  "start": 29.94,
+  "end": 31.2,
+  "sentence": 5
+ },
+ {
+  "text": "Chupacabras.",
+  "start": 31.2,
+  "end": 31.9,
+  "sentence": 5
+ },
+ {
+  "text": "La",
+  "start": 33.48,
+  "end": 33.8,
+  "sentence": 6
+ },
+ {
+  "text": "historia",
+  "start": 33.8,
+  "end": 34.04,
+  "sentence": 6
+ },
+ {
+  "text": "había",
+  "start": 34.04,
+  "end": 34.26,
+  "sentence": 6
+ },
+ {
+  "text": "comenzado",
+  "start": 34.26,
+  "end": 34.78,
+  "sentence": 6
+ },
+ {
+  "text": "en",
+  "start": 34.78,
+  "end": 34.86,
+  "sentence": 6
+ },
+ {
+  "text": "Puerto",
+  "start": 34.86,
+  "end": 35.06,
+  "sentence": 6
+ },
+ {
+  "text": "Rico,",
+  "start": 35.06,
+  "end": 35.5,
+  "sentence": 6
+ },
+ {
+  "text": "a",
+  "start": 36.06,
+  "end": 36.28,
+  "sentence": 6
+ },
+ {
+  "text": "mediados",
+  "start": 36.28,
+  "end": 36.62,
+  "sentence": 6
+ },
+ {
+  "text": "de",
+  "start": 36.62,
+  "end": 36.76,
+  "sentence": 6
+ },
+ {
+  "text": "los",
+  "start": 36.76,
+  "end": 36.84,
+  "sentence": 6
+ },
+ {
+  "text": "años",
+  "start": 36.84,
+  "end": 37.04,
+  "sentence": 6
+ },
+ {
+  "text": "Pero",
+  "start": 38.42,
+  "end": 38.72,
+  "sentence": 7
+ },
+ {
+  "text": "muy",
+  "start": 38.72,
+  "end": 38.9,
+  "sentence": 7
+ },
+ {
+  "text": "rápido",
+  "start": 38.9,
+  "end": 39.24,
+  "sentence": 7
+ },
+ {
+  "text": "llegó",
+  "start": 39.24,
+  "end": 39.5,
+  "sentence": 7
+ },
+ {
+  "text": "a",
+  "start": 39.5,
+  "end": 39.6,
+  "sentence": 7
+ },
+ {
+  "text": "México",
+  "start": 39.6,
+  "end": 39.86,
+  "sentence": 7
+ },
+ {
+  "text": "y",
+  "start": 39.86,
+  "end": 40.1,
+  "sentence": 7
+ },
+ {
+  "text": "a",
+  "start": 40.1,
+  "end": 40.16,
+  "sentence": 7
+ },
+ {
+  "text": "otros",
+  "start": 40.16,
+  "end": 40.34,
+  "sentence": 7
+ },
+ {
+  "text": "países.",
+  "start": 40.34,
+  "end": 40.8,
+  "sentence": 7
+ },
+ {
+  "text": "Los",
+  "start": 42.26,
+  "end": 42.58,
+  "sentence": 8
+ },
+ {
+  "text": "relatos",
+  "start": 42.58,
+  "end": 42.92,
+  "sentence": 8
+ },
+ {
+  "text": "una",
+  "start": 43.36,
+  "end": 43.54,
+  "sentence": 8
+ },
+ {
+  "text": "criatura",
+  "start": 43.54,
+  "end": 43.9,
+  "sentence": 8
+ },
+ {
+  "text": "extraña,",
+  "start": 43.9,
+  "end": 44.44,
+  "sentence": 8
+ },
+ {
+  "text": "con",
+  "start": 44.96,
+  "end": 45.12,
+  "sentence": 8
+ },
+ {
+  "text": "ojos",
+  "start": 45.12,
+  "end": 45.28,
+  "sentence": 8
+ },
+ {
+  "text": "inquietantes,",
+  "start": 45.28,
+  "end": 45.96,
+  "sentence": 8
+ },
+ {
+  "text": "aspecto",
+  "start": 46.5,
+  "end": 47.0,
+  "sentence": 8
+ },
+ {
+  "text": "de",
+  "start": 47.0,
+  "end": 47.1,
+  "sentence": 8
+ },
+ {
+  "text": "en",
+  "start": 47.88,
+  "end": 48.0,
+  "sentence": 8
+ },
+ {
+  "text": "la",
+  "start": 48.0,
+  "end": 48.08,
+  "sentence": 8
+ },
+ {
+  "text": "espalda.",
+  "start": 48.08,
+  "end": 48.52,
+  "sentence": 8
+ },
+ {
+  "text": "Decían",
+  "start": 49.12,
+  "end": 49.6,
+  "sentence": 9
+ },
+ {
+  "text": "que",
+  "start": 49.6,
+  "end": 49.74,
+  "sentence": 9
+ },
+ {
+  "text": "se",
+  "start": 49.74,
+  "end": 49.84,
+  "sentence": 9
+ },
+ {
+  "text": "alimentaba",
+  "start": 49.84,
+  "end": 50.34,
+  "sentence": 9
+ },
+ {
+  "text": "de",
+  "start": 50.34,
+  "end": 50.48,
+  "sentence": 9
+ },
+ {
+  "text": "la",
+  "start": 50.48,
+  "end": 50.56,
+  "sentence": 9
+ },
+ {
+  "text": "sangre",
+  "start": 50.56,
+  "end": 50.84,
+  "sentence": 9
+ },
+ {
+  "text": "de",
+  "start": 50.84,
+  "end": 51.0,
+  "sentence": 9
+ },
+ {
+  "text": "los",
+  "start": 51.0,
+  "end": 51.1,
+  "sentence": 9
+ },
+ {
+  "text": "animales.",
+  "start": 51.1,
+  "end": 51.46,
+  "sentence": 9
+ },
+ {
+  "text": "La",
+  "start": 51.46,
+  "end": 52.38,
+  "sentence": 10
+ },
+ {
+  "text": "televisión",
+  "start": 52.38,
+  "end": 53.58,
+  "sentence": 10
+ },
+ {
+  "text": "y",
+  "start": 53.58,
+  "end": 53.68,
+  "sentence": 10
+ },
+ {
+  "text": "los",
+  "start": 53.68,
+  "end": 53.8,
+  "sentence": 10
+ },
+ {
+  "text": "periódicos",
+  "start": 53.8,
+  "end": 54.36,
+  "sentence": 10
+ },
+ {
+  "text": "difundieron",
+  "start": 54.36,
+  "end": 55.32,
+  "sentence": 10
+ },
+ {
+  "text": "testimonios,",
+  "start": 55.32,
+  "end": 56.04,
+  "sentence": 10
+ },
+ {
+  "text": "fotografías",
+  "start": 56.44,
+  "end": 57.02,
+  "sentence": 10
+ },
+ {
+  "text": "y",
+  "start": 57.02,
+  "end": 57.32,
+  "sentence": 10
+ },
+ {
+  "text": "supuestos",
+  "start": 57.32,
+  "end": 57.74,
+  "sentence": 10
+ },
+ {
+  "text": "avistamientos.",
+  "start": 57.74,
+  "end": 58.42,
+  "sentence": 10
+ },
+ {
+  "text": "El",
+  "start": 59.72,
+  "end": 60.12,
+  "sentence": 11
+ },
+ {
+  "text": "tema",
+  "start": 60.12,
+  "end": 60.34,
+  "sentence": 11
+ },
+ {
+  "text": "se",
+  "start": 60.34,
+  "end": 60.5,
+  "sentence": 11
+ },
+ {
+  "text": "convirtió",
+  "start": 60.5,
+  "end": 61.02,
+  "sentence": 11
+ },
+ {
+  "text": "en",
+  "start": 61.02,
+  "end": 61.22,
+  "sentence": 11
+ },
+ {
+  "text": "un",
+  "start": 61.22,
+  "end": 61.32,
+  "sentence": 11
+ },
+ {
+  "text": "fenómeno",
+  "start": 61.32,
+  "end": 61.7,
+  "sentence": 11
+ },
+ {
+  "text": "nacional.",
+  "start": 61.7,
+  "end": 62.06,
+  "sentence": 11
+ },
+ {
+  "text": "Algunas",
+  "start": 63.52,
+  "end": 63.92,
+  "sentence": 12
+ },
+ {
+  "text": "personas",
+  "start": 63.92,
+  "end": 64.3,
+  "sentence": 12
+ },
+ {
+  "text": "aseguraban",
+  "start": 64.3,
+  "end": 64.84,
+  "sentence": 12
+ },
+ {
+  "text": "haberlo",
+  "start": 64.84,
+  "end": 65.22,
+  "sentence": 12
+ },
+ {
+  "text": "visto.",
+  "start": 65.22,
+  "end": 65.48,
+  "sentence": 12
+ },
+ {
+  "text": "Otras",
+  "start": 66.54,
+  "end": 66.82,
+  "sentence": 13
+ },
+ {
+  "text": "estaban",
+  "start": 66.82,
+  "end": 67.2,
+  "sentence": 13
+ },
+ {
+  "text": "convencidas",
+  "start": 67.2,
+  "end": 67.78,
+  "sentence": 13
+ },
+ {
+  "text": "de",
+  "start": 67.78,
+  "end": 67.96,
+  "sentence": 13
+ },
+ {
+  "text": "que",
+  "start": 67.96,
+  "end": 68.08,
+  "sentence": 13
+ },
+ {
+  "text": "era",
+  "start": 68.08,
+  "end": 68.24,
+  "sentence": 13
+ },
+ {
+  "text": "un",
+  "start": 68.24,
+  "end": 68.36,
+  "sentence": 13
+ },
+ {
+  "text": "experimento",
+  "start": 68.36,
+  "end": 68.94,
+  "sentence": 13
+ },
+ {
+  "text": "secreto.",
+  "start": 68.94,
+  "end": 69.42,
+  "sentence": 13
+ },
+ {
+  "text": "Pero",
+  "start": 69.9,
+  "end": 70.36,
+  "sentence": 14
+ },
+ {
+  "text": "con",
+  "start": 70.36,
+  "end": 70.54,
+  "sentence": 14
+ },
+ {
+  "text": "el",
+  "start": 70.54,
+  "end": 70.64,
+  "sentence": 14
+ },
+ {
+  "text": "tiempo",
+  "start": 70.64,
+  "end": 70.9,
+  "sentence": 14
+ },
+ {
+  "text": "aparecieron",
+  "start": 70.9,
+  "end": 71.4,
+  "sentence": 14
+ },
+ {
+  "text": "explicaciones",
+  "start": 71.4,
+  "end": 72.0,
+  "sentence": 14
+ },
+ {
+  "text": "más",
+  "start": 72.0,
+  "end": 72.32,
+  "sentence": 14
+ },
+ {
+  "text": "terrenales.",
+  "start": 72.32,
+  "end": 72.76,
+  "sentence": 14
+ },
+ {
+  "text": "Al",
+  "start": 73.62,
+  "end": 73.86,
+  "sentence": 15
+ },
+ {
+  "text": "revisar",
+  "start": 73.86,
+  "end": 74.3,
+  "sentence": 15
+ },
+ {
+  "text": "animales",
+  "start": 74.3,
+  "end": 74.6,
+  "sentence": 15
+ },
+ {
+  "text": "señalados",
+  "start": 74.6,
+  "end": 75.1,
+  "sentence": 15
+ },
+ {
+  "text": "como",
+  "start": 75.1,
+  "end": 75.36,
+  "sentence": 15
+ },
+ {
+  "text": "chupacabras,",
+  "start": 75.36,
+  "end": 76.04,
+  "sentence": 15
+ },
+ {
+  "text": "los",
+  "start": 76.52,
+  "end": 76.64,
+  "sentence": 15
+ },
+ {
+  "text": "investigadores",
+  "start": 76.64,
+  "end": 77.26,
+  "sentence": 15
+ },
+ {
+  "text": "encontraron",
+  "start": 77.26,
+  "end": 77.84,
+  "sentence": 15
+ },
+ {
+  "text": "coyotes",
+  "start": 77.84,
+  "end": 78.22,
+  "sentence": 15
+ },
+ {
+  "text": "y",
+  "start": 78.22,
+  "end": 78.4,
+  "sentence": 15
+ },
+ {
+  "text": "perros",
+  "start": 78.4,
+  "end": 78.66,
+  "sentence": 15
+ },
+ {
+  "text": "con",
+  "start": 78.66,
+  "end": 78.88,
+  "sentence": 15
+ },
+ {
+  "text": "sarna",
+  "start": 78.88,
+  "end": 79.16,
+  "sentence": 15
+ },
+ {
+  "text": "severa.",
+  "start": 79.16,
+  "end": 79.56,
+  "sentence": 15
+ },
+ {
+  "text": "Es",
+  "start": 80.2,
+  "end": 80.54,
+  "sentence": 16
+ },
+ {
+  "text": "una",
+  "start": 80.54,
+  "end": 80.68,
+  "sentence": 16
+ },
+ {
+  "text": "enfermedad",
+  "start": 80.68,
+  "end": 81.26,
+  "sentence": 16
+ },
+ {
+  "text": "que",
+  "start": 81.26,
+  "end": 81.34,
+  "sentence": 16
+ },
+ {
+  "text": "les",
+  "start": 81.34,
+  "end": 81.44,
+  "sentence": 16
+ },
+ {
+  "text": "hace",
+  "start": 81.44,
+  "end": 81.62,
+  "sentence": 16
+ },
+ {
+  "text": "perder",
+  "start": 81.62,
+  "end": 81.94,
+  "sentence": 16
+ },
+ {
+  "text": "el",
+  "start": 81.94,
+  "end": 82.12,
+  "sentence": 16
+ },
+ {
+  "text": "pelo",
+  "start": 82.12,
+  "end": 82.38,
+  "sentence": 16
+ },
+ {
+  "text": "y",
+  "start": 82.38,
+  "end": 83.06,
+  "sentence": 16
+ },
+ {
+  "text": "cambia",
+  "start": 83.06,
+  "end": 83.4,
+  "sentence": 16
+ },
+ {
+  "text": "por",
+  "start": 83.4,
+  "end": 83.56,
+  "sentence": 16
+ },
+ {
+  "text": "completo",
+  "start": 83.56,
+  "end": 83.96,
+  "sentence": 16
+ },
+ {
+  "text": "su",
+  "start": 83.96,
+  "end": 84.14,
+  "sentence": 16
+ },
+ {
+  "text": "aspecto.",
+  "start": 84.14,
+  "end": 84.8,
+  "sentence": 16
+ },
+ {
+  "text": "Nunca",
+  "start": 85.82,
+  "end": 86.32,
+  "sentence": 17
+ },
+ {
+  "text": "se",
+  "start": 86.32,
+  "end": 86.44,
+  "sentence": 17
+ },
+ {
+  "text": "confirmó",
+  "start": 86.44,
+  "end": 86.92,
+  "sentence": 17
+ },
+ {
+  "text": "científicamente",
+  "start": 86.92,
+  "end": 87.74,
+  "sentence": 17
+ },
+ {
+  "text": "que",
+  "start": 87.74,
+  "end": 87.92,
+  "sentence": 17
+ },
+ {
+  "text": "aquella",
+  "start": 87.92,
+  "end": 88.18,
+  "sentence": 17
+ },
+ {
+  "text": "criatura",
+  "start": 88.18,
+  "end": 88.54,
+  "sentence": 17
+ },
+ {
+  "text": "existiera.",
+  "start": 88.54,
+  "end": 89.12,
+  "sentence": 17
+ },
+ {
+  "text": "Sin",
+  "start": 90.26,
+  "end": 90.44,
+  "sentence": 18
+ },
+ {
+  "text": "embargo,",
+  "start": 90.44,
+  "end": 90.82,
+  "sentence": 18
+ },
+ {
+  "text": "Chupacabras",
+  "start": 91.06,
+  "end": 91.52,
+  "sentence": 18
+ },
+ {
+  "text": "ya",
+  "start": 91.52,
+  "end": 91.66,
+  "sentence": 18
+ },
+ {
+  "text": "había",
+  "start": 91.66,
+  "end": 91.82,
+  "sentence": 18
+ },
+ {
+  "text": "conseguido",
+  "start": 91.82,
+  "end": 92.34,
+  "sentence": 18
+ },
+ {
+  "text": "algo",
+  "start": 92.34,
+  "end": 92.52,
+  "sentence": 18
+ },
+ {
+  "text": "extraordinario.",
+  "start": 92.52,
+  "end": 93.26,
+  "sentence": 18
+ },
+ {
+  "text": "Convertirse",
+  "start": 94.02,
+  "end": 94.72,
+  "sentence": 19
+ },
+ {
+  "text": "en",
+  "start": 94.72,
+  "end": 94.86,
+  "sentence": 19
+ },
+ {
+  "text": "uno",
+  "start": 94.86,
+  "end": 94.94,
+  "sentence": 19
+ },
+ {
+  "text": "de",
+  "start": 94.94,
+  "end": 95.06,
+  "sentence": 19
+ },
+ {
+  "text": "los",
+  "start": 95.06,
+  "end": 95.16,
+  "sentence": 19
+ },
+ {
+  "text": "misterios",
+  "start": 95.16,
+  "end": 95.64,
+  "sentence": 19
+ },
+ {
+  "text": "más",
+  "start": 95.64,
+  "end": 95.84,
+  "sentence": 19
+ },
+ {
+  "text": "famosos",
+  "start": 95.84,
+  "end": 96.28,
+  "sentence": 19
+ },
+ {
+  "text": "de",
+  "start": 96.28,
+  "end": 96.42,
+  "sentence": 19
+ },
+ {
+  "text": "la",
+  "start": 96.42,
+  "end": 96.5,
+  "sentence": 19
+ },
+ {
+  "text": "cultura",
+  "start": 96.5,
+  "end": 96.72,
+  "sentence": 19
+ },
+ {
+  "text": "popular",
+  "start": 96.72,
+  "end": 97.2,
+  "sentence": 19
+ },
+ {
+  "text": "mexicana.",
+  "start": 97.2,
+  "end": 97.72,
+  "sentence": 19
+ },
+ {
+  "text": "¿Tú",
+  "start": 98.82,
+  "end": 99.16,
+  "sentence": 20
+ },
+ {
+  "text": "recuerdas",
+  "start": 99.16,
+  "end": 99.62,
+  "sentence": 20
+ },
+ {
+  "text": "cuando",
+  "start": 99.62,
+  "end": 99.8,
+  "sentence": 20
+ },
+ {
+  "text": "todos",
+  "start": 99.8,
+  "end": 100.12,
+  "sentence": 20
+ },
+ {
+  "text": "hablaban",
+  "start": 100.12,
+  "end": 100.52,
+  "sentence": 20
+ },
+ {
+  "text": "del",
+  "start": 100.52,
+  "end": 100.66,
+  "sentence": 20
+ },
+ {
+  "text": "Chupacabras?",
+  "start": 100.66,
+  "end": 101.3,
+  "sentence": 20
+ }
+]

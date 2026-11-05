@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Cuántas veces te cortaron el recall en el último segundo?",
+  "start": 0.25,
+  "end": 2.622
+ },
+ {
+  "id": "dur",
+  "text": "El recall tarda medio segundo en lanzarse, y luego ocho segundos de canalización.",
+  "start": 3.042,
+  "end": 6.734
+ },
+ {
+  "id": "total",
+  "text": "Medio segundo más ocho: ocho segundos y medio en total. Una eternidad en una pelea.",
+  "start": 7.154,
+  "end": 11.186
+ },
+ {
+  "id": "broma",
+  "text": "Ocho segundos. Parecen poco, hasta que tienes tres de vida.",
+  "start": 11.606,
+  "end": 14.42
+ },
+ {
+  "id": "dano",
+  "text": "Si recibes daño durante esos ocho segundos, se cancela.",
+  "start": 14.84,
+  "end": 17.521
+ },
+ {
+  "id": "ejemplo",
+  "text": "Un solo golpe, una habilidad, lo que sea: si te hace daño, empiezas otra vez desde cero.",
+  "start": 17.941,
+  "end": 22.207
+ },
+ {
+  "id": "escudo",
+  "text": "Pero si un escudo absorbe ese daño, el recall sigue.",
+  "start": 22.627,
+  "end": 25.111
+ },
+ {
+  "id": "final",
+  "text": "Y dato curioso: si el golpe llega en la última décima de segundo, ya no te lo cancela.",
+  "start": 25.531,
+  "end": 29.52
+ },
+ {
+  "id": "cc",
+  "text": "Los aturdimientos, silencios, derribos y enraizamientos también lo cortan.",
+  "start": 29.94,
+  "end": 33.532
+ },
+ {
+  "id": "cc2",
+  "text": "Básicamente, cualquier cosa que te deje sin control también te deja sin recall.",
+  "start": 33.952,
+  "end": 37.497
+ },
+ {
+  "id": "flash",
+  "text": "Y si usas Flash a medio recall, también se cancela.",
+  "start": 37.917,
+  "end": 40.212
+ },
+ {
+  "id": "mejorado",
+  "text": "Existe un recall mejorado, que tarda solo cuatro segundos.",
+  "start": 40.632,
+  "end": 43.386
+ },
+ {
+  "id": "rival",
+  "text": "Y ojo con el rival: muchos esperan a que empieces el recall para pegarte cuando ya te sientes a salvo.",
+  "start": 43.806,
+  "end": 48.062
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: haz recall fuera de la vista del rival, detrás de un muro o dentro de un arbusto.",
+  "start": 48.482,
+  "end": 52.967
+ },
+ {
+  "id": "broma2",
+  "text": "Nada de hacer recall en medio de la línea, como si fueras invisible.",
+  "start": 53.387,
+  "end": 56.242
+ },
+ {
+  "id": "tip2",
+  "text": "Y si ya te lo cortaron una vez, no lo intentes en el mismo lugar.",
+  "start": 56.662,
+  "end": 59.299
+ },
+ {
+  "id": "cierre",
+  "text": "Ahora ya sabes por qué te lo cortan. Cada like le corta el recall a Teemo… en el último segundo.",
+  "start": 59.719,
+  "end": 63.736
+ }
+]

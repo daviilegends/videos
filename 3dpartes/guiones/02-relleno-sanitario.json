@@ -1,0 +1,113 @@
+{
+ "title": "Así se construye un relleno sanitario",
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Tu ciudad produce toneladas de basura cada día y no hay dónde ponerla."
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Si la tiras en un hoyo, el jugo de la basura se filtra y contamina el agua subterránea."
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Primero buscas un terreno lejos de ríos y casas, donde el agua subterránea esté profunda."
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "etiqueta": "CAPA DE ARCILLA",
+   "text": "Excavas y compactas una capa de arcilla en el fondo, que casi no deja pasar el agua."
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "etiqueta": "GEOMEMBRANA",
+   "text": "Encima tiendes un plástico gigante y grueso, soldado en las uniones. Eso es la geomembrana."
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero una piedra filosa podría perforar el plástico."
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "etiqueta": "GEOTEXTIL",
+   "text": "Entonces lo cubres con una tela gruesa que lo protege. Eso es el geotextil."
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "etiqueta": "LIXIVIADO",
+   "text": "Pero el líquido de la basura se acumula abajo. Ese líquido se llama lixiviado."
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Entonces pones grava y tubos perforados en el fondo que lo llevan a una laguna para tratarlo."
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "etiqueta": "CELDA",
+   "text": "Ahora descargas la basura, la compactas con máquinas y al final del día la cubres con tierra. Eso se llama celda."
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Repites celda sobre celda, capa sobre capa."
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero la lluvia que cae encima se convierte en más lixiviado."
+  },
+  {
+   "id": "b13",
+   "bg": "-",
+   "etiqueta": "CANALES PLUVIALES",
+   "text": "Entonces haces canales alrededor que desvían el agua limpia antes de que toque la basura."
+  },
+  {
+   "id": "b14",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero la basura, al pudrirse, suelta gas metano, que puede explotar."
+  },
+  {
+   "id": "b15",
+   "bg": "-",
+   "etiqueta": "POZOS DE BIOGÁS",
+   "text": "Entonces perforas pozos que capturan el gas y lo queman o lo usan para generar electricidad. Esos son los pozos de biogás."
+  },
+  {
+   "id": "b16",
+   "bg": "-",
+   "etiqueta": "POZOS DE MONITOREO",
+   "text": "Alrededor perforas otros pozos para revisar que el agua subterránea siga limpia. Esos son los pozos de monitoreo."
+  },
+  {
+   "id": "b17",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Cuando está lleno, lo sellas con arcilla, tierra y pasto, y a veces se vuelve un parque."
+  },
+  {
+   "id": "b18",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Felicidades, construiste un relleno sanitario."
+  }
+ ]
+}

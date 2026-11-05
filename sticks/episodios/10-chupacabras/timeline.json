@@ -1,0 +1,198 @@
+{
+ "duration": 101.9,
+ "scenes": [
+  {
+   "id": "c1",
+   "bg": "granja",
+   "start": 0.3,
+   "end": 7.26,
+   "lines": [
+    {
+     "text": "Imagina salir al corral una mañana y encontrar a tus animales muertos, con pequeños agujeros en el cuello.",
+     "start": 0.3,
+     "end": 6.86
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "bg": "granja",
+   "start": 7.26,
+   "end": 14.54,
+   "lines": [
+    {
+     "text": "Durante los años noventa, México comenzó a escuchar una historia que parecía sacada de una película de ciencia ficción.",
+     "start": 7.26,
+     "end": 14.14
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "bg": "corral",
+   "start": 14.54,
+   "end": 26.02,
+   "lines": [
+    {
+     "text": "En distintas comunidades se reportaba la muerte de animales de granja.",
+     "start": 14.54,
+     "end": 18.54
+    },
+    {
+     "text": "Algunos testimonios aseguraban que los cuerpos tenían heridas extrañas, y que algo los había atacado durante la noche.",
+     "start": 18.74,
+     "end": 25.62
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "bg": "plaza",
+   "start": 26.02,
+   "end": 32.54,
+   "lines": [
+    {
+     "text": "Pronto apareció un nombre que todos comenzaron a repetir.",
+     "start": 26.02,
+     "end": 29.54
+    },
+    {
+     "text": "El Chupacabras.",
+     "start": 29.74,
+     "end": 32.14
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "bg": "sala",
+   "start": 32.54,
+   "end": 41.46,
+   "lines": [
+    {
+     "text": "La historia había comenzado en Puerto Rico, a mediados de los años noventa.",
+     "start": 32.54,
+     "end": 37.66
+    },
+    {
+     "text": "Pero muy rápido llegó a México y a otros países.",
+     "start": 37.86,
+     "end": 41.06
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "bg": "monte",
+   "start": 41.46,
+   "end": 52.3,
+   "lines": [
+    {
+     "text": "Los relatos describían una criatura extraña, con ojos inquietantes, aspecto de reptil y espinas en la espalda.",
+     "start": 41.46,
+     "end": 48.66
+    },
+    {
+     "text": "Decían que se alimentaba de la sangre de los animales.",
+     "start": 48.86,
+     "end": 51.9
+    }
+   ]
+  },
+  {
+   "id": "c7",
+   "bg": "sala",
+   "start": 52.3,
+   "end": 62.66,
+   "lines": [
+    {
+     "text": "La televisión y los periódicos difundieron testimonios, fotografías y supuestos avistamientos.",
+     "start": 52.3,
+     "end": 58.7
+    },
+    {
+     "text": "El tema se convirtió en un fenómeno nacional.",
+     "start": 58.9,
+     "end": 62.26
+    }
+   ]
+  },
+  {
+   "id": "c8",
+   "bg": "plaza",
+   "start": 62.66,
+   "end": 69.98,
+   "lines": [
+    {
+     "text": "Algunas personas aseguraban haberlo visto.",
+     "start": 62.66,
+     "end": 65.7
+    },
+    {
+     "text": "Otras estaban convencidas de que era un experimento secreto.",
+     "start": 65.9,
+     "end": 69.58
+    }
+   ]
+  },
+  {
+   "id": "c9",
+   "bg": "laboratorio",
+   "start": 69.98,
+   "end": 85.18,
+   "lines": [
+    {
+     "text": "Pero con el tiempo aparecieron explicaciones más terrenales.",
+     "start": 69.98,
+     "end": 73.02
+    },
+    {
+     "text": "Al revisar animales señalados como chupacabras, los investigadores encontraron coyotes y perros con sarna severa.",
+     "start": 73.22,
+     "end": 79.62
+    },
+    {
+     "text": "Es una enfermedad que les hace perder el pelo y cambia por completo su aspecto.",
+     "start": 79.82,
+     "end": 84.78
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "bg": "monte",
+   "start": 85.18,
+   "end": 89.58,
+   "lines": [
+    {
+     "text": "Nunca se confirmó científicamente que aquella criatura existiera.",
+     "start": 85.18,
+     "end": 89.18
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "bg": "sala",
+   "start": 89.58,
+   "end": 101.9,
+   "lines": [
+    {
+     "text": "Sin embargo, el Chupacabras ya había conseguido algo extraordinario.",
+     "start": 89.58,
+     "end": 93.26
+    },
+    {
+     "text": "Convertirse en uno de los misterios más famosos de la cultura popular mexicana.",
+     "start": 93.46,
+     "end": 97.94
+    },
+    {
+     "text": "¿Tú recuerdas cuando todos hablaban del Chupacabras?",
+     "start": 98.14,
+     "end": 101.5
+    }
+   ]
+  }
+ ]
+}

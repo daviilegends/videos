@@ -1,0 +1,52 @@
+{
+ "title": "Así se construye una carretera",
+ "idioma_voz": "en",
+ "idioma_subtitulos": "es",
+ "scenes": [
+  {"id": "b1", "etiqueta": "", "lines": [
+   {"en": "You've got a dirt road that turns into mud every time it rains.", "es": "Tienes un camino de tierra que se vuelve lodo cada vez que llueve."}]},
+  {"id": "b2", "etiqueta": "TRAZO", "termino_en": "LAYOUT", "lines": [
+   {"en": "First, you survey the land and mark the route with stakes.", "es": "Primero mides el terreno y marcas con estacas por dónde pasará el camino."},
+   {"en": "That's the layout.", "es": "Eso es el trazo.", "nombra": true}]},
+  {"id": "b3", "etiqueta": "DESPALME", "termino_en": "STRIPPING", "lines": [
+   {"en": "Then you strip away the topsoil, with all its roots and plants.", "es": "Luego quitas la capa de tierra con raíces y plantas."},
+   {"en": "That's called stripping.", "es": "Eso se llama despalme.", "nombra": true}]},
+  {"id": "b4", "etiqueta": "SUBRASANTE", "termino_en": "SUBGRADE", "lines": [
+   {"en": "You compact the ground underneath.", "es": "Compactas el suelo que queda abajo."},
+   {"en": "That's the subgrade.", "es": "Esa es la subrasante.", "nombra": true}]},
+  {"id": "b5", "etiqueta": "", "lines": [
+   {"en": "But where a stream crosses the road, the water would wash it all away.", "es": "Pero donde un arroyo cruza el camino, el agua se lo llevaría todo."}]},
+  {"id": "b6", "etiqueta": "ALCANTARILLA", "termino_en": "CULVERT", "lines": [
+   {"en": "So you bury a big pipe, and the water flows right underneath.", "es": "Entonces entierras un tubo grande para que el agua pase por debajo."},
+   {"en": "That's a culvert.", "es": "Eso es una alcantarilla.", "nombra": true}]},
+  {"id": "b7", "etiqueta": "", "lines": [
+   {"en": "But if you put asphalt straight on top, heavy trucks would sink right into it.", "es": "Pero si pones el asfalto directo encima, los camiones lo hunden."}]},
+  {"id": "b8", "etiqueta": "SUB-BASE", "termino_en": "SUBBASE", "lines": [
+   {"en": "So you spread a layer of coarse gravel and compact it.", "es": "Entonces tiendes una capa de grava gruesa y la compactas."},
+   {"en": "That's the subbase.", "es": "Eso es la sub-base.", "nombra": true}]},
+  {"id": "b9", "etiqueta": "BASE", "termino_en": "BASE COURSE", "lines": [
+   {"en": "On top goes finer gravel, compacted too.", "es": "Encima va grava más fina, también compactada."},
+   {"en": "That's the base course.", "es": "Esa es la base.", "nombra": true}]},
+  {"id": "b10", "etiqueta": "RIEGO DE IMPREGNACIÓN", "termino_en": "PRIME COAT", "lines": [
+   {"en": "You spray on liquid asphalt, so the base bonds with the next layer.", "es": "Riegas un líquido asfáltico para que la base se pegue con lo de arriba."},
+   {"en": "That's the prime coat.", "es": "Eso es el riego de impregnación.", "nombra": true}]},
+  {"id": "b11", "etiqueta": "", "lines": [
+   {"en": "But rainwater sits on top and slowly destroys the road.", "es": "Pero el agua de lluvia se queda encima y destruye el camino."}]},
+  {"id": "b12", "etiqueta": "BOMBEO", "termino_en": "CROWN", "lines": [
+   {"en": "So you slope it slightly toward the sides, and dig ditches.", "es": "Entonces le das una pequeña pendiente hacia los lados y haces cunetas."},
+   {"en": "That slope is called the crown.", "es": "Esa pendiente se llama bombeo.", "nombra": true}]},
+  {"id": "b13", "etiqueta": "CARPETA ASFÁLTICA", "termino_en": "ASPHALT SURFACE", "lines": [
+   {"en": "You lay down hot asphalt and flatten it with a roller.", "es": "Tiendes la mezcla de asfalto caliente y la aplanas con un rodillo."},
+   {"en": "That's the asphalt surface.", "es": "Esa es la carpeta asfáltica.", "nombra": true}]},
+  {"id": "b14", "etiqueta": "", "lines": [
+   {"en": "But on the curves, cars tend to slide right off.", "es": "Pero en las curvas los coches tienden a salirse."}]},
+  {"id": "b15", "etiqueta": "PERALTE", "termino_en": "SUPERELEVATION", "lines": [
+   {"en": "So you tilt the curve inward.", "es": "Entonces inclinas la curva hacia adentro."},
+   {"en": "That's called superelevation.", "es": "Eso se llama peralte.", "nombra": true}]},
+  {"id": "b16", "etiqueta": "SEÑALAMIENTO", "termino_en": "SIGNAGE", "lines": [
+   {"en": "You add guardrails along the edges, put up signs, and paint the lines.", "es": "Pones barreras de metal en las orillas, señales y pintas las líneas."},
+   {"en": "That's the signage.", "es": "Eso es el señalamiento.", "nombra": true}]},
+  {"id": "b17", "etiqueta": "", "lines": [
+   {"en": "Congratulations. You just built a road.", "es": "Felicidades, construiste una carretera."}]}
+ ]
+}

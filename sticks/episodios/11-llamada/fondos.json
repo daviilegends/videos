@@ -1,0 +1,24 @@
+{
+  "fondos": {
+    "central": [
+      301,
+      "Emergency call center at night, frontal view of one operator desk. A desk with a headset, a keyboard and three glowing computer monitors in the middle, an office chair, rows of empty dark desks behind, a big wall screen with a city map, cold blue light from the monitors, plain floor clear in the foreground."
+    ],
+    "pantalla": [
+      313,
+      "Extreme frontal close-up of a computer monitor in a dark call center. The screen is a big empty dark blue rectangle filling most of the frame, a thin monitor bezel, a desk edge at the bottom, cold blue glow."
+    ],
+    "calle": [
+      327,
+      "Quiet suburban street at night, frontal wide view. A modest one-story house with a small front yard and a lit porch lamp in the middle, a sidewalk and the empty street completely clear in the foreground, street lamps, parked cars far away, dark sky."
+    ],
+    "sala": [
+      331,
+      "Small living room of a modest house at night, frontal view. A gray fabric armchair on the left, a small table with a lamp, a row of empty picture frames on the back wall, a kitchen doorway on the right, wooden floor clear in the foreground, dim warm lamp light."
+    ],
+    "armario": [
+      347,
+      "Dark bedroom at night, frontal view of a tall wooden closet with two closed doors in the middle of the back wall, a bed edge on the left, a window with blinds on the right letting in thin stripes of bluish streetlight, wooden floor clear in the foreground."
+    ]
+  }
+}

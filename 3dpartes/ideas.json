@@ -1,0 +1,173 @@
+[
+ {
+  "id": 0,
+  "slug": "alberca",
+  "estado": "descartada",
+  "titulo": "Así se construye una alberca",
+  "motivo": "Ya la hicieron otros canales"
+ },
+ {
+  "id": 1,
+  "slug": "01-carretera",
+  "estado": "subido (programado 2026-11-03 19:30)",
+  "titulo": "Así se construye una carretera",
+  "guion": "guiones/01-carretera.json",
+  "palabras": 224,
+  "duracion_estimada_s": 72,
+  "voz": "inglés (narrador_en.wav)",
+  "subtitulos": "español"
+ },
+ {
+  "id": 2,
+  "slug": "02-relleno-sanitario",
+  "estado": "en cola",
+  "titulo": "Así se construye un relleno sanitario",
+  "guion": "guiones/02-relleno-sanitario.json",
+  "palabras": 258,
+  "duracion_estimada_s": 82,
+  "voz": "inglés (narrador_en.wav)",
+  "subtitulos": "español"
+ },
+ {
+  "id": 3,
+  "slug": "03-pista-de-hielo",
+  "estado": "en cola",
+  "titulo": "Así se construye una pista de hielo",
+  "guion": "guiones/03-pista-de-hielo.json",
+  "palabras": 249,
+  "duracion_estimada_s": 89,
+  "voz": "inglés enérgico (narrador_energico.wav)",
+  "subtitulos": "inglés palabra por palabra"
+ },
+ {
+  "id": 4,
+  "slug": "04-muro-de-contencion",
+  "estado": "en cola",
+  "titulo": "Así se construye un muro de contención",
+  "guion": "guiones/04-muro-de-contencion.json",
+  "palabras": 242,
+  "duracion_estimada_s": 69,
+  "voz": "inglés enérgico (narrador_energico.wav)",
+  "subtitulos": "inglés palabra por palabra"
+ },
+ {
+  "id": 5,
+  "slug": "05-fosa-septica",
+  "estado": "guion (en pausa: temas menos llamativos)",
+  "titulo": "Así se construye una fosa séptica",
+  "guion": "guiones/05-fosa-septica.json",
+  "palabras": 266,
+  "duracion_estimada_s": 94
+ },
+ {
+  "id": 6,
+  "slug": "06-green-de-golf",
+  "estado": "guion (en pausa: temas menos llamativos)",
+  "titulo": "Así se construye un green de golf",
+  "guion": "guiones/06-green-de-golf.json",
+  "palabras": 224,
+  "duracion_estimada_s": 79
+ },
+ {
+  "id": 7,
+  "slug": "via-de-tren",
+  "estado": "idea",
+  "titulo": "Así se construye una vía de tren"
+ },
+ {
+  "id": 8,
+  "slug": "tunel",
+  "estado": "idea",
+  "titulo": "Así se excava un túnel con tuneladora"
+ },
+ {
+  "id": 9,
+  "slug": "presa",
+  "estado": "idea",
+  "titulo": "Así se construye una presa"
+ },
+ {
+  "id": 10,
+  "slug": "estacionamiento-subterraneo",
+  "estado": "idea",
+  "titulo": "Así se construye un estacionamiento subterráneo"
+ },
+ {
+  "id": 11,
+  "slug": "jardin-de-lluvia",
+  "estado": "idea",
+  "titulo": "Así se construye un jardín de lluvia"
+ },
+ {
+  "id": 12,
+  "slug": "05-edificio-antisismico",
+  "estado": "en cola",
+  "titulo": "How an earthquake-proof building is built",
+  "gancho": "Your building is shaking… and it's supposed to.",
+  "duracion_estimada_s": 68,
+  "calidad": "alta (raytracing, motion blur)"
+ },
+ {
+  "id": 13,
+  "slug": "06-tunel-bajo-el-mar",
+  "estado": "idea aprobada",
+  "titulo": "How a tunnel under the sea is built",
+  "gancho": "How do you build a road at the bottom of the ocean?"
+ },
+ {
+  "id": 14,
+  "slug": "07-rascacielos-suelo-blando",
+  "estado": "idea aprobada",
+  "titulo": "How skyscrapers stand on sinking ground",
+  "gancho": "Mexico City sinks every year. So how do skyscrapers stay up?"
+ },
+ {
+  "id": 15,
+  "slug": "08-isla-artificial",
+  "estado": "idea aprobada",
+  "titulo": "How an artificial island is built",
+  "gancho": "You want an island… so you make one."
+ },
+ {
+  "id": 16,
+  "slug": "09-presa",
+  "estado": "idea aprobada",
+  "titulo": "How a dam is built",
+  "gancho": "One wall holding back an entire lake."
+ },
+ {
+  "id": 17,
+  "slug": "10-bunker",
+  "estado": "idea aprobada",
+  "titulo": "How a bunker is built",
+  "gancho": "What actually makes a bunker survive?"
+ },
+ {
+  "id": 18,
+  "slug": "11-boveda-de-banco",
+  "estado": "idea aprobada",
+  "titulo": "How a bank vault is built",
+  "gancho": "Why can't thieves just drill through?"
+ },
+ {
+  "id": 19,
+  "slug": "12-puente-sobre-agua",
+  "estado": "idea aprobada",
+  "titulo": "How a bridge is built over water",
+  "gancho": "How do you pour concrete under a river?"
+ },
+ {
+  "id": 20,
+  "slug": "13-pista-f1",
+  "estado": "idea aprobada",
+  "titulo": "How an F1 track is built",
+  "gancho": "Why don't F1 cars fly off the track?"
+ },
+ {
+  "id": 21,
+  "slug": "14-estacion-de-metro",
+  "estado": "idea aprobada",
+  "titulo": "How a subway station is dug under a city",
+  "gancho": "There's a whole city on top. How do you dig under it?"
+ }
+]

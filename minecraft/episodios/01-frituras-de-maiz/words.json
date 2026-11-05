@@ -1,0 +1,1772 @@
+[
+ {
+  "text": "Quieres",
+  "start": 0.0,
+  "end": 0.56,
+  "line": 0
+ },
+ {
+  "text": "hacer",
+  "start": 0.56,
+  "end": 0.74,
+  "line": 0
+ },
+ {
+  "text": "una",
+  "start": 0.74,
+  "end": 0.92,
+  "line": 0
+ },
+ {
+  "text": "fritura",
+  "start": 0.92,
+  "end": 1.3,
+  "line": 0
+ },
+ {
+  "text": "crujiente,",
+  "start": 1.3,
+  "end": 1.78,
+  "line": 0
+ },
+ {
+  "text": "ligerita",
+  "start": 1.9,
+  "end": 2.44,
+  "line": 0
+ },
+ {
+  "text": "y",
+  "start": 2.44,
+  "end": 2.8,
+  "line": 0
+ },
+ {
+  "text": "llena",
+  "start": 2.8,
+  "end": 3.0,
+  "line": 0
+ },
+ {
+  "text": "de",
+  "start": 3.0,
+  "end": 3.14,
+  "line": 0
+ },
+ {
+  "text": "queso.",
+  "start": 3.14,
+  "end": 3.44,
+  "line": 0
+ },
+ {
+  "text": "Pero",
+  "start": 3.72,
+  "end": 4.0,
+  "line": 0
+ },
+ {
+  "text": "el",
+  "start": 4.0,
+  "end": 4.16,
+  "line": 0
+ },
+ {
+  "text": "maíz",
+  "start": 4.16,
+  "end": 4.4,
+  "line": 0
+ },
+ {
+  "text": "es",
+  "start": 4.4,
+  "end": 4.56,
+  "line": 0
+ },
+ {
+  "text": "duro",
+  "start": 4.56,
+  "end": 4.8,
+  "line": 0
+ },
+ {
+  "text": "como",
+  "start": 4.8,
+  "end": 5.02,
+  "line": 0
+ },
+ {
+  "text": "una",
+  "start": 5.02,
+  "end": 5.2,
+  "line": 0
+ },
+ {
+  "text": "piedra.",
+  "start": 5.2,
+  "end": 5.58,
+  "line": 0
+ },
+ {
+  "text": "Primero",
+  "start": 5.92,
+  "end": 6.28,
+  "line": 1
+ },
+ {
+  "text": "lo",
+  "start": 6.28,
+  "end": 6.4,
+  "line": 1
+ },
+ {
+  "text": "mueles",
+  "start": 6.4,
+  "end": 6.62,
+  "line": 1
+ },
+ {
+  "text": "entre",
+  "start": 6.62,
+  "end": 6.88,
+  "line": 1
+ },
+ {
+  "text": "rodillos",
+  "start": 6.88,
+  "end": 7.24,
+  "line": 1
+ },
+ {
+  "text": "de",
+  "start": 7.24,
+  "end": 7.42,
+  "line": 1
+ },
+ {
+  "text": "acero",
+  "start": 7.42,
+  "end": 7.68,
+  "line": 1
+ },
+ {
+  "text": "hasta",
+  "start": 7.88,
+  "end": 8.12,
+  "line": 1
+ },
+ {
+  "text": "dejarlo",
+  "start": 8.12,
+  "end": 8.6,
+  "line": 1
+ },
+ {
+  "text": "como",
+  "start": 8.6,
+  "end": 8.74,
+  "line": 1
+ },
+ {
+  "text": "arena",
+  "start": 8.74,
+  "end": 8.96,
+  "line": 1
+ },
+ {
+  "text": "fina.",
+  "start": 8.96,
+  "end": 9.4,
+  "line": 1
+ },
+ {
+  "text": "Eso",
+  "start": 9.56,
+  "end": 9.74,
+  "line": 2
+ },
+ {
+  "text": "es",
+  "start": 9.74,
+  "end": 9.92,
+  "line": 2
+ },
+ {
+  "text": "la",
+  "start": 9.92,
+  "end": 10.04,
+  "line": 2
+ },
+ {
+  "text": "sémola",
+  "start": 10.04,
+  "end": 10.4,
+  "line": 2
+ },
+ {
+  "text": "de",
+  "start": 10.4,
+  "end": 10.54,
+  "line": 2
+ },
+ {
+  "text": "maíz.",
+  "start": 10.54,
+  "end": 10.9,
+  "line": 2
+ },
+ {
+  "text": "Le",
+  "start": 11.22,
+  "end": 11.4,
+  "line": 3
+ },
+ {
+  "text": "agregas",
+  "start": 11.4,
+  "end": 11.74,
+  "line": 3
+ },
+ {
+  "text": "un",
+  "start": 11.74,
+  "end": 11.92,
+  "line": 3
+ },
+ {
+  "text": "poco",
+  "start": 11.92,
+  "end": 12.08,
+  "line": 3
+ },
+ {
+  "text": "de",
+  "start": 12.08,
+  "end": 12.28,
+  "line": 3
+ },
+ {
+  "text": "agua",
+  "start": 12.28,
+  "end": 12.5,
+  "line": 3
+ },
+ {
+  "text": "y",
+  "start": 12.5,
+  "end": 12.96,
+  "line": 3
+ },
+ {
+  "text": "lo",
+  "start": 12.96,
+  "end": 13.1,
+  "line": 3
+ },
+ {
+  "text": "mezclas",
+  "start": 13.1,
+  "end": 13.52,
+  "line": 3
+ },
+ {
+  "text": "hasta",
+  "start": 13.52,
+  "end": 13.68,
+  "line": 3
+ },
+ {
+  "text": "tener",
+  "start": 13.68,
+  "end": 13.94,
+  "line": 3
+ },
+ {
+  "text": "una",
+  "start": 13.94,
+  "end": 14.14,
+  "line": 3
+ },
+ {
+  "text": "masa",
+  "start": 14.14,
+  "end": 14.34,
+  "line": 3
+ },
+ {
+  "text": "húmeda,",
+  "start": 14.34,
+  "end": 14.8,
+  "line": 3
+ },
+ {
+  "text": "pero",
+  "start": 15.0,
+  "end": 15.26,
+  "line": 3
+ },
+ {
+  "text": "no",
+  "start": 15.26,
+  "end": 15.46,
+  "line": 3
+ },
+ {
+  "text": "aguada.",
+  "start": 15.46,
+  "end": 15.88,
+  "line": 3
+ },
+ {
+  "text": "Pero",
+  "start": 16.3,
+  "end": 16.42,
+  "line": 4
+ },
+ {
+  "text": "si",
+  "start": 16.42,
+  "end": 16.6,
+  "line": 4
+ },
+ {
+  "text": "la",
+  "start": 16.6,
+  "end": 16.74,
+  "line": 4
+ },
+ {
+  "text": "horneas",
+  "start": 16.74,
+  "end": 17.08,
+  "line": 4
+ },
+ {
+  "text": "así,",
+  "start": 17.08,
+  "end": 17.34,
+  "line": 4
+ },
+ {
+  "text": "te",
+  "start": 17.58,
+  "end": 17.66,
+  "line": 4
+ },
+ {
+  "text": "sale",
+  "start": 17.66,
+  "end": 17.86,
+  "line": 4
+ },
+ {
+  "text": "una",
+  "start": 17.86,
+  "end": 18.08,
+  "line": 4
+ },
+ {
+  "text": "galleta",
+  "start": 18.08,
+  "end": 18.44,
+  "line": 4
+ },
+ {
+  "text": "dura",
+  "start": 18.44,
+  "end": 18.68,
+  "line": 4
+ },
+ {
+  "text": "y",
+  "start": 18.68,
+  "end": 18.84,
+  "line": 4
+ },
+ {
+  "text": "plana.",
+  "start": 18.84,
+  "end": 19.24,
+  "line": 4
+ },
+ {
+  "text": "Nada",
+  "start": 19.56,
+  "end": 19.88,
+  "line": 4
+ },
+ {
+  "text": "crujiente.",
+  "start": 19.88,
+  "end": 20.48,
+  "line": 4
+ },
+ {
+  "text": "Entonces",
+  "start": 20.88,
+  "end": 21.26,
+  "line": 5
+ },
+ {
+  "text": "la",
+  "start": 21.26,
+  "end": 21.54,
+  "line": 5
+ },
+ {
+  "text": "metes",
+  "start": 21.54,
+  "end": 21.82,
+  "line": 5
+ },
+ {
+  "text": "a",
+  "start": 21.82,
+  "end": 21.94,
+  "line": 5
+ },
+ {
+  "text": "una",
+  "start": 21.94,
+  "end": 22.06,
+  "line": 5
+ },
+ {
+  "text": "máquina",
+  "start": 22.06,
+  "end": 22.36,
+  "line": 5
+ },
+ {
+  "text": "con",
+  "start": 22.36,
+  "end": 22.64,
+  "line": 5
+ },
+ {
+  "text": "un",
+  "start": 22.64,
+  "end": 22.78,
+  "line": 5
+ },
+ {
+  "text": "tornillo",
+  "start": 22.78,
+  "end": 23.12,
+  "line": 5
+ },
+ {
+  "text": "gigante",
+  "start": 23.12,
+  "end": 23.58,
+  "line": 5
+ },
+ {
+  "text": "que",
+  "start": 23.58,
+  "end": 23.78,
+  "line": 5
+ },
+ {
+  "text": "gira",
+  "start": 23.78,
+  "end": 24.04,
+  "line": 5
+ },
+ {
+  "text": "dentro",
+  "start": 24.04,
+  "end": 24.24,
+  "line": 5
+ },
+ {
+  "text": "de",
+  "start": 24.24,
+  "end": 24.48,
+  "line": 5
+ },
+ {
+  "text": "un",
+  "start": 24.48,
+  "end": 24.6,
+  "line": 5
+ },
+ {
+  "text": "tubo.",
+  "start": 24.6,
+  "end": 24.96,
+  "line": 5
+ },
+ {
+  "text": "El",
+  "start": 25.14,
+  "end": 25.28,
+  "line": 6
+ },
+ {
+  "text": "tornillo",
+  "start": 25.28,
+  "end": 25.68,
+  "line": 6
+ },
+ {
+  "text": "la",
+  "start": 25.68,
+  "end": 25.84,
+  "line": 6
+ },
+ {
+  "text": "aprieta",
+  "start": 25.84,
+  "end": 26.16,
+  "line": 6
+ },
+ {
+  "text": "tanto",
+  "start": 26.16,
+  "end": 26.46,
+  "line": 6
+ },
+ {
+  "text": "que",
+  "start": 26.46,
+  "end": 26.68,
+  "line": 6
+ },
+ {
+  "text": "la",
+  "start": 26.68,
+  "end": 26.8,
+  "line": 6
+ },
+ {
+  "text": "fricción",
+  "start": 26.8,
+  "end": 27.18,
+  "line": 6
+ },
+ {
+  "text": "la",
+  "start": 27.18,
+  "end": 27.34,
+  "line": 6
+ },
+ {
+  "text": "calienta",
+  "start": 27.34,
+  "end": 27.8,
+  "line": 6
+ },
+ {
+  "text": "a",
+  "start": 27.8,
+  "end": 27.9,
+  "line": 6
+ },
+ {
+  "text": "más",
+  "start": 27.9,
+  "end": 28.02,
+  "line": 6
+ },
+ {
+  "text": "de",
+  "start": 28.02,
+  "end": 28.18,
+  "line": 6
+ },
+ {
+  "text": "cien",
+  "start": 28.407,
+  "end": 28.607,
+  "line": 6
+ },
+ {
+  "text": "grados.",
+  "start": 28.38,
+  "end": 28.88,
+  "line": 6
+ },
+ {
+  "text": "Eso",
+  "start": 28.88,
+  "end": 29.24,
+  "line": 7
+ },
+ {
+  "text": "es",
+  "start": 29.24,
+  "end": 29.44,
+  "line": 7
+ },
+ {
+  "text": "el",
+  "start": 29.44,
+  "end": 29.56,
+  "line": 7
+ },
+ {
+  "text": "extrusor.",
+  "start": 29.56,
+  "end": 30.1,
+  "line": 7
+ },
+ {
+  "text": "Ahí",
+  "start": 30.44,
+  "end": 30.66,
+  "line": 8
+ },
+ {
+  "text": "adentro,",
+  "start": 30.66,
+  "end": 31.1,
+  "line": 8
+ },
+ {
+  "text": "el",
+  "start": 31.1,
+  "end": 31.48,
+  "line": 8
+ },
+ {
+  "text": "agua",
+  "start": 31.48,
+  "end": 31.68,
+  "line": 8
+ },
+ {
+  "text": "quiere",
+  "start": 31.68,
+  "end": 31.92,
+  "line": 8
+ },
+ {
+  "text": "hervir,",
+  "start": 31.92,
+  "end": 32.22,
+  "line": 8
+ },
+ {
+  "text": "pero",
+  "start": 32.56,
+  "end": 32.7,
+  "line": 8
+ },
+ {
+  "text": "la",
+  "start": 32.7,
+  "end": 32.84,
+  "line": 8
+ },
+ {
+  "text": "presión",
+  "start": 32.84,
+  "end": 33.2,
+  "line": 8
+ },
+ {
+  "text": "es",
+  "start": 33.2,
+  "end": 33.4,
+  "line": 8
+ },
+ {
+  "text": "tan",
+  "start": 33.4,
+  "end": 33.48,
+  "line": 8
+ },
+ {
+  "text": "alta",
+  "start": 33.48,
+  "end": 33.74,
+  "line": 8
+ },
+ {
+  "text": "que",
+  "start": 33.74,
+  "end": 33.94,
+  "line": 8
+ },
+ {
+  "text": "no",
+  "start": 33.94,
+  "end": 34.08,
+  "line": 8
+ },
+ {
+  "text": "la",
+  "start": 34.08,
+  "end": 34.18,
+  "line": 8
+ },
+ {
+  "text": "deja",
+  "start": 34.18,
+  "end": 34.38,
+  "line": 8
+ },
+ {
+  "text": "convertirse",
+  "start": 34.38,
+  "end": 35.06,
+  "line": 8
+ },
+ {
+  "text": "en",
+  "start": 35.06,
+  "end": 35.2,
+  "line": 8
+ },
+ {
+  "text": "vapor.",
+  "start": 35.2,
+  "end": 35.38,
+  "line": 8
+ },
+ {
+  "text": "Al",
+  "start": 35.9,
+  "end": 36.0,
+  "line": 9
+ },
+ {
+  "text": "final",
+  "start": 36.0,
+  "end": 36.2,
+  "line": 9
+ },
+ {
+  "text": "del",
+  "start": 36.2,
+  "end": 36.42,
+  "line": 9
+ },
+ {
+  "text": "tubo",
+  "start": 36.42,
+  "end": 36.8,
+  "line": 9
+ },
+ {
+  "text": "hay",
+  "start": 36.8,
+  "end": 37.26,
+  "line": 9
+ },
+ {
+  "text": "un",
+  "start": 37.26,
+  "end": 37.38,
+  "line": 9
+ },
+ {
+  "text": "agujerito.",
+  "start": 37.38,
+  "end": 37.92,
+  "line": 9
+ },
+ {
+  "text": "Cuando",
+  "start": 38.38,
+  "end": 38.54,
+  "line": 9
+ },
+ {
+  "text": "la",
+  "start": 38.54,
+  "end": 38.72,
+  "line": 9
+ },
+ {
+  "text": "masa",
+  "start": 38.72,
+  "end": 38.92,
+  "line": 9
+ },
+ {
+  "text": "sale,",
+  "start": 38.92,
+  "end": 39.24,
+  "line": 9
+ },
+ {
+  "text": "la",
+  "start": 39.62,
+  "end": 39.64,
+  "line": 9
+ },
+ {
+  "text": "presión",
+  "start": 39.64,
+  "end": 40.0,
+  "line": 9
+ },
+ {
+  "text": "desaparece",
+  "start": 40.0,
+  "end": 40.58,
+  "line": 9
+ },
+ {
+  "text": "de",
+  "start": 40.58,
+  "end": 40.7,
+  "line": 9
+ },
+ {
+  "text": "golpe.",
+  "start": 40.7,
+  "end": 40.96,
+  "line": 9
+ },
+ {
+  "text": "El",
+  "start": 41.28,
+  "end": 41.38,
+  "line": 10
+ },
+ {
+  "text": "agua",
+  "start": 41.38,
+  "end": 41.54,
+  "line": 10
+ },
+ {
+  "text": "se",
+  "start": 41.54,
+  "end": 41.72,
+  "line": 10
+ },
+ {
+  "text": "vuelve",
+  "start": 41.72,
+  "end": 41.98,
+  "line": 10
+ },
+ {
+  "text": "vapor",
+  "start": 41.98,
+  "end": 42.22,
+  "line": 10
+ },
+ {
+  "text": "en",
+  "start": 42.22,
+  "end": 42.44,
+  "line": 10
+ },
+ {
+  "text": "un",
+  "start": 42.44,
+  "end": 42.54,
+  "line": 10
+ },
+ {
+  "text": "instante,",
+  "start": 42.54,
+  "end": 43.02,
+  "line": 10
+ },
+ {
+  "text": "y",
+  "start": 43.02,
+  "end": 43.3,
+  "line": 10
+ },
+ {
+  "text": "la",
+  "start": 43.3,
+  "end": 43.44,
+  "line": 10
+ },
+ {
+  "text": "masa",
+  "start": 43.44,
+  "end": 43.66,
+  "line": 10
+ },
+ {
+  "text": "se",
+  "start": 43.66,
+  "end": 43.84,
+  "line": 10
+ },
+ {
+  "text": "infla",
+  "start": 43.84,
+  "end": 44.14,
+  "line": 10
+ },
+ {
+  "text": "como",
+  "start": 44.14,
+  "end": 44.34,
+  "line": 10
+ },
+ {
+  "text": "palomita.",
+  "start": 44.34,
+  "end": 44.88,
+  "line": 10
+ },
+ {
+  "text": "Pegada",
+  "start": 45.26,
+  "end": 45.54,
+  "line": 11
+ },
+ {
+  "text": "al",
+  "start": 45.54,
+  "end": 45.68,
+  "line": 11
+ },
+ {
+  "text": "agujero",
+  "start": 45.68,
+  "end": 46.04,
+  "line": 11
+ },
+ {
+  "text": "gira",
+  "start": 46.04,
+  "end": 46.34,
+  "line": 11
+ },
+ {
+  "text": "una",
+  "start": 46.34,
+  "end": 46.52,
+  "line": 11
+ },
+ {
+  "text": "cuchilla",
+  "start": 46.52,
+  "end": 46.92,
+  "line": 11
+ },
+ {
+  "text": "que",
+  "start": 46.92,
+  "end": 47.1,
+  "line": 11
+ },
+ {
+  "text": "la",
+  "start": 47.1,
+  "end": 47.22,
+  "line": 11
+ },
+ {
+  "text": "corta",
+  "start": 47.22,
+  "end": 47.54,
+  "line": 11
+ },
+ {
+  "text": "en",
+  "start": 47.54,
+  "end": 47.62,
+  "line": 11
+ },
+ {
+  "text": "pedacitos,",
+  "start": 47.62,
+  "end": 48.14,
+  "line": 11
+ },
+ {
+  "text": "miles",
+  "start": 48.44,
+  "end": 48.72,
+  "line": 11
+ },
+ {
+  "text": "por",
+  "start": 48.72,
+  "end": 48.98,
+  "line": 11
+ },
+ {
+  "text": "minuto.",
+  "start": 48.98,
+  "end": 49.56,
+  "line": 11
+ },
+ {
+  "text": "Pero",
+  "start": 49.66,
+  "end": 49.9,
+  "line": 12
+ },
+ {
+  "text": "todavía",
+  "start": 49.9,
+  "end": 50.32,
+  "line": 12
+ },
+ {
+  "text": "están",
+  "start": 50.32,
+  "end": 50.56,
+  "line": 12
+ },
+ {
+  "text": "húmedas",
+  "start": 50.56,
+  "end": 51.04,
+  "line": 12
+ },
+ {
+  "text": "y",
+  "start": 51.04,
+  "end": 51.3,
+  "line": 12
+ },
+ {
+  "text": "se",
+  "start": 51.3,
+  "end": 51.42,
+  "line": 12
+ },
+ {
+  "text": "ponen",
+  "start": 51.42,
+  "end": 51.68,
+  "line": 12
+ },
+ {
+  "text": "chiclosas.",
+  "start": 52.017,
+  "end": 52.217,
+  "line": 12
+ },
+ {
+  "text": "Entonces",
+  "start": 52.66,
+  "end": 53.1,
+  "line": 12
+ },
+ {
+  "text": "pasan",
+  "start": 53.1,
+  "end": 53.58,
+  "line": 12
+ },
+ {
+  "text": "por",
+  "start": 53.58,
+  "end": 53.74,
+  "line": 12
+ },
+ {
+  "text": "un",
+  "start": 53.74,
+  "end": 53.88,
+  "line": 12
+ },
+ {
+  "text": "horno",
+  "start": 53.88,
+  "end": 54.12,
+  "line": 12
+ },
+ {
+  "text": "larguísimo",
+  "start": 54.12,
+  "end": 54.68,
+  "line": 12
+ },
+ {
+  "text": "que",
+  "start": 54.68,
+  "end": 54.98,
+  "line": 12
+ },
+ {
+  "text": "les",
+  "start": 54.98,
+  "end": 55.12,
+  "line": 12
+ },
+ {
+  "text": "saca",
+  "start": 55.12,
+  "end": 55.4,
+  "line": 12
+ },
+ {
+  "text": "el",
+  "start": 55.4,
+  "end": 55.5,
+  "line": 12
+ },
+ {
+  "text": "agua,",
+  "start": 55.5,
+  "end": 55.74,
+  "line": 12
+ },
+ {
+  "text": "hasta",
+  "start": 55.98,
+  "end": 56.22,
+  "line": 12
+ },
+ {
+  "text": "que",
+  "start": 56.22,
+  "end": 56.4,
+  "line": 12
+ },
+ {
+  "text": "truenan.",
+  "start": 56.4,
+  "end": 56.82,
+  "line": 12
+ },
+ {
+  "text": "Ahora",
+  "start": 56.82,
+  "end": 57.34,
+  "line": 13
+ },
+ {
+  "text": "el",
+  "start": 57.34,
+  "end": 57.5,
+  "line": 13
+ },
+ {
+  "text": "sabor.",
+  "start": 57.5,
+  "end": 57.76,
+  "line": 13
+ },
+ {
+  "text": "Pero",
+  "start": 58.48,
+  "end": 58.7,
+  "line": 13
+ },
+ {
+  "text": "si",
+  "start": 58.7,
+  "end": 58.86,
+  "line": 13
+ },
+ {
+  "text": "les",
+  "start": 58.86,
+  "end": 59.0,
+  "line": 13
+ },
+ {
+  "text": "echas",
+  "start": 59.0,
+  "end": 59.26,
+  "line": 13
+ },
+ {
+  "text": "polvo",
+  "start": 59.26,
+  "end": 59.58,
+  "line": 13
+ },
+ {
+  "text": "de",
+  "start": 59.58,
+  "end": 59.7,
+  "line": 13
+ },
+ {
+  "text": "queso",
+  "start": 59.7,
+  "end": 59.94,
+  "line": 13
+ },
+ {
+  "text": "así",
+  "start": 59.94,
+  "end": 60.14,
+  "line": 13
+ },
+ {
+  "text": "nada",
+  "start": 60.14,
+  "end": 60.3,
+  "line": 13
+ },
+ {
+  "text": "más,",
+  "start": 60.3,
+  "end": 60.6,
+  "line": 13
+ },
+ {
+  "text": "se",
+  "start": 60.84,
+  "end": 61.02,
+  "line": 13
+ },
+ {
+  "text": "resbala",
+  "start": 61.02,
+  "end": 61.52,
+  "line": 13
+ },
+ {
+  "text": "y",
+  "start": 61.52,
+  "end": 61.82,
+  "line": 13
+ },
+ {
+  "text": "se",
+  "start": 61.82,
+  "end": 61.98,
+  "line": 13
+ },
+ {
+  "text": "cae.",
+  "start": 61.98,
+  "end": 62.3,
+  "line": 13
+ },
+ {
+  "text": "Entonces",
+  "start": 62.58,
+  "end": 63.0,
+  "line": 14
+ },
+ {
+  "text": "las",
+  "start": 63.0,
+  "end": 63.26,
+  "line": 14
+ },
+ {
+  "text": "metes",
+  "start": 63.26,
+  "end": 63.62,
+  "line": 14
+ },
+ {
+  "text": "a",
+  "start": 63.62,
+  "end": 63.7,
+  "line": 14
+ },
+ {
+  "text": "un",
+  "start": 63.7,
+  "end": 63.8,
+  "line": 14
+ },
+ {
+  "text": "tambor",
+  "start": 63.8,
+  "end": 64.14,
+  "line": 14
+ },
+ {
+  "text": "que",
+  "start": 64.14,
+  "end": 64.28,
+  "line": 14
+ },
+ {
+  "text": "da",
+  "start": 64.28,
+  "end": 64.4,
+  "line": 14
+ },
+ {
+  "text": "vueltas.",
+  "start": 64.4,
+  "end": 64.82,
+  "line": 14
+ },
+ {
+  "text": "Primero",
+  "start": 65.22,
+  "end": 65.58,
+  "line": 14
+ },
+ {
+  "text": "las",
+  "start": 65.58,
+  "end": 65.72,
+  "line": 14
+ },
+ {
+  "text": "rocían",
+  "start": 65.72,
+  "end": 66.04,
+  "line": 14
+ },
+ {
+  "text": "con",
+  "start": 66.04,
+  "end": 66.26,
+  "line": 14
+ },
+ {
+  "text": "aceite,",
+  "start": 66.26,
+  "end": 66.54,
+  "line": 14
+ },
+ {
+  "text": "y",
+  "start": 66.54,
+  "end": 67.06,
+  "line": 14
+ },
+ {
+  "text": "luego",
+  "start": 67.06,
+  "end": 67.26,
+  "line": 14
+ },
+ {
+  "text": "les",
+  "start": 67.26,
+  "end": 67.44,
+  "line": 14
+ },
+ {
+  "text": "cae",
+  "start": 67.44,
+  "end": 67.7,
+  "line": 14
+ },
+ {
+  "text": "una",
+  "start": 67.7,
+  "end": 67.82,
+  "line": 14
+ },
+ {
+  "text": "lluvia",
+  "start": 67.82,
+  "end": 68.14,
+  "line": 14
+ },
+ {
+  "text": "de",
+  "start": 68.14,
+  "end": 68.26,
+  "line": 14
+ },
+ {
+  "text": "queso",
+  "start": 68.26,
+  "end": 68.54,
+  "line": 14
+ },
+ {
+  "text": "que",
+  "start": 68.54,
+  "end": 68.68,
+  "line": 14
+ },
+ {
+  "text": "ahora",
+  "start": 68.68,
+  "end": 68.88,
+  "line": 14
+ },
+ {
+  "text": "sí",
+  "start": 68.88,
+  "end": 69.08,
+  "line": 14
+ },
+ {
+  "text": "se",
+  "start": 69.08,
+  "end": 69.22,
+  "line": 14
+ },
+ {
+  "text": "queda",
+  "start": 69.22,
+  "end": 69.42,
+  "line": 14
+ },
+ {
+  "text": "pegada.",
+  "start": 69.42,
+  "end": 69.8,
+  "line": 14
+ },
+ {
+  "text": "Una",
+  "start": 70.14,
+  "end": 70.36,
+  "line": 15
+ },
+ {
+  "text": "báscula",
+  "start": 70.36,
+  "end": 70.82,
+  "line": 15
+ },
+ {
+  "text": "con",
+  "start": 70.82,
+  "end": 71.0,
+  "line": 15
+ },
+ {
+  "text": "muchas",
+  "start": 71.0,
+  "end": 71.26,
+  "line": 15
+ },
+ {
+  "text": "cubetas",
+  "start": 71.26,
+  "end": 71.68,
+  "line": 15
+ },
+ {
+  "text": "pesa",
+  "start": 71.68,
+  "end": 72.08,
+  "line": 15
+ },
+ {
+  "text": "porciones",
+  "start": 72.08,
+  "end": 72.44,
+  "line": 15
+ },
+ {
+  "text": "al",
+  "start": 72.44,
+  "end": 72.66,
+  "line": 15
+ },
+ {
+  "text": "mismo",
+  "start": 72.66,
+  "end": 72.88,
+  "line": 15
+ },
+ {
+  "text": "tiempo,",
+  "start": 72.88,
+  "end": 73.26,
+  "line": 15
+ },
+ {
+  "text": "y",
+  "start": 73.56,
+  "end": 73.74,
+  "line": 15
+ },
+ {
+  "text": "junta",
+  "start": 73.74,
+  "end": 74.04,
+  "line": 15
+ },
+ {
+  "text": "justo",
+  "start": 74.04,
+  "end": 74.3,
+  "line": 15
+ },
+ {
+  "text": "las",
+  "start": 74.3,
+  "end": 74.54,
+  "line": 15
+ },
+ {
+  "text": "que",
+  "start": 74.54,
+  "end": 74.66,
+  "line": 15
+ },
+ {
+  "text": "suman",
+  "start": 74.66,
+  "end": 74.94,
+  "line": 15
+ },
+ {
+  "text": "lo",
+  "start": 74.94,
+  "end": 75.04,
+  "line": 15
+ },
+ {
+  "text": "de",
+  "start": 75.04,
+  "end": 75.14,
+  "line": 15
+ },
+ {
+  "text": "una",
+  "start": 75.14,
+  "end": 75.3,
+  "line": 15
+ },
+ {
+  "text": "bolsa.",
+  "start": 75.3,
+  "end": 75.64,
+  "line": 15
+ },
+ {
+  "text": "Pero",
+  "start": 75.94,
+  "end": 76.16,
+  "line": 16
+ },
+ {
+  "text": "con",
+  "start": 76.16,
+  "end": 76.36,
+  "line": 16
+ },
+ {
+  "text": "aire",
+  "start": 76.36,
+  "end": 76.52,
+  "line": 16
+ },
+ {
+  "text": "normal,",
+  "start": 76.52,
+  "end": 76.86,
+  "line": 16
+ },
+ {
+  "text": "el",
+  "start": 77.3,
+  "end": 77.4,
+  "line": 16
+ },
+ {
+  "text": "aceite",
+  "start": 77.4,
+  "end": 77.64,
+  "line": 16
+ },
+ {
+  "text": "se",
+  "start": 77.64,
+  "end": 77.92,
+  "line": 16
+ },
+ {
+  "text": "echa",
+  "start": 77.92,
+  "end": 78.06,
+  "line": 16
+ },
+ {
+  "text": "a",
+  "start": 78.06,
+  "end": 78.16,
+  "line": 16
+ },
+ {
+  "text": "perder",
+  "start": 78.16,
+  "end": 78.4,
+  "line": 16
+ },
+ {
+  "text": "y",
+  "start": 78.4,
+  "end": 78.82,
+  "line": 16
+ },
+ {
+  "text": "las",
+  "start": 78.82,
+  "end": 78.98,
+  "line": 16
+ },
+ {
+  "text": "frituras",
+  "start": 78.98,
+  "end": 79.32,
+  "line": 16
+ },
+ {
+  "text": "se",
+  "start": 79.32,
+  "end": 79.5,
+  "line": 16
+ },
+ {
+  "text": "aplastan.",
+  "start": 79.5,
+  "end": 79.94,
+  "line": 16
+ },
+ {
+  "text": "Entonces",
+  "start": 80.06,
+  "end": 80.52,
+  "line": 17
+ },
+ {
+  "text": "llenan",
+  "start": 80.52,
+  "end": 80.94,
+  "line": 17
+ },
+ {
+  "text": "la",
+  "start": 80.94,
+  "end": 81.12,
+  "line": 17
+ },
+ {
+  "text": "bolsa",
+  "start": 81.12,
+  "end": 81.4,
+  "line": 17
+ },
+ {
+  "text": "de",
+  "start": 81.4,
+  "end": 81.5,
+  "line": 17
+ },
+ {
+  "text": "nitrógeno.",
+  "start": 81.5,
+  "end": 82.16,
+  "line": 17
+ },
+ {
+  "text": "Cuida",
+  "start": 82.38,
+  "end": 82.66,
+  "line": 17
+ },
+ {
+  "text": "el",
+  "start": 82.66,
+  "end": 82.78,
+  "line": 17
+ },
+ {
+  "text": "sabor",
+  "start": 82.78,
+  "end": 83.06,
+  "line": 17
+ },
+ {
+  "text": "y",
+  "start": 83.06,
+  "end": 83.48,
+  "line": 17
+ },
+ {
+  "text": "funciona",
+  "start": 83.48,
+  "end": 83.84,
+  "line": 17
+ },
+ {
+  "text": "como",
+  "start": 83.84,
+  "end": 84.14,
+  "line": 17
+ },
+ {
+  "text": "colchón.",
+  "start": 84.14,
+  "end": 84.58,
+  "line": 17
+ },
+ {
+  "text": "Y",
+  "start": 84.58,
+  "end": 85.02,
+  "line": 18
+ },
+ {
+  "text": "por",
+  "start": 85.02,
+  "end": 85.2,
+  "line": 18
+ },
+ {
+  "text": "eso",
+  "start": 85.2,
+  "end": 85.36,
+  "line": 18
+ },
+ {
+  "text": "tus",
+  "start": 85.36,
+  "end": 85.58,
+  "line": 18
+ },
+ {
+  "text": "dedos",
+  "start": 85.58,
+  "end": 85.88,
+  "line": 18
+ },
+ {
+  "text": "quedan",
+  "start": 85.88,
+  "end": 86.16,
+  "line": 18
+ },
+ {
+  "text": "naranjas.",
+  "start": 86.16,
+  "end": 86.62,
+  "line": 18
+ },
+ {
+  "text": "Felicidades,",
+  "start": 87.3,
+  "end": 87.96,
+  "line": 18
+ },
+ {
+  "text": "hiciste",
+  "start": 88.36,
+  "end": 88.72,
+  "line": 18
+ },
+ {
+  "text": "una",
+  "start": 88.72,
+  "end": 88.84,
+  "line": 18
+ },
+ {
+  "text": "fritura",
+  "start": 88.84,
+  "end": 89.22,
+  "line": 18
+ },
+ {
+  "text": "de",
+  "start": 89.22,
+  "end": 89.34,
+  "line": 18
+ },
+ {
+  "text": "queso.",
+  "start": 89.34,
+  "end": 89.62,
+  "line": 18
+ }
+]

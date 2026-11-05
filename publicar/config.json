@@ -1,0 +1,131 @@
+{
+  "_nota": "Horarios en hora del centro de México (UTC-6). Son un punto de partida: ajústalos con YouTube Analytics. Para activar Facebook o TikTok en un proyecto: elige su cuenta en n8n, pon page_id si es Facebook y cambia activo a true.",
+  "utc_offset_horas": -6,
+  "anticipacion_minutos": 90,
+  "duracion_maxima_s": 180,
+  "proyectos": {
+    "sticks": {
+      "horarios": [
+        "19:30"
+      ],
+      "categoria_youtube": "24",
+      "hashtags": [
+        "#Shorts",
+        "#QuePasariaSi",
+        "#Sticks"
+      ],
+      "plataformas": {
+        "youtube": {
+          "activo": true,
+          "programa": true
+        },
+        "facebook": {
+          "activo": true,
+          "programa": true,
+          "page_id": "806452805879704"
+        },
+        "tiktok": {
+          "activo": false,
+          "programa": false,
+          "privacidad": "SELF_ONLY"
+        }
+      },
+      "nombre": "David SOS",
+      "icono": "sticks.png",
+      "pausado": false
+    },
+    "minecraft": {
+      "horarios": [
+        "19:30"
+      ],
+      "categoria_youtube": "27",
+      "hashtags": [
+        "#Shorts",
+        "#ComoSeHace",
+        "#Fabrica"
+      ],
+      "plataformas": {
+        "youtube": {
+          "activo": true,
+          "programa": true
+        },
+        "facebook": {
+          "activo": true,
+          "programa": true,
+          "page_id": "1215820188285579"
+        },
+        "tiktok": {
+          "activo": false,
+          "programa": false,
+          "privacidad": "SELF_ONLY"
+        }
+      },
+      "nombre": "Minecraft",
+      "icono": "",
+      "pausado": true
+    },
+    "3dpartes": {
+      "horarios": [
+        "19:30"
+      ],
+      "categoria_youtube": "27",
+      "hashtags": [
+        "#Shorts",
+        "#Construccion",
+        "#PasoAPaso"
+      ],
+      "plataformas": {
+        "youtube": {
+          "activo": true,
+          "programa": true
+        },
+        "facebook": {
+          "activo": true,
+          "programa": true,
+          "page_id": "1215820188285579"
+        },
+        "tiktok": {
+          "activo": false,
+          "programa": false,
+          "privacidad": "SELF_ONLY"
+        }
+      },
+      "nombre": "Así se Construye",
+      "icono": "3dpartes.png",
+      "pausado": false
+    },
+    "league": {
+      "horarios": [
+        "14:00",
+        "20:00"
+      ],
+      "categoria_youtube": "20",
+      "hashtags": [
+        "#Shorts",
+        "#Gaming",
+        "#ClaseGamer"
+      ],
+      "pie_descripcion": "{titulo} was created under Riot Games' \"Legal Jibber Jabber\" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.",
+      "plataformas": {
+        "youtube": {
+          "activo": true,
+          "programa": true
+        },
+        "facebook": {
+          "activo": false,
+          "programa": true,
+          "page_id": ""
+        },
+        "tiktok": {
+          "activo": false,
+          "programa": false,
+          "privacidad": "SELF_ONLY"
+        }
+      },
+      "nombre": "Profesor Jaime Enrique",
+      "icono": "league.png",
+      "pausado": false
+    }
+  },
+  "_nota_panel": "Panel (publicar\\panel): 'nombre' e 'icono' (archivo en publicar\\panel\\iconos) por proyecto; 'pausado': true lo muestra en gris."
+}

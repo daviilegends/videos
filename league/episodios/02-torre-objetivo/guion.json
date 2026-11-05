@@ -1,0 +1,69 @@
+{
+ "titulo": "¿Por qué la torre te elige a ti?",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Turret (Target selection, 750 range, 1400 call for help, Warming Up +50% per hit up to +150%, resets 5 s, not on target switch; Reinforced Armor 80%)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué la torre ignora a todo el mundo, y de repente te elige a ti? Como el profe que solo te pregunta cuando no estudiaste."
+  },
+  {
+   "id": "reglas",
+   "text": "No es que te odie. La torre sigue unas reglas muy claras, y hoy te las enseño."
+  },
+  {
+   "id": "regla1",
+   "text": "Regla uno: la torre ataca a la primera unidad enemiga que entra en su rango, y no la suelta hasta que muere."
+  },
+  {
+   "id": "rango",
+   "text": "Su rango de ataque es de setecientas cincuenta unidades."
+  },
+  {
+   "id": "subditos",
+   "text": "Por eso, si tus súbditos entran primero, la torre se entretiene con ellos."
+  },
+  {
+   "id": "excepcion",
+   "text": "Pero hay una excepción. Si dañas a un campeón enemigo cerca de su torre,"
+  },
+  {
+   "id": "cambia",
+   "text": "la torre se olvida de los súbditos, y cambia de objetivo hacia ti."
+  },
+  {
+   "id": "calienta",
+   "text": "Y aquí viene lo peor: cada disparo que te acierta pega un cincuenta por ciento más fuerte. Se calienta más rápido que tu tío hablando de fútbol."
+  },
+  {
+   "id": "tope",
+   "text": "Hasta un ciento cincuenta por ciento extra. O sea, el cuarto disparo duele dos veces y media lo que el primero. Duele más que el recibo de la luz en verano."
+  },
+  {
+   "id": "reset",
+   "text": "Ese calentamiento solo se reinicia cinco segundos después de su último disparo a un campeón."
+  },
+  {
+   "id": "cambio",
+   "text": "Y cambiar de objetivo no lo reinicia. Si salta de tu compañero a ti, te llega caliente."
+  },
+  {
+   "id": "armadura",
+   "text": "Otro dato: sin súbditos enemigos cerca, la torre recibe un ochenta por ciento menos de daño."
+  },
+  {
+   "id": "porqueso",
+   "text": "Por eso, tirarla tú solo, sin tu oleada, es como querer tumbar una pared a cachetadas."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: entra a la torre cuando tu oleada ya esté adentro, y no le pegues al rival bajo su torre si no puedes rematarlo."
+  },
+  {
+   "id": "cierre",
+   "text": "Ahora ya sabes cómo piensa la torre. Cada like es un puñetazo a Teemo… y si comentas, le pegamos dos.",
+   "voz": "Ahora ya sabes cómo piensa la torre. Cada like es un puñetazo a Timo… y si comentas, le pegamos dos."
+  }
+ ]
+}

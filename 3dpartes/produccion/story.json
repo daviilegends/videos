@@ -1,0 +1,17 @@
+{
+  "title": "Así se construye una alberca",
+  "scenes": [
+    {"id": "b1", "bg": "-", "etiqueta": "", "text": "Tienes un jardín vacío y quieres una alberca."},
+    {"id": "b2", "bg": "-", "etiqueta": "TRAZO", "text": "Primero marcas la forma con estacas y cuerda. Eso se llama trazo."},
+    {"id": "b3", "bg": "-", "etiqueta": "", "text": "Luego excavas. Pero si cavas paredes rectas, la tierra se derrumba."},
+    {"id": "b4", "bg": "-", "etiqueta": "TALUD", "text": "Entonces cortas las paredes un poco inclinadas, para que la tierra no se caiga. Eso es un talud."},
+    {"id": "b5", "bg": "-", "etiqueta": "PLANTILLA DE GRAVA", "text": "En el fondo pones grava y la compactas, para que el piso no se hunda."},
+    {"id": "b6", "bg": "-", "etiqueta": "", "text": "Pero el concreto solo se agrieta con el peso del agua."},
+    {"id": "b7", "bg": "-", "etiqueta": "ARMADO", "text": "Entonces colocas una malla de varillas de acero. Eso se llama armado."},
+    {"id": "b8", "bg": "-", "etiqueta": "CONCRETO LANZADO", "text": "Después lanzas el concreto sobre el armado, piso y paredes en una sola pieza."},
+    {"id": "b9", "bg": "-", "etiqueta": "", "text": "Pero el concreto deja pasar el agua poco a poco."},
+    {"id": "b10", "bg": "-", "etiqueta": "IMPERMEABILIZANTE", "text": "Entonces lo cubres con un impermeabilizante."},
+    {"id": "b11", "bg": "-", "etiqueta": "SISTEMA DE FILTRADO", "text": "Instalas las tuberías. El agua sale por el fondo, pasa por un filtro y regresa limpia."},
+    {"id": "b12", "bg": "-", "etiqueta": "", "text": "Pones el azulejo y llenas de agua. Felicidades, construiste una alberca."}
+  ]
+}

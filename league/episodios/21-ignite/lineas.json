@@ -1,0 +1,110 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué Ignite es el terror de los que se curan?",
+  "start": 0.25,
+  "end": 2.161
+ },
+ {
+  "id": "spoiler",
+  "text": "Porque no solo quema. También corta la curación.",
+  "start": 2.581,
+  "end": 4.773
+ },
+ {
+  "id": "que",
+  "text": "Ignite quema al enemigo y le hace daño verdadero durante cinco segundos.",
+  "start": 5.193,
+  "end": 8.373
+ },
+ {
+  "id": "verdadero",
+  "text": "Daño verdadero: no importa cuánta armadura o resistencia tenga.",
+  "start": 8.793,
+  "end": 11.92
+ },
+ {
+  "id": "heridas",
+  "text": "Pero lo más importante: le aplica heridas graves durante esos cinco segundos.",
+  "start": 12.34,
+  "end": 15.948
+ },
+ {
+  "id": "cuarenta",
+  "text": "Heridas graves reduce un cuarenta por ciento la curación que recibe, y su regeneración de vida.",
+  "start": 16.368,
+  "end": 20.435
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: si el rival se iba a curar cien de vida, con Ignite solo recupera sesenta.",
+  "start": 20.855,
+  "end": 24.697
+ },
+ {
+  "id": "broma",
+  "text": "Es como ponerle sal a la herida. Literal.",
+  "start": 25.117,
+  "end": 27.078
+ },
+ {
+  "id": "revela",
+  "text": "Y mientras quema, también lo revela, aunque se esconda en un arbusto.",
+  "start": 27.498,
+  "end": 30.39
+ },
+ {
+  "id": "rango",
+  "text": "Su alcance es de seiscientas unidades.",
+  "start": 30.81,
+  "end": 32.551
+ },
+ {
+  "id": "cd",
+  "text": "Pero tiene un enfriamiento de ciento ochenta segundos. Tres minutos.",
+  "start": 32.971,
+  "end": 36.024
+ },
+ {
+  "id": "comparacion",
+  "text": "Es menos que Flash, pero igual: si lo gastas mal, tienes que esperar.",
+  "start": 36.444,
+  "end": 39.424
+ },
+ {
+  "id": "cuando",
+  "text": "¿Cuándo usarlo? Cuando el rival está a punto de curarse, o cuando ya casi lo tienes.",
+  "start": 39.844,
+  "end": 43.668
+ },
+ {
+  "id": "no",
+  "text": "No lo uses al inicio de la pelea por emoción: guárdalo para rematar.",
+  "start": 44.088,
+  "end": 47.165
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: si el rival tiene un sanador, Ignite le arruina el día.",
+  "start": 47.585,
+  "end": 50.932
+ },
+ {
+  "id": "tip2",
+  "text": "Y si eres tú el que se cura mucho, cuidado con el rival que lleva Ignite.",
+  "start": 51.352,
+  "end": 54.321
+ },
+ {
+  "id": "tip3",
+  "text": "Cuando lo veas brillar en su barra, aléjate antes de que te queme.",
+  "start": 54.741,
+  "end": 57.382
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona Ignite. Cada like es un Ignite… en la herida de Teemo.",
+  "start": 57.802,
+  "end": 60.955
+ }
+]

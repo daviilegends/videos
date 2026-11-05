@@ -1,0 +1,289 @@
+{
+ "duration": 68.148,
+ "scenes": [
+  {
+   "id": "b1",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 0.3,
+   "end": 5.603,
+   "lines": [
+    {
+     "en": "Your house sits right at the bottom of a hill. And every time it rains, the hill slides a little closer to your bedroom.",
+     "es": "",
+     "nombra": false,
+     "start": 0.3,
+     "end": 5.323
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "etiqueta": "SOIL STUDY",
+   "termino_en": "",
+   "start": 5.603,
+   "end": 9.595,
+   "lines": [
+    {
+     "en": "First, you pull up samples of the soil, to find out how hard it's going to push.",
+     "es": "",
+     "nombra": true,
+     "start": 5.603,
+     "end": 9.315
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 9.595,
+   "end": 13.236,
+   "lines": [
+    {
+     "en": "So you build a thin wall. And the dirt just shoves it over, like a domino.",
+     "es": "",
+     "nombra": false,
+     "start": 9.595,
+     "end": 12.956
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "etiqueta": "FOOTING",
+   "termino_en": "",
+   "start": 13.236,
+   "end": 18.072,
+   "lines": [
+    {
+     "en": "So you give it a wide foot underneath, and now the weight of the soil holds it down.",
+     "es": "",
+     "nombra": false,
+     "start": 13.236,
+     "end": 16.827
+    },
+    {
+     "en": "This is a footing.",
+     "es": "",
+     "nombra": true,
+     "start": 16.947,
+     "end": 17.792
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 18.072,
+   "end": 22.023,
+   "lines": [
+    {
+     "en": "But the hill can still push the whole thing forward, sliding it like a hockey puck.",
+     "es": "",
+     "nombra": false,
+     "start": 18.072,
+     "end": 21.743
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "etiqueta": "SHEAR KEY",
+   "termino_en": "",
+   "start": 22.023,
+   "end": 26.364,
+   "lines": [
+    {
+     "en": "So you add a concrete tooth under the footing that bites into the ground.",
+     "es": "",
+     "nombra": false,
+     "start": 22.023,
+     "end": 25.038
+    },
+    {
+     "en": "This is a shear key.",
+     "es": "",
+     "nombra": true,
+     "start": 25.158,
+     "end": 26.084
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "etiqueta": "REBAR",
+   "termino_en": "",
+   "start": 26.364,
+   "end": 31.604,
+   "lines": [
+    {
+     "en": "Now, for real. You place steel bars that run from the footing up into the wall, so they work as one piece.",
+     "es": "",
+     "nombra": true,
+     "start": 26.364,
+     "end": 31.324
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "etiqueta": "FORMWORK",
+   "termino_en": "",
+   "start": 31.604,
+   "end": 36.852,
+   "lines": [
+    {
+     "en": "You set up wooden forms, pour the concrete, and shake it, so no air bubbles get trapped inside.",
+     "es": "",
+     "nombra": true,
+     "start": 31.604,
+     "end": 36.572
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "etiqueta": "CURING",
+   "termino_en": "",
+   "start": 36.852,
+   "end": 41.645,
+   "lines": [
+    {
+     "en": "Then you keep it wet for days while it hardens, so it doesn't crack.",
+     "es": "",
+     "nombra": false,
+     "start": 36.852,
+     "end": 40.121
+    },
+    {
+     "en": "This is curing.",
+     "es": "",
+     "nombra": true,
+     "start": 40.241,
+     "end": 41.365
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 41.645,
+   "end": 46.003,
+   "lines": [
+    {
+     "en": "But when it rains, water piles up behind the wall, and pushes even harder than the dirt.",
+     "es": "",
+     "nombra": false,
+     "start": 41.645,
+     "end": 45.723
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "etiqueta": "WEEP HOLES",
+   "termino_en": "",
+   "start": 46.003,
+   "end": 49.861,
+   "lines": [
+    {
+     "en": "So you leave little pipes through the wall to let the water out.",
+     "es": "",
+     "nombra": false,
+     "start": 46.003,
+     "end": 48.461
+    },
+    {
+     "en": "These are weep holes.",
+     "es": "",
+     "nombra": true,
+     "start": 48.581,
+     "end": 49.581
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "etiqueta": "DRAIN",
+   "termino_en": "",
+   "start": 49.861,
+   "end": 54.638,
+   "lines": [
+    {
+     "en": "Right behind the wall, you add gravel and a pipe full of holes, so the water runs down and out.",
+     "es": "",
+     "nombra": true,
+     "start": 49.861,
+     "end": 54.358
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 54.638,
+   "end": 58.05,
+   "lines": [
+    {
+     "en": "Then you fill it back in with soil, one packed layer at a time.",
+     "es": "",
+     "nombra": false,
+     "start": 54.638,
+     "end": 57.77
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "etiqueta": "INTERCEPTOR DITCH",
+   "termino_en": "",
+   "start": 58.05,
+   "end": 61.878,
+   "lines": [
+    {
+     "en": "Up the hill, you dig a channel that catches the rain before it ever reaches the wall.",
+     "es": "",
+     "nombra": true,
+     "start": 58.05,
+     "end": 61.598
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 61.878,
+   "end": 64.732,
+   "lines": [
+    {
+     "en": "And you plant the slope, so the roots hold the dirt together.",
+     "es": "",
+     "nombra": false,
+     "start": 61.878,
+     "end": 64.452
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 64.732,
+   "end": 67.348,
+   "lines": [
+    {
+     "en": "Congratulations! You have built a retaining wall.",
+     "es": "",
+     "nombra": false,
+     "start": 64.732,
+     "end": 67.068
+    }
+   ]
+  }
+ ]
+}

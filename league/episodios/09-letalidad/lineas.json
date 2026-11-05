@@ -1,0 +1,86 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Letalidad o penetración de armadura? Si compras la equivocada, tu daño se va a la basura.",
+  "start": 0.25,
+  "end": 4.026
+ },
+ {
+  "id": "spoiler",
+  "text": "Las dos ignoran armadura, pero no funcionan igual.",
+  "start": 4.446,
+  "end": 6.7
+ },
+ {
+  "id": "armadura",
+  "text": "Primero: la armadura reduce tu daño. Con cien de armadura, el rival recibe solo la mitad.",
+  "start": 7.12,
+  "end": 11.722
+ },
+ {
+  "id": "letalidad",
+  "text": "La letalidad le quita una cantidad fija. Dieciocho de letalidad son dieciocho puntos menos de armadura.",
+  "start": 12.142,
+  "end": 16.552
+ },
+ {
+  "id": "debil",
+  "text": "Contra un tirador con treinta de armadura, eso es más de la mitad. Le pegas casi como si no tuviera nada.",
+  "start": 16.972,
+  "end": 21.605
+ },
+ {
+  "id": "porcentaje",
+  "text": "La penetración porcentual le quita un porcentaje. Lord Dominik ignora el treinta y cinco por ciento.",
+  "start": 22.025,
+  "end": 26.151
+ },
+ {
+  "id": "tanque",
+  "text": "Contra un tanque con trescientos de armadura, eso son ciento cinco puntos. Y tus dieciocho de letalidad, ahí, ni cosquillas.",
+  "start": 26.571,
+  "end": 32.148
+ },
+ {
+  "id": "broma",
+  "text": "Es como querer tirar un muro con una cuchara.",
+  "start": 32.568,
+  "end": 34.369
+ },
+ {
+  "id": "regla",
+  "text": "Regla de la profe: si el rival tiene poca armadura, letalidad. Si se compra puras armaduras, porcentaje.",
+  "start": 34.789,
+  "end": 39.455
+ },
+ {
+  "id": "asesinos",
+  "text": "Por eso los asesinos compran letalidad: cazan tiradores y magos, que casi no tienen armadura.",
+  "start": 39.875,
+  "end": 44.194
+ },
+ {
+  "id": "orden",
+  "text": "Y si llevas las dos, primero se aplica el porcentaje y después la letalidad. Se complementan.",
+  "start": 44.614,
+  "end": 48.731
+ },
+ {
+  "id": "nivel",
+  "text": "Ah, y desde el parche catorce, la letalidad da su valor completo desde el nivel uno.",
+  "start": 49.151,
+  "end": 52.908
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: antes de comprar, mira qué objetos lleva el rival. Si ves armaduras, cambia el plan.",
+  "start": 53.328,
+  "end": 58.088
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona la penetración. Cada like es un punto de letalidad… directo a Teemo.",
+  "start": 58.508,
+  "end": 62.528
+ }
+]

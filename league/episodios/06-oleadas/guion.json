@@ -1,0 +1,81 @@
+{
+ "titulo": "El reloj de las oleadas",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Minion_(League_of_Legends) (waves from 00:30 every 30 s; 25 s at 14:00; 20 s at 30:00; siege wave 3 at 01:30, every 3 waves, every 2 after 14:00, every wave after 25:00; not with super minions)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Sabías que los súbditos salen con horario, como el camión de la basura?"
+  },
+  {
+   "id": "porque",
+   "text": "Y saber ese horario te puede ganar la línea. Mira."
+  },
+  {
+   "id": "inicio",
+   "text": "Desde el minuto cero treinta, sale una oleada cada treinta segundos."
+  },
+  {
+   "id": "medio",
+   "text": "Aunque la partida empieza en cero, la primera oleada sale al medio minuto."
+  },
+  {
+   "id": "m14",
+   "text": "En el minuto catorce, se aceleran: una oleada cada veinticinco segundos."
+  },
+  {
+   "id": "m30",
+   "text": "Y desde el minuto treinta, una cada veinte segundos."
+  },
+  {
+   "id": "porminuto",
+   "text": "O sea: al principio, dos oleadas por minuto. Al final del juego, tres."
+  },
+  {
+   "id": "broma2",
+   "text": "Más puntual que tu jefe pidiendo reportes."
+  },
+  {
+   "id": "canon1",
+   "text": "El súbdito de cañón llega por primera vez en la tercera oleada, al minuto uno treinta."
+  },
+  {
+   "id": "quien",
+   "text": "El cañón es el súbdito grandote que dispara desde atrás."
+  },
+  {
+   "id": "canon2",
+   "text": "Hasta el minuto catorce, aparece cada tres oleadas."
+  },
+  {
+   "id": "canon3",
+   "text": "Después, cada dos oleadas. Y desde el minuto veinticinco, en todas."
+  },
+  {
+   "id": "super",
+   "text": "Ojo: en las oleadas que traen súper súbditos, el cañón no sale."
+  },
+  {
+   "id": "contar",
+   "text": "Si cuentas las oleadas, puedes saber cuándo viene el cañón sin mirar el reloj."
+  },
+  {
+   "id": "tip",
+   "text": "¿Para qué te sirve? Saber cuándo llega el cañón te ayuda a no perderlo, y a planear cuándo regresar a base."
+  },
+  {
+   "id": "broma",
+   "text": "Es como saber a qué hora pasa el de los tamales."
+  },
+  {
+   "id": "tip2",
+   "text": "Y cuando la partida va avanzada, las oleadas llegan más seguido: no te alejes demasiado de tu línea."
+  },
+  {
+   "id": "cierre",
+   "text": "Ahora ya tienes el reloj. Cada like adelanta la oleada… directo encima de Teemo.",
+   "voz": "Ahora ya tienes el reloj. Cada like adelanta la oleada… directo encima de Timo."
+  }
+ ]
+}

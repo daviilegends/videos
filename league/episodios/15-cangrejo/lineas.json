@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué todos persiguen al cangrejo del río como si fuera un tamal?",
+  "start": 0.25,
+  "end": 2.913
+ },
+ {
+  "id": "spoiler",
+  "text": "Porque este monstruito tierno da mucho más de lo que parece.",
+  "start": 3.333,
+  "end": 5.742
+ },
+ {
+  "id": "que",
+  "text": "Es un monstruo pacífico que camina por el río. No ataca, solo huye.",
+  "start": 6.162,
+  "end": 9.281
+ },
+ {
+  "id": "cuando",
+  "text": "Aparecen dos al minuto dos cincuenta y cinco: uno arriba y uno abajo del río.",
+  "start": 9.701,
+  "end": 13.232
+ },
+ {
+  "id": "da",
+  "text": "Al matarlo te da oro y experiencia, y entre más avanzada la partida, más da.",
+  "start": 13.652,
+  "end": 17.251
+ },
+ {
+  "id": "santuario",
+  "text": "Pero lo mejor es lo que deja: un santuario de velocidad en el río, durante noventa segundos.",
+  "start": 17.671,
+  "end": 22.127
+ },
+ {
+  "id": "vision",
+  "text": "Ese santuario da visión de la zona alrededor.",
+  "start": 22.547,
+  "end": 24.43
+ },
+ {
+  "id": "rapido",
+  "text": "Y los aliados que caminan encima se mueven más rápido.",
+  "start": 24.85,
+  "end": 27.055
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: tu jungla cruza el río más rápido para llegar a tu línea, y tú ves si el rival viene.",
+  "start": 27.475,
+  "end": 31.606
+ },
+ {
+  "id": "broma",
+  "text": "Es como dejar una cámara de seguridad y una caminadora eléctrica en el río.",
+  "start": 32.026,
+  "end": 35.232
+ },
+ {
+  "id": "reaparece",
+  "text": "Cuando los dos primeros mueren, vuelve uno cada dos minutos y medio.",
+  "start": 35.652,
+  "end": 38.539
+ },
+ {
+  "id": "marca",
+  "text": "Y antes de reaparecer, el mapa marca dónde va a salir.",
+  "start": 38.959,
+  "end": 41.364
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: el cangrejo es del jungla, pero un empujoncito de tu línea puede ayudar a ganarlo.",
+  "start": 41.784,
+  "end": 46.2
+ },
+ {
+  "id": "tip2",
+  "text": "Y no te metas al río solo por él: un cangrejo no vale tu vida.",
+  "start": 46.62,
+  "end": 49.405
+ },
+ {
+  "id": "pelea",
+  "text": "Si los dos junglas llegan al mismo tiempo, el cangrejo se vuelve la excusa para una pelea.",
+  "start": 49.825,
+  "end": 53.65
+ },
+ {
+  "id": "tip3",
+  "text": "Y ahí, el que tiene a su línea más cerca, normalmente gana.",
+  "start": 54.07,
+  "end": 56.716
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona el cangrejo. Cada like es un cangrejo… que Teemo no va a probar.",
+  "start": 57.136,
+  "end": 60.584
+ }
+]

@@ -1,0 +1,1640 @@
+[
+ {
+  "text": "¿Qué",
+  "start": 5.96,
+  "end": 6.48,
+  "sentence": 1
+ },
+ {
+  "text": "está",
+  "start": 6.48,
+  "end": 6.66,
+  "sentence": 1
+ },
+ {
+  "text": "pasando,",
+  "start": 6.66,
+  "end": 6.98,
+  "sentence": 1
+ },
+ {
+  "text": "y",
+  "start": 7.54,
+  "end": 7.76,
+  "sentence": 1
+ },
+ {
+  "text": "qué",
+  "start": 7.76,
+  "end": 7.86,
+  "sentence": 1
+ },
+ {
+  "text": "podría",
+  "start": 7.86,
+  "end": 8.14,
+  "sentence": 1
+ },
+ {
+  "text": "venir",
+  "start": 8.14,
+  "end": 8.4,
+  "sentence": 1
+ },
+ {
+  "text": "después?",
+  "start": 8.4,
+  "end": 8.74,
+  "sentence": 1
+ },
+ {
+  "text": "Según",
+  "start": 10.58,
+  "end": 11.1,
+  "sentence": 2
+ },
+ {
+  "text": "The",
+  "start": 11.1,
+  "end": 11.26,
+  "sentence": 2
+ },
+ {
+  "text": "Wall",
+  "start": 11.26,
+  "end": 11.42,
+  "sentence": 2
+ },
+ {
+  "text": "Street",
+  "start": 11.42,
+  "end": 11.68,
+  "sentence": 2
+ },
+ {
+  "text": "Journal,",
+  "start": 11.68,
+  "end": 12.1,
+  "sentence": 2
+ },
+ {
+  "text": "el",
+  "start": 12.64,
+  "end": 12.78,
+  "sentence": 2
+ },
+ {
+  "text": "lunes",
+  "start": 12.78,
+  "end": 12.94,
+  "sentence": 2
+ },
+ {
+  "text": "2",
+  "start": 12.94,
+  "end": 13.14,
+  "sentence": 2
+ },
+ {
+  "text": "de",
+  "start": 13.14,
+  "end": 13.28,
+  "sentence": 2
+ },
+ {
+  "text": "noviembre",
+  "start": 13.28,
+  "end": 13.64,
+  "sentence": 2
+ },
+ {
+  "text": "Estados",
+  "start": 13.64,
+  "end": 13.88,
+  "sentence": 2
+ },
+ {
+  "text": "Unidos",
+  "start": 13.88,
+  "end": 14.3,
+  "sentence": 2
+ },
+ {
+  "text": "atacó",
+  "start": 14.3,
+  "end": 15.18,
+  "sentence": 2
+ },
+ {
+  "text": "la",
+  "start": 15.18,
+  "end": 15.3,
+  "sentence": 2
+ },
+ {
+  "text": "isla",
+  "start": 15.3,
+  "end": 15.52,
+  "sentence": 2
+ },
+ {
+  "text": "iraní",
+  "start": 15.52,
+  "end": 15.84,
+  "sentence": 2
+ },
+ {
+  "text": "de",
+  "start": 15.84,
+  "end": 15.96,
+  "sentence": 2
+ },
+ {
+  "text": "en",
+  "start": 16.42,
+  "end": 16.98,
+  "sentence": 2
+ },
+ {
+  "text": "el",
+  "start": 16.98,
+  "end": 17.1,
+  "sentence": 2
+ },
+ {
+  "text": "golfo",
+  "start": 17.1,
+  "end": 17.4,
+  "sentence": 2
+ },
+ {
+  "text": "Pérsico.",
+  "start": 17.4,
+  "end": 17.9,
+  "sentence": 2
+ },
+ {
+  "text": "está",
+  "start": 20.32,
+  "end": 20.54,
+  "sentence": 3
+ },
+ {
+  "text": "justo",
+  "start": 20.54,
+  "end": 20.8,
+  "sentence": 3
+ },
+ {
+  "text": "a",
+  "start": 20.8,
+  "end": 20.98,
+  "sentence": 3
+ },
+ {
+  "text": "la",
+  "start": 20.98,
+  "end": 21.02,
+  "sentence": 3
+ },
+ {
+  "text": "entrada",
+  "start": 21.02,
+  "end": 21.26,
+  "sentence": 3
+ },
+ {
+  "text": "del",
+  "start": 21.26,
+  "end": 21.48,
+  "sentence": 3
+ },
+ {
+  "text": "estrecho",
+  "start": 21.48,
+  "end": 21.86,
+  "sentence": 3
+ },
+ {
+  "text": "de",
+  "start": 21.86,
+  "end": 21.96,
+  "sentence": 3
+ },
+ {
+  "text": "por",
+  "start": 23.02,
+  "end": 23.22,
+  "sentence": 3
+ },
+ {
+  "text": "donde",
+  "start": 23.22,
+  "end": 23.4,
+  "sentence": 3
+ },
+ {
+  "text": "normalmente",
+  "start": 23.4,
+  "end": 23.9,
+  "sentence": 3
+ },
+ {
+  "text": "pasa",
+  "start": 23.9,
+  "end": 24.32,
+  "sentence": 3
+ },
+ {
+  "text": "cerca",
+  "start": 24.32,
+  "end": 24.64,
+  "sentence": 3
+ },
+ {
+  "text": "de",
+  "start": 24.64,
+  "end": 24.84,
+  "sentence": 3
+ },
+ {
+  "text": "una",
+  "start": 24.84,
+  "end": 24.94,
+  "sentence": 3
+ },
+ {
+  "text": "quinta",
+  "start": 24.94,
+  "end": 25.22,
+  "sentence": 3
+ },
+ {
+  "text": "parte",
+  "start": 25.22,
+  "end": 25.52,
+  "sentence": 3
+ },
+ {
+  "text": "del",
+  "start": 25.52,
+  "end": 25.72,
+  "sentence": 3
+ },
+ {
+  "text": "petróleo",
+  "start": 25.72,
+  "end": 26.12,
+  "sentence": 3
+ },
+ {
+  "text": "que",
+  "start": 26.12,
+  "end": 26.3,
+  "sentence": 3
+ },
+ {
+  "text": "se",
+  "start": 26.3,
+  "end": 26.42,
+  "sentence": 3
+ },
+ {
+  "text": "consume",
+  "start": 26.42,
+  "end": 26.8,
+  "sentence": 3
+ },
+ {
+  "text": "en",
+  "start": 26.8,
+  "end": 26.92,
+  "sentence": 3
+ },
+ {
+  "text": "el",
+  "start": 26.92,
+  "end": 27.02,
+  "sentence": 3
+ },
+ {
+  "text": "mundo.",
+  "start": 27.02,
+  "end": 27.26,
+  "sentence": 3
+ },
+ {
+  "text": "En",
+  "start": 28.98,
+  "end": 29.62,
+  "sentence": 4
+ },
+ {
+  "text": "la",
+  "start": 29.62,
+  "end": 29.78,
+  "sentence": 4
+ },
+ {
+  "text": "isla",
+  "start": 29.78,
+  "end": 30.1,
+  "sentence": 4
+ },
+ {
+  "text": "hay",
+  "start": 30.1,
+  "end": 30.68,
+  "sentence": 4
+ },
+ {
+  "text": "una",
+  "start": 30.68,
+  "end": 30.82,
+  "sentence": 4
+ },
+ {
+  "text": "instalación",
+  "start": 30.82,
+  "end": 31.28,
+  "sentence": 4
+ },
+ {
+  "text": "subterránea",
+  "start": 31.28,
+  "end": 31.82,
+  "sentence": 4
+ },
+ {
+  "text": "de",
+  "start": 31.82,
+  "end": 31.96,
+  "sentence": 4
+ },
+ {
+  "text": "misiles,",
+  "start": 31.96,
+  "end": 32.3,
+  "sentence": 4
+ },
+ {
+  "text": "una",
+  "start": 32.94,
+  "end": 33.18,
+  "sentence": 4
+ },
+ {
+  "text": "base",
+  "start": 33.18,
+  "end": 33.4,
+  "sentence": 4
+ },
+ {
+  "text": "naval",
+  "start": 33.4,
+  "end": 33.68,
+  "sentence": 4
+ },
+ {
+  "text": "y",
+  "start": 33.68,
+  "end": 34.22,
+  "sentence": 4
+ },
+ {
+  "text": "una",
+  "start": 34.22,
+  "end": 34.32,
+  "sentence": 4
+ },
+ {
+  "text": "importante",
+  "start": 34.32,
+  "end": 34.78,
+  "sentence": 4
+ },
+ {
+  "text": "planta",
+  "start": 34.78,
+  "end": 35.26,
+  "sentence": 4
+ },
+ {
+  "text": "Funcionarios",
+  "start": 37.88,
+  "end": 38.52,
+  "sentence": 5
+ },
+ {
+  "text": "estadounidenses",
+  "start": 38.52,
+  "end": 39.38,
+  "sentence": 5
+ },
+ {
+  "text": "dicen",
+  "start": 39.38,
+  "end": 40.16,
+  "sentence": 5
+ },
+ {
+  "text": "que",
+  "start": 40.16,
+  "end": 40.36,
+  "sentence": 5
+ },
+ {
+  "text": "fue",
+  "start": 40.36,
+  "end": 40.48,
+  "sentence": 5
+ },
+ {
+  "text": "un",
+  "start": 40.48,
+  "end": 40.6,
+  "sentence": 5
+ },
+ {
+  "text": "ataque",
+  "start": 40.6,
+  "end": 40.8,
+  "sentence": 5
+ },
+ {
+  "text": "defensivo,",
+  "start": 40.8,
+  "end": 41.46,
+  "sentence": 5
+ },
+ {
+  "text": "para",
+  "start": 41.46,
+  "end": 42.1,
+  "sentence": 5
+ },
+ {
+  "text": "que",
+  "start": 42.1,
+  "end": 42.24,
+  "sentence": 5
+ },
+ {
+  "text": "Irán",
+  "start": 42.24,
+  "end": 42.5,
+  "sentence": 5
+ },
+ {
+  "text": "no",
+  "start": 42.5,
+  "end": 42.64,
+  "sentence": 5
+ },
+ {
+  "text": "pueda",
+  "start": 42.64,
+  "end": 42.86,
+  "sentence": 5
+ },
+ {
+  "text": "amenazar",
+  "start": 42.86,
+  "end": 43.24,
+  "sentence": 5
+ },
+ {
+  "text": "a",
+  "start": 43.24,
+  "end": 43.36,
+  "sentence": 5
+ },
+ {
+  "text": "los",
+  "start": 43.36,
+  "end": 43.5,
+  "sentence": 5
+ },
+ {
+  "text": "barcos",
+  "start": 43.5,
+  "end": 43.8,
+  "sentence": 5
+ },
+ {
+  "text": "comerciales,",
+  "start": 43.8,
+  "end": 44.86,
+  "sentence": 5
+ },
+ {
+  "text": "y",
+  "start": 44.86,
+  "end": 45.1,
+  "sentence": 5
+ },
+ {
+  "text": "que",
+  "start": 45.1,
+  "end": 45.2,
+  "sentence": 5
+ },
+ {
+  "text": "respondió",
+  "start": 45.2,
+  "end": 45.72,
+  "sentence": 5
+ },
+ {
+  "text": "al",
+  "start": 45.72,
+  "end": 45.82,
+  "sentence": 5
+ },
+ {
+  "text": "impacto",
+  "start": 45.82,
+  "end": 46.16,
+  "sentence": 5
+ },
+ {
+  "text": "contra",
+  "start": 46.16,
+  "end": 46.48,
+  "sentence": 5
+ },
+ {
+  "text": "aeronave",
+  "start": 46.68,
+  "end": 47.0,
+  "sentence": 5
+ },
+ {
+  "text": "militar",
+  "start": 47.0,
+  "end": 47.44,
+  "sentence": 5
+ },
+ {
+  "text": "de",
+  "start": 47.44,
+  "end": 47.58,
+  "sentence": 5
+ },
+ {
+  "text": "Estados",
+  "start": 47.58,
+  "end": 47.82,
+  "sentence": 5
+ },
+ {
+  "text": "Unidos.",
+  "start": 47.82,
+  "end": 48.22,
+  "sentence": 5
+ },
+ {
+  "text": "El",
+  "start": 49.6,
+  "end": 50.24,
+  "sentence": 6
+ },
+ {
+  "text": "Comando",
+  "start": 50.24,
+  "end": 50.6,
+  "sentence": 6
+ },
+ {
+  "text": "Central",
+  "start": 50.6,
+  "end": 50.98,
+  "sentence": 6
+ },
+ {
+  "text": "todavía",
+  "start": 50.98,
+  "end": 51.46,
+  "sentence": 6
+ },
+ {
+  "text": "no",
+  "start": 51.46,
+  "end": 51.68,
+  "sentence": 6
+ },
+ {
+  "text": "lo",
+  "start": 51.68,
+  "end": 51.78,
+  "sentence": 6
+ },
+ {
+  "text": "ha",
+  "start": 51.78,
+  "end": 51.84,
+  "sentence": 6
+ },
+ {
+  "text": "anunciado",
+  "start": 51.84,
+  "end": 52.18,
+  "sentence": 6
+ },
+ {
+  "text": "oficialmente.",
+  "start": 52.18,
+  "end": 52.9,
+  "sentence": 6
+ },
+ {
+  "text": "Y",
+  "start": 54.02,
+  "end": 54.6,
+  "sentence": 7
+ },
+ {
+  "text": "ocurrió",
+  "start": 54.6,
+  "end": 54.94,
+  "sentence": 7
+ },
+ {
+  "text": "una",
+  "start": 54.94,
+  "end": 55.1,
+  "sentence": 7
+ },
+ {
+  "text": "noche",
+  "start": 55.1,
+  "end": 55.34,
+  "sentence": 7
+ },
+ {
+  "text": "antes",
+  "start": 55.34,
+  "end": 55.64,
+  "sentence": 7
+ },
+ {
+  "text": "de",
+  "start": 55.64,
+  "end": 55.84,
+  "sentence": 7
+ },
+ {
+  "text": "las",
+  "start": 55.84,
+  "end": 55.94,
+  "sentence": 7
+ },
+ {
+  "text": "elecciones",
+  "start": 55.94,
+  "end": 56.34,
+  "sentence": 7
+ },
+ {
+  "text": "de",
+  "start": 56.34,
+  "end": 56.56,
+  "sentence": 7
+ },
+ {
+  "text": "medio",
+  "start": 56.56,
+  "end": 56.8,
+  "sentence": 7
+ },
+ {
+  "text": "mandato",
+  "start": 56.8,
+  "end": 57.2,
+  "sentence": 7
+ },
+ {
+  "text": "en",
+  "start": 57.2,
+  "end": 57.34,
+  "sentence": 7
+ },
+ {
+  "text": "Estados",
+  "start": 57.34,
+  "end": 57.58,
+  "sentence": 7
+ },
+ {
+  "text": "Unidos.",
+  "start": 57.58,
+  "end": 58.0,
+  "sentence": 7
+ },
+ {
+  "text": "Trump",
+  "start": 59.94,
+  "end": 60.52,
+  "sentence": 8
+ },
+ {
+  "text": "dice",
+  "start": 60.52,
+  "end": 60.8,
+  "sentence": 8
+ },
+ {
+  "text": "que",
+  "start": 60.8,
+  "end": 61.0,
+  "sentence": 8
+ },
+ {
+  "text": "Estados",
+  "start": 61.0,
+  "end": 61.3,
+  "sentence": 8
+ },
+ {
+  "text": "Unidos",
+  "start": 61.3,
+  "end": 61.64,
+  "sentence": 8
+ },
+ {
+  "text": "ya",
+  "start": 61.64,
+  "end": 61.84,
+  "sentence": 8
+ },
+ {
+  "text": "ganó",
+  "start": 61.84,
+  "end": 62.06,
+  "sentence": 8
+ },
+ {
+  "text": "la",
+  "start": 62.06,
+  "end": 62.2,
+  "sentence": 8
+ },
+ {
+  "text": "guerra,",
+  "start": 62.2,
+  "end": 62.4,
+  "sentence": 8
+ },
+ {
+  "text": "y",
+  "start": 62.4,
+  "end": 63.1,
+  "sentence": 8
+ },
+ {
+  "text": "que",
+  "start": 63.1,
+  "end": 63.2,
+  "sentence": 8
+ },
+ {
+  "text": "ni",
+  "start": 63.2,
+  "end": 63.34,
+  "sentence": 8
+ },
+ {
+  "text": "siquiera",
+  "start": 63.34,
+  "end": 63.66,
+  "sentence": 8
+ },
+ {
+  "text": "se",
+  "start": 63.66,
+  "end": 63.82,
+  "sentence": 8
+ },
+ {
+  "text": "le",
+  "start": 63.82,
+  "end": 63.9,
+  "sentence": 8
+ },
+ {
+  "text": "puede",
+  "start": 63.9,
+  "end": 64.08,
+  "sentence": 8
+ },
+ {
+  "text": "llamar",
+  "start": 64.08,
+  "end": 64.44,
+  "sentence": 8
+ },
+ {
+  "text": "guerra,",
+  "start": 64.44,
+  "end": 64.74,
+  "sentence": 8
+ },
+ {
+  "text": "porque",
+  "start": 64.74,
+  "end": 65.42,
+  "sentence": 8
+ },
+ {
+  "text": "llevan",
+  "start": 65.42,
+  "end": 65.82,
+  "sentence": 8
+ },
+ {
+  "text": "meses",
+  "start": 65.82,
+  "end": 66.1,
+  "sentence": 8
+ },
+ {
+  "text": "sin",
+  "start": 66.1,
+  "end": 66.32,
+  "sentence": 8
+ },
+ {
+  "text": "combatir.",
+  "start": 66.32,
+  "end": 66.82,
+  "sentence": 8
+ },
+ {
+  "text": "Pero",
+  "start": 67.64,
+  "end": 68.22,
+  "sentence": 9
+ },
+ {
+  "text": "el",
+  "start": 68.22,
+  "end": 68.34,
+  "sentence": 9
+ },
+ {
+  "text": "Pentágono",
+  "start": 68.34,
+  "end": 68.78,
+  "sentence": 9
+ },
+ {
+  "text": "ha",
+  "start": 68.78,
+  "end": 68.9,
+  "sentence": 9
+ },
+ {
+  "text": "reforzado",
+  "start": 68.9,
+  "end": 69.3,
+  "sentence": 9
+ },
+ {
+  "text": "su",
+  "start": 69.3,
+  "end": 69.46,
+  "sentence": 9
+ },
+ {
+  "text": "presencia",
+  "start": 69.46,
+  "end": 69.9,
+  "sentence": 9
+ },
+ {
+  "text": "en",
+  "start": 69.9,
+  "end": 70.0,
+  "sentence": 9
+ },
+ {
+  "text": "la",
+  "start": 70.0,
+  "end": 70.08,
+  "sentence": 9
+ },
+ {
+  "text": "región",
+  "start": 70.08,
+  "end": 70.4,
+  "sentence": 9
+ },
+ {
+  "text": "y",
+  "start": 70.4,
+  "end": 71.0,
+  "sentence": 9
+ },
+ {
+  "text": "tiene",
+  "start": 71.0,
+  "end": 71.22,
+  "sentence": 9
+ },
+ {
+  "text": "listas",
+  "start": 71.22,
+  "end": 71.54,
+  "sentence": 9
+ },
+ {
+  "text": "opciones",
+  "start": 71.54,
+  "end": 71.88,
+  "sentence": 9
+ },
+ {
+  "text": "para",
+  "start": 71.88,
+  "end": 72.12,
+  "sentence": 9
+ },
+ {
+  "text": "ampliar",
+  "start": 72.12,
+  "end": 72.42,
+  "sentence": 9
+ },
+ {
+  "text": "los",
+  "start": 72.42,
+  "end": 72.56,
+  "sentence": 9
+ },
+ {
+  "text": "ataques.",
+  "start": 72.56,
+  "end": 72.96,
+  "sentence": 9
+ },
+ {
+  "text": "Esta",
+  "start": 74.82,
+  "end": 75.4,
+  "sentence": 10
+ },
+ {
+  "text": "guerra",
+  "start": 75.4,
+  "end": 75.66,
+  "sentence": 10
+ },
+ {
+  "text": "empezó",
+  "start": 75.66,
+  "end": 76.42,
+  "sentence": 10
+ },
+ {
+  "text": "a",
+  "start": 76.42,
+  "end": 76.46,
+  "sentence": 10
+ },
+ {
+  "text": "finales",
+  "start": 76.46,
+  "end": 76.82,
+  "sentence": 10
+ },
+ {
+  "text": "de",
+  "start": 76.82,
+  "end": 76.9,
+  "sentence": 10
+ },
+ {
+  "text": "febrero,",
+  "start": 76.9,
+  "end": 77.28,
+  "sentence": 10
+ },
+ {
+  "text": "cuando",
+  "start": 77.54,
+  "end": 77.62,
+  "sentence": 10
+ },
+ {
+  "text": "Estados",
+  "start": 77.62,
+  "end": 77.86,
+  "sentence": 10
+ },
+ {
+  "text": "Unidos",
+  "start": 77.86,
+  "end": 78.26,
+  "sentence": 10
+ },
+ {
+  "text": "e",
+  "start": 78.26,
+  "end": 78.4,
+  "sentence": 10
+ },
+ {
+  "text": "Israel",
+  "start": 78.4,
+  "end": 78.56,
+  "sentence": 10
+ },
+ {
+  "text": "atacaron",
+  "start": 78.56,
+  "end": 79.08,
+  "sentence": 10
+ },
+ {
+  "text": "Irán.",
+  "start": 79.08,
+  "end": 79.4,
+  "sentence": 10
+ },
+ {
+  "text": "Hasta",
+  "start": 80.32,
+  "end": 80.96,
+  "sentence": 11
+ },
+ {
+  "text": "el",
+  "start": 80.96,
+  "end": 81.06,
+  "sentence": 11
+ },
+ {
+  "text": "16",
+  "start": 81.06,
+  "end": 81.4,
+  "sentence": 11
+ },
+ {
+  "text": "de",
+  "start": 81.4,
+  "end": 81.6,
+  "sentence": 11
+ },
+ {
+  "text": "octubre,",
+  "start": 81.6,
+  "end": 82.02,
+  "sentence": 11
+ },
+ {
+  "text": "ya",
+  "start": 82.4,
+  "end": 82.68,
+  "sentence": 11
+ },
+ {
+  "text": "había",
+  "start": 82.68,
+  "end": 82.84,
+  "sentence": 11
+ },
+ {
+  "text": "costado",
+  "start": 82.84,
+  "end": 83.32,
+  "sentence": 11
+ },
+ {
+  "text": "a",
+  "start": 83.32,
+  "end": 83.4,
+  "sentence": 11
+ },
+ {
+  "text": "los",
+  "start": 83.4,
+  "end": 83.48,
+  "sentence": 11
+ },
+ {
+  "text": "contribuyentes",
+  "start": 83.48,
+  "end": 84.1,
+  "sentence": 11
+ },
+ {
+  "text": "estadounidenses",
+  "start": 84.1,
+  "end": 84.86,
+  "sentence": 11
+ },
+ {
+  "text": "millones",
+  "start": 86.0,
+  "end": 86.34,
+  "sentence": 11
+ },
+ {
+  "text": "de",
+  "start": 86.34,
+  "end": 86.52,
+  "sentence": 11
+ },
+ {
+  "text": "dólares.",
+  "start": 86.52,
+  "end": 86.84,
+  "sentence": 11
+ },
+ {
+  "text": "¿Qué",
+  "start": 88.6,
+  "end": 89.28,
+  "sentence": 12
+ },
+ {
+  "text": "podría",
+  "start": 89.28,
+  "end": 89.66,
+  "sentence": 12
+ },
+ {
+  "text": "pasar",
+  "start": 89.66,
+  "end": 89.94,
+  "sentence": 12
+ },
+ {
+  "text": "ahora?",
+  "start": 89.94,
+  "end": 90.24,
+  "sentence": 12
+ },
+ {
+  "text": "Si",
+  "start": 91.44,
+  "end": 91.92,
+  "sentence": 13
+ },
+ {
+  "text": "Irán",
+  "start": 91.92,
+  "end": 92.12,
+  "sentence": 13
+ },
+ {
+  "text": "responde,",
+  "start": 92.12,
+  "end": 92.7,
+  "sentence": 13
+ },
+ {
+  "text": "la",
+  "start": 93.18,
+  "end": 93.28,
+  "sentence": 13
+ },
+ {
+  "text": "tregua",
+  "start": 93.28,
+  "end": 93.56,
+  "sentence": 13
+ },
+ {
+  "text": "podría",
+  "start": 93.56,
+  "end": 93.86,
+  "sentence": 13
+ },
+ {
+  "text": "romperse",
+  "start": 93.86,
+  "end": 94.48,
+  "sentence": 13
+ },
+ {
+  "text": "y",
+  "start": 94.48,
+  "end": 94.66,
+  "sentence": 13
+ },
+ {
+  "text": "volver",
+  "start": 94.66,
+  "end": 94.88,
+  "sentence": 13
+ },
+ {
+  "text": "la",
+  "start": 94.88,
+  "end": 95.12,
+  "sentence": 13
+ },
+ {
+  "text": "guerra",
+  "start": 95.12,
+  "end": 95.3,
+  "sentence": 13
+ },
+ {
+  "text": "abierta.",
+  "start": 95.3,
+  "end": 95.76,
+  "sentence": 13
+ },
+ {
+  "text": "amenaza",
+  "start": 97.32,
+  "end": 97.66,
+  "sentence": 14
+ },
+ {
+  "text": "en",
+  "start": 97.66,
+  "end": 97.78,
+  "sentence": 14
+ },
+ {
+  "text": "el",
+  "start": 97.78,
+  "end": 97.86,
+  "sentence": 14
+ },
+ {
+  "text": "estrecho",
+  "start": 97.86,
+  "end": 98.24,
+  "sentence": 14
+ },
+ {
+  "text": "de",
+  "start": 98.24,
+  "end": 98.34,
+  "sentence": 14
+ },
+ {
+  "text": "puede",
+  "start": 98.7,
+  "end": 99.24,
+  "sentence": 14
+ },
+ {
+  "text": "disparar",
+  "start": 99.24,
+  "end": 99.7,
+  "sentence": 14
+ },
+ {
+  "text": "el",
+  "start": 99.7,
+  "end": 99.82,
+  "sentence": 14
+ },
+ {
+  "text": "precio",
+  "start": 99.82,
+  "end": 100.06,
+  "sentence": 14
+ },
+ {
+  "text": "del",
+  "start": 100.06,
+  "end": 100.24,
+  "sentence": 14
+ },
+ {
+  "text": "petróleo,",
+  "start": 100.24,
+  "end": 100.66,
+  "sentence": 14
+ },
+ {
+  "text": "y",
+  "start": 100.66,
+  "end": 101.18,
+  "sentence": 14
+ },
+ {
+  "text": "con",
+  "start": 101.18,
+  "end": 101.52,
+  "sentence": 14
+ },
+ {
+  "text": "él,",
+  "start": 101.52,
+  "end": 101.7,
+  "sentence": 14
+ },
+ {
+  "text": "el",
+  "start": 101.7,
+  "end": 102.2,
+  "sentence": 14
+ },
+ {
+  "text": "de",
+  "start": 102.2,
+  "end": 102.32,
+  "sentence": 14
+ },
+ {
+  "text": "la",
+  "start": 102.32,
+  "end": 102.42,
+  "sentence": 14
+ },
+ {
+  "text": "gasolina",
+  "start": 102.42,
+  "end": 102.8,
+  "sentence": 14
+ },
+ {
+  "text": "en",
+  "start": 102.8,
+  "end": 102.98,
+  "sentence": 14
+ },
+ {
+  "text": "todo",
+  "start": 102.98,
+  "end": 103.12,
+  "sentence": 14
+ },
+ {
+  "text": "el",
+  "start": 103.12,
+  "end": 103.28,
+  "sentence": 14
+ },
+ {
+  "text": "mundo.",
+  "start": 103.28,
+  "end": 103.52,
+  "sentence": 14
+ },
+ {
+  "text": "Y",
+  "start": 105.08,
+  "end": 105.3,
+  "sentence": 15
+ },
+ {
+  "text": "en",
+  "start": 105.3,
+  "end": 105.4,
+  "sentence": 15
+ },
+ {
+  "text": "Estados",
+  "start": 105.4,
+  "end": 105.64,
+  "sentence": 15
+ },
+ {
+  "text": "Unidos,",
+  "start": 105.64,
+  "end": 106.04,
+  "sentence": 15
+ },
+ {
+  "text": "el",
+  "start": 106.04,
+  "end": 106.82,
+  "sentence": 15
+ },
+ {
+  "text": "costo",
+  "start": 106.82,
+  "end": 107.2,
+  "sentence": 15
+ },
+ {
+  "text": "de",
+  "start": 107.2,
+  "end": 107.26,
+  "sentence": 15
+ },
+ {
+  "text": "la",
+  "start": 107.26,
+  "end": 107.36,
+  "sentence": 15
+ },
+ {
+  "text": "guerra",
+  "start": 107.36,
+  "end": 107.6,
+  "sentence": 15
+ },
+ {
+  "text": "ya",
+  "start": 107.6,
+  "end": 108.34,
+  "sentence": 15
+ },
+ {
+  "text": "es",
+  "start": 108.34,
+  "end": 108.5,
+  "sentence": 15
+ },
+ {
+  "text": "tema",
+  "start": 108.5,
+  "end": 108.64,
+  "sentence": 15
+ },
+ {
+  "text": "de",
+  "start": 108.64,
+  "end": 108.78,
+  "sentence": 15
+ },
+ {
+  "text": "campaña.",
+  "start": 108.78,
+  "end": 109.3,
+  "sentence": 15
+ },
+ {
+  "text": "El",
+  "start": 110.24,
+  "end": 110.48,
+  "sentence": 16
+ },
+ {
+  "text": "resultado",
+  "start": 110.48,
+  "end": 110.94,
+  "sentence": 16
+ },
+ {
+  "text": "de",
+  "start": 110.94,
+  "end": 111.1,
+  "sentence": 16
+ },
+ {
+  "text": "las",
+  "start": 111.1,
+  "end": 111.22,
+  "sentence": 16
+ },
+ {
+  "text": "elecciones",
+  "start": 111.22,
+  "end": 111.68,
+  "sentence": 16
+ },
+ {
+  "text": "podría",
+  "start": 111.68,
+  "end": 112.6,
+  "sentence": 16
+ },
+ {
+  "text": "influir",
+  "start": 112.6,
+  "end": 113.04,
+  "sentence": 16
+ },
+ {
+  "text": "en",
+  "start": 113.04,
+  "end": 113.16,
+  "sentence": 16
+ },
+ {
+  "text": "lo",
+  "start": 113.16,
+  "end": 113.24,
+  "sentence": 16
+ },
+ {
+  "text": "que",
+  "start": 113.24,
+  "end": 113.36,
+  "sentence": 16
+ },
+ {
+  "text": "pase",
+  "start": 113.36,
+  "end": 113.58,
+  "sentence": 16
+ },
+ {
+  "text": "después.",
+  "start": 113.58,
+  "end": 113.9,
+  "sentence": 16
+ },
+ {
+  "text": "Por",
+  "start": 115.72,
+  "end": 116.28,
+  "sentence": 17
+ },
+ {
+  "text": "ahora,",
+  "start": 116.28,
+  "end": 116.56,
+  "sentence": 17
+ },
+ {
+  "text": "Trump",
+  "start": 116.56,
+  "end": 117.32,
+  "sentence": 17
+ },
+ {
+  "text": "dice",
+  "start": 117.32,
+  "end": 117.6,
+  "sentence": 17
+ },
+ {
+  "text": "que",
+  "start": 117.6,
+  "end": 117.8,
+  "sentence": 17
+ },
+ {
+  "text": "prefiere",
+  "start": 117.8,
+  "end": 118.18,
+  "sentence": 17
+ },
+ {
+  "text": "un",
+  "start": 118.18,
+  "end": 118.32,
+  "sentence": 17
+ },
+ {
+  "text": "acuerdo",
+  "start": 118.32,
+  "end": 118.62,
+  "sentence": 17
+ },
+ {
+  "text": "con",
+  "start": 118.62,
+  "end": 118.9,
+  "sentence": 17
+ },
+ {
+  "text": "Pero",
+  "start": 120.06,
+  "end": 120.62,
+  "sentence": 18
+ },
+ {
+  "text": "las",
+  "start": 120.62,
+  "end": 120.8,
+  "sentence": 18
+ },
+ {
+  "text": "opciones",
+  "start": 120.8,
+  "end": 121.1,
+  "sentence": 18
+ },
+ {
+  "text": "militares",
+  "start": 121.1,
+  "end": 121.64,
+  "sentence": 18
+ },
+ {
+  "text": "siguen",
+  "start": 121.64,
+  "end": 121.98,
+  "sentence": 18
+ },
+ {
+  "text": "sobre",
+  "start": 121.98,
+  "end": 122.22,
+  "sentence": 18
+ },
+ {
+  "text": "la",
+  "start": 122.22,
+  "end": 122.38,
+  "sentence": 18
+ },
+ {
+  "text": "mesa.",
+  "start": 122.38,
+  "end": 122.62,
+  "sentence": 18
+ }
+]

@@ -1,0 +1,78 @@
+{
+ "titulo": "Buff azul y buff rojo: lo que te dan",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Crest_of_Insight (ability haste, mana/energy regen, 120 s, transfers to killer)",
+  "https://wiki.leagueoflegends.com/en-us/Crest_of_Cinders (burn + slow, regen out of combat, 120 s, transfers to killer)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Qué tienen de especial el buff azul y el buff rojo de la jungla?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No son solo colores bonitos: cambian cómo juega tu campeón."
+  },
+  {
+   "id": "donde",
+   "text": "Los sueltan dos monstruos grandes de la jungla: uno azul y uno rojo."
+  },
+  {
+   "id": "azul",
+   "text": "El azul te da aceleración de habilidades: tus hechizos vuelven más rápido."
+  },
+  {
+   "id": "azul2",
+   "text": "Y además, mucha regeneración de maná, o de energía si tu campeón la usa."
+  },
+  {
+   "id": "rojo",
+   "text": "El rojo hace que tus ataques básicos quemen y ralenticen al enemigo."
+  },
+  {
+   "id": "rojo2",
+   "text": "Y cuando no estás peleando, te va regenerando vida."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: un tirador con el rojo ralentiza a quien persigue, y es muy difícil escaparle."
+  },
+  {
+   "id": "dura",
+   "text": "Los dos duran ciento veinte segundos."
+  },
+  {
+   "id": "roba",
+   "text": "Y aquí viene lo bueno: si un enemigo te mata con el buff puesto, se lo lleva."
+  },
+  {
+   "id": "broma",
+   "text": "Es como si te asaltaran y además se llevaran tu torta."
+  },
+  {
+   "id": "inversa",
+   "text": "Y si tú matas a alguien que lo trae, el buff es tuyo, y se reinicia su tiempo."
+  },
+  {
+   "id": "quien",
+   "text": "¿Quién lo necesita más? El azul, los que gastan mucho maná. El rojo, los que pegan con ataques básicos."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: si llevas un buff, no te arriesgues de más. Si mueres, se lo regalas."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si ves al rival brillando de azul o rojo, ese es un premio extra."
+  },
+  {
+   "id": "jungla",
+   "text": "Y si eres el jungla, recuerda que tu equipo también los puede necesitar."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funcionan los buffs. Cada like es un buff rojo… quemando a Teemo.",
+   "voz": "Así funcionan los buffs. Cada like es un buff rojo… quemando a Timo."
+  }
+ ]
+}

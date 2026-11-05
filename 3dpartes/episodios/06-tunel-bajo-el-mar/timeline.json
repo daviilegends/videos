@@ -1,0 +1,268 @@
+{
+ "duration": 72.447,
+ "scenes": [
+  {
+   "id": "b1",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 0.3,
+   "end": 5.731,
+   "lines": [
+    {
+     "en": "You need to get cars across the sea. But giant ships pass through here every day, so a bridge is out.",
+     "es": "",
+     "texto": "You need to get cars across the sea. But giant ships pass through here every day, so a bridge is out.",
+     "nombra": false,
+     "start": 0.3,
+     "end": 5.451
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 5.731,
+   "end": 12.152,
+   "lines": [
+    {
+     "en": "So you start digging a tunnel from the beach, straight under the water.",
+     "es": "",
+     "texto": "So you start digging a tunnel from the beach, straight under the water.",
+     "nombra": false,
+     "start": 5.731,
+     "end": 8.836
+    },
+    {
+     "en": "And the sea says: thank you very much, and pours right in.",
+     "es": "",
+     "texto": "And the sea says: thank you very much, and pours right in.",
+     "nombra": false,
+     "start": 8.956,
+     "end": 11.872
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "etiqueta": "DREDGER",
+   "termino_en": "",
+   "start": 12.152,
+   "end": 18.225,
+   "lines": [
+    {
+     "en": "So this time, you don't dig under the sea. You dig on the bottom of it. A dredger scoops out a long trench across the seabed.",
+     "es": "",
+     "texto": "So this time, you don't dig under the sea. You dig on the bottom of it. A dredger scoops out a long trench across the seabed.",
+     "nombra": true,
+     "start": 12.152,
+     "end": 17.945
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "etiqueta": "GRAVEL BED",
+   "termino_en": "",
+   "start": 18.225,
+   "end": 21.924,
+   "lines": [
+    {
+     "en": "Then you spread a perfectly flat bed of gravel along the bottom of the trench.",
+     "es": "",
+     "texto": "Then you spread a perfectly flat bed of gravel along the bottom of the trench.",
+     "nombra": true,
+     "start": 18.225,
+     "end": 21.644
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "etiqueta": "DRY DOCK",
+   "termino_en": "",
+   "start": 21.924,
+   "end": 25.508,
+   "lines": [
+    {
+     "en": "Meanwhile, on the shore, you build a giant dry pit next to the sea.",
+     "es": "",
+     "texto": "Meanwhile, on the shore, you build a giant dry pit next to the sea.",
+     "nombra": true,
+     "start": 21.924,
+     "end": 25.228
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "etiqueta": "TUNNEL ELEMENTS",
+   "termino_en": "",
+   "start": 25.508,
+   "end": 30.241,
+   "lines": [
+    {
+     "en": "Inside it, you cast huge hollow boxes of concrete. These are the pieces of your tunnel.",
+     "es": "",
+     "texto": "Inside it, you cast huge hollow boxes of concrete. These are the pieces of your tunnel.",
+     "nombra": true,
+     "start": 25.508,
+     "end": 29.961
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "etiqueta": "BULKHEADS",
+   "termino_en": "",
+   "start": 30.241,
+   "end": 34.683,
+   "lines": [
+    {
+     "en": "You seal both ends of every piece with steel walls, so not a single drop gets in.",
+     "es": "",
+     "texto": "You seal both ends of every piece with steel walls, so not a single drop gets in.",
+     "nombra": true,
+     "start": 30.241,
+     "end": 34.403
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 34.683,
+   "end": 40.049,
+   "lines": [
+    {
+     "en": "Now you flood the dock. And the concrete box... floats! It's full of air, so it behaves like a ship.",
+     "es": "",
+     "texto": "Now you flood the dock. And the concrete box... floats! It's full of air, so it behaves like a ship.",
+     "nombra": false,
+     "start": 34.683,
+     "end": 39.769
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "etiqueta": "TUGBOATS",
+   "termino_en": "",
+   "start": 40.049,
+   "end": 43.07,
+   "lines": [
+    {
+     "en": "Tugboats drag it out to sea, right above the trench.",
+     "es": "",
+     "texto": "Tugboats drag it out to sea, right above the trench.",
+     "nombra": true,
+     "start": 40.049,
+     "end": 42.79
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "etiqueta": "BALLAST TANKS",
+   "termino_en": "",
+   "start": 43.07,
+   "end": 47.561,
+   "lines": [
+    {
+     "en": "You fill tanks inside it with water, and it slowly sinks, down onto the gravel bed.",
+     "es": "",
+     "texto": "You fill tanks inside it with water, and it slowly sinks, down onto the gravel bed.",
+     "nombra": true,
+     "start": 43.07,
+     "end": 47.281
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "etiqueta": "RUBBER GASKET",
+   "termino_en": "",
+   "start": 47.561,
+   "end": 51.647,
+   "lines": [
+    {
+     "en": "Each piece has a fat rubber seal on its end. You pull it tight against the last piece.",
+     "es": "",
+     "texto": "Each piece has a fat rubber seal on its end. You pull it tight against the last piece.",
+     "nombra": true,
+     "start": 47.561,
+     "end": 51.367
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 51.647,
+   "end": 58.723,
+   "lines": [
+    {
+     "en": "Then you pump out the water trapped between them. And now the whole sea pushes on the other end, squeezing the joint shut. Free pressure!",
+     "es": "",
+     "texto": "Then you pump out the water trapped between them. And now the whole sea pushes on the other end, squeezing the joint shut. Free pressure!",
+     "nombra": false,
+     "start": 51.647,
+     "end": 58.443
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 58.723,
+   "end": 61.683,
+   "lines": [
+    {
+     "en": "Piece after piece, the tunnel crosses the whole strait.",
+     "es": "",
+     "texto": "Piece after piece, the tunnel crosses the whole strait.",
+     "nombra": false,
+     "start": 58.723,
+     "end": 61.403
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "etiqueta": "ROCK BACKFILL",
+   "termino_en": "",
+   "start": 61.683,
+   "end": 65.31,
+   "lines": [
+    {
+     "en": "You bury it under tons of rock, so anchors and currents can never touch it.",
+     "es": "",
+     "texto": "You bury it under tons of rock, so anchors and currents can never touch it.",
+     "nombra": true,
+     "start": 61.683,
+     "end": 65.03
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 65.31,
+   "end": 71.647,
+   "lines": [
+    {
+     "en": "Knock out the steel walls, pave the road, turn on the lights. Congratulations! You have built a tunnel under the sea.",
+     "es": "",
+     "texto": "Knock out the steel walls, pave the road, turn on the lights. Congratulations! You have built a tunnel under the sea.",
+     "nombra": false,
+     "start": 65.31,
+     "end": 71.367
+    }
+   ]
+  }
+ ]
+}

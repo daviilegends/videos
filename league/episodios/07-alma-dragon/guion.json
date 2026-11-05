@@ -1,0 +1,78 @@
+{
+ "titulo": "El alma del dragón en un minuto",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Dragon_Soul (4 Dragon Slayer stacks; first two drakes distinct; then dominant element; soul permanent; Elder replaces drakes; Aspect of the Dragon 150 s, lost on death)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué todos se pelean por el dragón como si fuera el último tamal de la fiesta?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es solo por el dragón. Es por lo que viene después."
+  },
+  {
+   "id": "cuatro",
+   "text": "El primer equipo que consigue cuatro dragones se gana el alma del dragón."
+  },
+  {
+   "id": "marcas",
+   "text": "Cada dragón que matas le suma a tu equipo una marca de cazadragones. Cuatro marcas, y el alma es tuya."
+  },
+  {
+   "id": "dos",
+   "text": "Los dos primeros dragones son de elementos distintos."
+  },
+  {
+   "id": "mapa",
+   "text": "Y cuando el mapa toma un elemento, el río y la jungla cambian de aspecto."
+  },
+  {
+   "id": "resto",
+   "text": "Después, todos los dragones son del elemento que domina el mapa."
+  },
+  {
+   "id": "alma",
+   "text": "Y el alma es justo de ese elemento. Una vez que la tienes, es permanente para todo tu equipo."
+  },
+  {
+   "id": "elder",
+   "text": "Cuando un equipo ya tiene el alma, en lugar de dragones elementales aparece el dragón ancestral."
+  },
+  {
+   "id": "aspecto",
+   "text": "Si lo matan, los aliados que siguen vivos reciben el Aspecto del Dragón durante ciento cincuenta segundos."
+  },
+  {
+   "id": "muerte",
+   "text": "Pero ojo: si mueres, lo pierdes."
+  },
+  {
+   "id": "vivos",
+   "text": "Solo lo reciben los aliados vivos. Si tu compañero murió en la pelea, se lo pierde."
+  },
+  {
+   "id": "broma",
+   "text": "O sea, el poder más fuerte del juego… y lo pierdes por andar de valiente."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: revisa el marcador de dragones. Si el rival ya lleva tres, el cuarto no se regala."
+  },
+  {
+   "id": "tip2",
+   "text": "Y a partir del tercer dragón, cada pelea en el río puede decidir la partida."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona el alma. Cada like es un aliento de dragón… directo a Teemo.",
+   "voz": "Así funciona el alma. Cada like es un aliento de dragón… directo a Timo."
+  }
+ ],
+ "fondo": {
+  "patron": "rombos",
+  "color": "marino",
+  "zoom": 1.0
+ }
+}

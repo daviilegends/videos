@@ -1,0 +1,28 @@
+{
+ "ventanas": [
+  1.3,
+  2.3,
+  3.3,
+  4.3
+ ],
+ "toca": 6.42,
+ "abre": 9.956,
+ "pines": 14.04,
+ "periodico": 20.788,
+ "retrato": 23.7,
+ "giro": 30.14,
+ "fecha": 32.84,
+ "sale": 36.7,
+ "inquilino": 40.34,
+ "sirena": 42.06,
+ "expediente": 45.44,
+ "foco": 48.34,
+ "nombre_ring": 51.596,
+ "mazo": 54.6,
+ "cifras": [
+  57.436,
+  61.468
+ ],
+ "rejas": 63.56,
+ "cambio": 67.636
+}

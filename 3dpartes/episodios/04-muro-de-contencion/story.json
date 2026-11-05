@@ -1,0 +1,43 @@
+{
+ "title": "How a retaining wall is built",
+ "idioma_voz": "en",
+ "subtitulos": "palabra_en",
+ "scenes": [
+  {"id": "b1", "etiqueta": "", "lines": [
+   {"en": "Your house sits right at the bottom of a hill. And every time it rains, the hill slides a little closer to your bedroom."}]},
+  {"id": "b2", "etiqueta": "SOIL STUDY", "lines": [
+   {"en": "First, you pull up samples of the soil, to find out how hard it's going to push.", "nombra": true}]},
+  {"id": "b3", "etiqueta": "", "lines": [
+   {"en": "So you build a thin wall. And the dirt just shoves it over, like a domino."}]},
+  {"id": "b4", "etiqueta": "FOOTING", "lines": [
+   {"en": "So you give it a wide foot underneath, and now the weight of the soil holds it down."},
+   {"en": "This is a footing.", "nombra": true}]},
+  {"id": "b5", "etiqueta": "", "lines": [
+   {"en": "But the hill can still push the whole thing forward, sliding it like a hockey puck."}]},
+  {"id": "b6", "etiqueta": "SHEAR KEY", "lines": [
+   {"en": "So you add a concrete tooth under the footing that bites into the ground."},
+   {"en": "This is a shear key.", "nombra": true}]},
+  {"id": "b7", "etiqueta": "REBAR", "lines": [
+   {"en": "Now, for real. You place steel bars that run from the footing up into the wall, so they work as one piece.", "nombra": true}]},
+  {"id": "b8", "etiqueta": "FORMWORK", "lines": [
+   {"en": "You set up wooden forms, pour the concrete, and shake it, so no air bubbles get trapped inside.", "nombra": true}]},
+  {"id": "b9", "etiqueta": "CURING", "lines": [
+   {"en": "Then you keep it wet for days while it hardens, so it doesn't crack."},
+   {"en": "This is curing.", "nombra": true}]},
+  {"id": "b10", "etiqueta": "", "lines": [
+   {"en": "But when it rains, water piles up behind the wall, and pushes even harder than the dirt."}]},
+  {"id": "b11", "etiqueta": "WEEP HOLES", "lines": [
+   {"en": "So you leave little pipes through the wall to let the water out."},
+   {"en": "These are weep holes.", "nombra": true}]},
+  {"id": "b12", "etiqueta": "DRAIN", "lines": [
+   {"en": "Right behind the wall, you add gravel and a pipe full of holes, so the water runs down and out.", "nombra": true}]},
+  {"id": "b13", "etiqueta": "", "lines": [
+   {"en": "Then you fill it back in with soil, one packed layer at a time."}]},
+  {"id": "b14", "etiqueta": "INTERCEPTOR DITCH", "lines": [
+   {"en": "Up the hill, you dig a channel that catches the rain before it ever reaches the wall.", "nombra": true}]},
+  {"id": "b15", "etiqueta": "", "lines": [
+   {"en": "And you plant the slope, so the roots hold the dirt together."}]},
+  {"id": "b16", "etiqueta": "", "lines": [
+   {"en": "Congratulations! You have built a retaining wall."}]}
+ ]
+}

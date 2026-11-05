@@ -1,0 +1,77 @@
+{
+ "titulo": "¿Por qué te cortan el recall?",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Recall (0.5 s cast + 8 s channel; Empowered 4 s; damage interrupts unless 0/shield/invulnerable; not in final 0.1 s; CC and Flash interrupt)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Cuántas veces te cortaron el recall en el último segundo?"
+  },
+  {
+   "id": "dur",
+   "text": "El recall tarda medio segundo en lanzarse, y luego ocho segundos de canalización."
+  },
+  {
+   "id": "total",
+   "text": "Medio segundo más ocho: ocho segundos y medio en total. Una eternidad en una pelea."
+  },
+  {
+   "id": "broma",
+   "text": "Ocho segundos. Parecen poco, hasta que tienes tres de vida."
+  },
+  {
+   "id": "dano",
+   "text": "Si recibes daño durante esos ocho segundos, se cancela."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Un solo golpe, una habilidad, lo que sea: si te hace daño, empiezas otra vez desde cero."
+  },
+  {
+   "id": "escudo",
+   "text": "Pero si un escudo absorbe ese daño, el recall sigue."
+  },
+  {
+   "id": "final",
+   "text": "Y dato curioso: si el golpe llega en la última décima de segundo, ya no te lo cancela."
+  },
+  {
+   "id": "cc",
+   "text": "Los aturdimientos, silencios, derribos y enraizamientos también lo cortan."
+  },
+  {
+   "id": "cc2",
+   "text": "Básicamente, cualquier cosa que te deje sin control también te deja sin recall."
+  },
+  {
+   "id": "flash",
+   "text": "Y si usas Flash a medio recall, también se cancela."
+  },
+  {
+   "id": "mejorado",
+   "text": "Existe un recall mejorado, que tarda solo cuatro segundos."
+  },
+  {
+   "id": "rival",
+   "text": "Y ojo con el rival: muchos esperan a que empieces el recall para pegarte cuando ya te sientes a salvo."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: haz recall fuera de la vista del rival, detrás de un muro o dentro de un arbusto."
+  },
+  {
+   "id": "broma2",
+   "text": "Nada de hacer recall en medio de la línea, como si fueras invisible."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si ya te lo cortaron una vez, no lo intentes en el mismo lugar."
+  },
+  {
+   "id": "cierre",
+   "text": "Ahora ya sabes por qué te lo cortan. Cada like le corta el recall a Teemo… en el último segundo.",
+   "voz": "Ahora ya sabes por qué te lo cortan. Cada like le corta el recall a Timo… en el último segundo."
+  }
+ ]
+}

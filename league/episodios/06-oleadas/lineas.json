@@ -1,0 +1,110 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Sabías que los súbditos salen con horario, como el camión de la basura?",
+  "start": 0.25,
+  "end": 3.091
+ },
+ {
+  "id": "porque",
+  "text": "Y saber ese horario te puede ganar la línea. Mira.",
+  "start": 3.511,
+  "end": 5.785
+ },
+ {
+  "id": "inicio",
+  "text": "Desde el minuto cero treinta, sale una oleada cada treinta segundos.",
+  "start": 6.205,
+  "end": 9.171
+ },
+ {
+  "id": "medio",
+  "text": "Aunque la partida empieza en cero, la primera oleada sale al medio minuto.",
+  "start": 9.591,
+  "end": 12.74
+ },
+ {
+  "id": "m14",
+  "text": "En el minuto catorce, se aceleran: una oleada cada veinticinco segundos.",
+  "start": 13.16,
+  "end": 16.774
+ },
+ {
+  "id": "m30",
+  "text": "Y desde el minuto treinta, una cada veinte segundos.",
+  "start": 17.195,
+  "end": 19.58
+ },
+ {
+  "id": "porminuto",
+  "text": "O sea: al principio, dos oleadas por minuto. Al final del juego, tres.",
+  "start": 20.0,
+  "end": 23.934
+ },
+ {
+  "id": "broma2",
+  "text": "Más puntual que tu jefe pidiendo reportes.",
+  "start": 24.354,
+  "end": 26.138
+ },
+ {
+  "id": "canon1",
+  "text": "El súbdito de cañón llega por primera vez en la tercera oleada, al minuto uno treinta.",
+  "start": 26.558,
+  "end": 30.458
+ },
+ {
+  "id": "quien",
+  "text": "El cañón es el súbdito grandote que dispara desde atrás.",
+  "start": 30.878,
+  "end": 33.256
+ },
+ {
+  "id": "canon2",
+  "text": "Hasta el minuto catorce, aparece cada tres oleadas.",
+  "start": 33.676,
+  "end": 36.233
+ },
+ {
+  "id": "canon3",
+  "text": "Después, cada dos oleadas. Y desde el minuto veinticinco, en todas.",
+  "start": 36.653,
+  "end": 40.055
+ },
+ {
+  "id": "super",
+  "text": "Ojo: en las oleadas que traen súper súbditos, el cañón no sale.",
+  "start": 40.475,
+  "end": 44.114
+ },
+ {
+  "id": "contar",
+  "text": "Si cuentas las oleadas, puedes saber cuándo viene el cañón sin mirar el reloj.",
+  "start": 44.534,
+  "end": 47.767
+ },
+ {
+  "id": "tip",
+  "text": "¿Para qué te sirve? Saber cuándo llega el cañón te ayuda a no perderlo, y a planear cuándo regresar a base.",
+  "start": 48.187,
+  "end": 52.66
+ },
+ {
+  "id": "broma",
+  "text": "Es como saber a qué hora pasa el de los tamales.",
+  "start": 53.08,
+  "end": 55.064
+ },
+ {
+  "id": "tip2",
+  "text": "Y cuando la partida va avanzada, las oleadas llegan más seguido: no te alejes demasiado de tu línea.",
+  "start": 55.484,
+  "end": 59.935
+ },
+ {
+  "id": "cierre",
+  "text": "Ahora ya tienes el reloj. Cada like adelanta la oleada… directo encima de Teemo.",
+  "start": 60.355,
+  "end": 64.304
+ }
+]

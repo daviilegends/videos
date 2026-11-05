@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Qué monstruo tira torres de un solo cabezazo?",
+  "start": 0.25,
+  "end": 2.135
+ },
+ {
+  "id": "spoiler",
+  "text": "No es un campeón. Es un monstruo que tu equipo puede invocar.",
+  "start": 2.555,
+  "end": 5.333
+ },
+ {
+  "id": "que",
+  "text": "El heraldo de la grieta. Aparece al minuto quince, en el foso de arriba del río.",
+  "start": 5.753,
+  "end": 9.444
+ },
+ {
+  "id": "una",
+  "text": "Sale una sola vez por partida, y si nadie lo mata, se va al minuto diecinueve con cuarenta y cinco.",
+  "start": 9.864,
+  "end": 14.21
+ },
+ {
+  "id": "ojo",
+  "text": "Cuando lo matas, suelta su ojo en la entrada del foso, durante veinte segundos.",
+  "start": 14.63,
+  "end": 18.093
+ },
+ {
+  "id": "recoge",
+  "text": "Un jugador de tu equipo lo recoge, y al usarlo, invoca al heraldo de tu lado.",
+  "start": 18.513,
+  "end": 22.039
+ },
+ {
+  "id": "carga",
+  "text": "El heraldo se prepara dos segundos y medio, y salta directo contra la estructura.",
+  "start": 22.459,
+  "end": 25.849
+ },
+ {
+  "id": "tresmil",
+  "text": "El primer cabezazo hace tres mil de daño verdadero.",
+  "start": 26.269,
+  "end": 28.687
+ },
+ {
+  "id": "ejemplo",
+  "text": "Tres mil de daño verdadero. Hay torres que pierden un buen pedazo de un solo golpe.",
+  "start": 29.107,
+  "end": 32.616
+ },
+ {
+  "id": "broma",
+  "text": "Tres mil. Ni tu tío cuando le cambias el canal en plena final.",
+  "start": 33.036,
+  "end": 35.817
+ },
+ {
+  "id": "menos",
+  "text": "Los siguientes golpes hacen cada vez menos daño, y cada choque le quita mucha vida al heraldo.",
+  "start": 36.237,
+  "end": 40.196
+ },
+ {
+  "id": "campeones",
+  "text": "Y si hay campeones enemigos cerca del impacto, los avienta para atrás.",
+  "start": 40.616,
+  "end": 43.765
+ },
+ {
+  "id": "despues",
+  "text": "Después del heraldo, en ese foso aparece el barón. Esa también es otra clase.",
+  "start": 44.185,
+  "end": 47.561
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: úsalo cuando la torre no tenga defensores cerca, para que el cabezazo cuente.",
+  "start": 47.981,
+  "end": 52.266
+ },
+ {
+  "id": "tip2",
+  "text": "Y si lo invocas junto con tu oleada, la torre tiene que elegir a quién defender.",
+  "start": 52.686,
+  "end": 56.011
+ },
+ {
+  "id": "tip3",
+  "text": "Con el heraldo, la torre que pensabas tirar en cinco minutos cae en uno.",
+  "start": 56.431,
+  "end": 59.577
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona el heraldo. Cada like es un cabezazo… directo a la torre de Teemo.",
+  "start": 59.997,
+  "end": 63.682
+ }
+]

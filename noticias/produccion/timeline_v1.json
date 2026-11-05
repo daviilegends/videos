@@ -1,0 +1,188 @@
+{
+ "duration": 113.98,
+ "scenes": [
+  {
+   "id": "n1",
+   "bg": "-",
+   "start": 0.3,
+   "end": 6.98,
+   "lines": [
+    {
+     "text": "Estados Unidos volvió a atacar a Irán.",
+     "start": 0.3,
+     "end": 3.02
+    },
+    {
+     "text": "¿Qué está pasando, y qué podría venir después?",
+     "start": 3.22,
+     "end": 6.58
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "bg": "-",
+   "start": 6.98,
+   "end": 15.54,
+   "lines": [
+    {
+     "text": "Según The Wall Street Journal, el lunes 2 de noviembre Estados Unidos atacó la isla iraní de Qeshm, en el golfo Pérsico.",
+     "start": 6.98,
+     "end": 15.14
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "bg": "-",
+   "start": 15.54,
+   "end": 24.42,
+   "lines": [
+    {
+     "text": "Qeshm está justo a la entrada del estrecho de Ormuz, por donde normalmente pasa cerca de una quinta parte del petróleo que se consume en el mundo.",
+     "start": 15.54,
+     "end": 24.02
+    }
+   ]
+  },
+  {
+   "id": "n4",
+   "bg": "-",
+   "start": 24.42,
+   "end": 32.66,
+   "lines": [
+    {
+     "text": "En la isla hay una instalación subterránea de misiles, una base naval y una importante planta desalinizadora.",
+     "start": 24.42,
+     "end": 32.26
+    }
+   ]
+  },
+  {
+   "id": "n5",
+   "bg": "-",
+   "start": 32.66,
+   "end": 48.78,
+   "lines": [
+    {
+     "text": "Funcionarios estadounidenses dicen que fue un ataque defensivo, para que Irán no pueda amenazar a los barcos comerciales, y que respondió al impacto contra una aeronave militar de Estados Unidos.",
+     "start": 32.66,
+     "end": 44.02
+    },
+    {
+     "text": "El Comando Central todavía no lo ha anunciado oficialmente.",
+     "start": 44.22,
+     "end": 48.38
+    }
+   ]
+  },
+  {
+   "id": "n6",
+   "bg": "-",
+   "start": 48.78,
+   "end": 53.5,
+   "lines": [
+    {
+     "text": "Y ocurrió una noche antes de las elecciones de medio mandato en Estados Unidos.",
+     "start": 48.78,
+     "end": 53.1
+    }
+   ]
+  },
+  {
+   "id": "n7",
+   "bg": "-",
+   "start": 53.5,
+   "end": 67.7,
+   "lines": [
+    {
+     "text": "Trump dice que Estados Unidos ya ganó la guerra, y que ni siquiera se le puede llamar guerra, porque llevan meses sin combatir.",
+     "start": 53.5,
+     "end": 61.18
+    },
+    {
+     "text": "Pero el Pentágono ha reforzado su presencia en la región y tiene listas opciones para ampliar los ataques.",
+     "start": 61.38,
+     "end": 67.3
+    }
+   ]
+  },
+  {
+   "id": "n8",
+   "bg": "-",
+   "start": 67.7,
+   "end": 80.78,
+   "lines": [
+    {
+     "text": "Esta guerra empezó a finales de febrero, cuando Estados Unidos e Israel atacaron Irán.",
+     "start": 67.7,
+     "end": 73.14
+    },
+    {
+     "text": "Hasta el 16 de octubre, ya había costado a los contribuyentes estadounidenses cuarenta y siete mil cien millones de dólares.",
+     "start": 73.34,
+     "end": 80.38
+    }
+   ]
+  },
+  {
+   "id": "n9",
+   "bg": "-",
+   "start": 80.78,
+   "end": 96.46,
+   "lines": [
+    {
+     "text": "¿Qué podría pasar ahora?",
+     "start": 80.78,
+     "end": 83.18
+    },
+    {
+     "text": "Si Irán responde, la tregua podría romperse y volver la guerra abierta.",
+     "start": 83.38,
+     "end": 88.5
+    },
+    {
+     "text": "Cualquier amenaza en el estrecho de Ormuz puede disparar el precio del petróleo, y con él, el de la gasolina en todo el mundo.",
+     "start": 88.7,
+     "end": 96.06
+    }
+   ]
+  },
+  {
+   "id": "n10",
+   "bg": "-",
+   "start": 96.46,
+   "end": 106.18,
+   "lines": [
+    {
+     "text": "Y en Estados Unidos, el costo de la guerra ya es tema de campaña.",
+     "start": 96.46,
+     "end": 101.26
+    },
+    {
+     "text": "El resultado de las elecciones podría influir en lo que pase después.",
+     "start": 101.46,
+     "end": 105.78
+    }
+   ]
+  },
+  {
+   "id": "n11",
+   "bg": "-",
+   "start": 106.18,
+   "end": 113.98,
+   "lines": [
+    {
+     "text": "Por ahora, Trump dice que prefiere un acuerdo con Teherán.",
+     "start": 106.18,
+     "end": 110.5
+    },
+    {
+     "text": "Pero las opciones militares siguen sobre la mesa.",
+     "start": 110.7,
+     "end": 113.58
+    }
+   ]
+  }
+ ]
+}

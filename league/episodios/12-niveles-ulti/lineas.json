@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué todos se emocionan cuando llegan a nivel seis?",
+  "start": 0.25,
+  "end": 2.307
+ },
+ {
+  "id": "spoiler",
+  "text": "Porque a partir de ahí, la línea se juega distinto.",
+  "start": 2.727,
+  "end": 4.933
+ },
+ {
+  "id": "regla",
+  "text": "La habilidad definitiva, la R, solo se puede aprender en los niveles seis, once y dieciséis.",
+  "start": 5.353,
+  "end": 10.801
+ },
+ {
+  "id": "seis",
+  "text": "En el seis la desbloqueas, y de repente tu campeón tiene un truco nuevo.",
+  "start": 11.221,
+  "end": 14.242
+ },
+ {
+  "id": "salto",
+  "text": "Es el primer gran salto de poder de la partida, y todos lo sienten.",
+  "start": 14.662,
+  "end": 17.644
+ },
+ {
+  "id": "once",
+  "text": "En el once sube de rango. Normalmente pega más fuerte o vuelve más rápido.",
+  "start": 18.064,
+  "end": 21.204
+ },
+ {
+  "id": "dieciseis",
+  "text": "Y en el dieciséis llega a su máximo.",
+  "start": 21.624,
+  "end": 23.348
+ },
+ {
+  "id": "rangos",
+  "text": "Seis, once y dieciséis: tres rangos, y no hay más.",
+  "start": 23.768,
+  "end": 26.577
+ },
+ {
+  "id": "excepciones",
+  "text": "Hay excepciones: Elise, Karma y Nidalee tienen su R desde el nivel uno.",
+  "start": 26.997,
+  "end": 30.523
+ },
+ {
+  "id": "jayce",
+  "text": "Y Jayce también la tiene desde el inicio, pero con un solo rango.",
+  "start": 30.943,
+  "end": 33.653
+ },
+ {
+  "id": "broma",
+  "text": "Nivel seis es como el viernes en la tarde: todo el mundo se siente invencible.",
+  "start": 34.073,
+  "end": 37.234
+ },
+ {
+  "id": "rival",
+  "text": "Por eso, cuando el rival llega a seis, cuidado: puede tener una pelea completamente distinta.",
+  "start": 37.654,
+  "end": 41.815
+ },
+ {
+  "id": "primero",
+  "text": "Y si tú llegas primero, esa ventaja dura poco. Aprovéchala antes de que él también suba.",
+  "start": 42.235,
+  "end": 46.2
+ },
+ {
+  "id": "barra",
+  "text": "Fíjate en el nivel del rival: aparece junto a su barra de vida.",
+  "start": 46.62,
+  "end": 49.477
+ },
+ {
+  "id": "cuenta",
+  "text": "Y cuenta: si está a punto de subir, mejor espera a que tú también estés listo.",
+  "start": 49.897,
+  "end": 53.396
+ },
+ {
+  "id": "broma2",
+  "text": "Pelear contra alguien que acaba de llegar a seis, sin tener el tuyo, es llevar una cuchara a una pelea de espadas.",
+  "start": 53.816,
+  "end": 58.589
+ },
+ {
+  "id": "cierre",
+  "text": "Así funcionan los niveles. Cada like es un nivel… que Teemo no va a subir.",
+  "start": 59.009,
+  "end": 62.455
+ }
+]

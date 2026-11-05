@@ -1,0 +1,77 @@
+{
+ "titulo": "¿Por qué te pega la oleada?",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Minion_(League_of_Legends) (Target acquisition, Call for Help, 60% damage vs champions)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Alguna vez golpeaste al rival, y de repente toda su oleada se lanzó contra ti?"
+  },
+  {
+   "id": "nosuerte",
+   "text": "No es mala suerte. Es una regla del juego, y hoy te la explico."
+  },
+  {
+   "id": "golpe",
+   "text": "Mira. Cuando golpeas a un campeón enemigo con un ataque básico, o con casi cualquier habilidad dirigida,"
+  },
+  {
+   "id": "giran",
+   "text": "sus súbditos cercanos dejan lo que estaban haciendo, y se giran contra ti."
+  },
+  {
+   "id": "radio",
+   "text": "¿Qué tan cerca? En general, a unas quinientas unidades del súbdito."
+  },
+  {
+   "id": "dano",
+   "text": "Cada súbdito pega poquito: contra campeones solo hace el sesenta por ciento de su daño."
+  },
+  {
+   "id": "duele",
+   "text": "Pero seis al mismo tiempo pegan más fuerte que la cruda del lunes. Y con poca vida, te mandan directo a la base."
+  },
+  {
+   "id": "cerebro",
+   "text": "Y es que los súbditos tienen un cerebro del tamaño de un chícharo: una lista de prioridades."
+  },
+  {
+   "id": "p1",
+   "text": "Primero, van por el campeón enemigo que está atacando a uno de sus campeones."
+  },
+  {
+   "id": "p2",
+   "text": "Luego, por los súbditos enemigos que atacan a sus campeones."
+  },
+  {
+   "id": "p3",
+   "text": "Después, por lo que ataque a sus súbditos. Y al final, por lo que tengan más cerca."
+  },
+  {
+   "id": "fijo",
+   "text": "Y ojo: una vez que eligen objetivo, solo cambian si aparece alguien con más prioridad."
+  },
+  {
+   "id": "quiz",
+   "text": "Pregunta rápida: si golpeas a un súbdito, ¿te atacan todos? No necesariamente. La alarma se activa cuando golpeas a un campeón."
+  },
+  {
+   "id": "reves",
+   "text": "Lo mejor es que funciona al revés: si el rival te golpea, tus súbditos se le echan encima como tías a los tamales en Navidad."
+  },
+  {
+   "id": "tip",
+   "text": "Así que pelea cuando su oleada sea pequeña, o cuando sea él quien se arriesgue a pegarte."
+  },
+  {
+   "id": "torres",
+   "text": "Por cierto, las torres hacen algo parecido. Pero eso es tema de la próxima clase."
+  },
+  {
+   "id": "cierre",
+   "text": "Ahora ya sabes por qué te pega la oleada. Recuerda: cada like es un puñetazo a Teemo. Te leo en los comentarios.",
+   "voz": "Ahora ya sabes por qué te pega la oleada. Recuerda: cada like es un puñetazo a Timo. Te leo en los comentarios."
+  }
+ ]
+}

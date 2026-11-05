@@ -1,0 +1,51 @@
+# Whitelist: only code, configs and docs are versioned. Media, models, envs and secrets stay local.
+*
+!*/
+!.gitignore
+!*.py
+!*.json
+!*.md
+!*.txt
+!*.bat
+!*.ps1
+!*.html
+!*.css
+!*.js
+!*.yaml
+!*.yml
+!*.toml
+!*.ini
+!*.cfg
+
+# environments, models, third-party tools
+image/
+tts/env/
+tts/models/
+production/render_env/
+**/env/
+**/venv/
+**/node_modules/
+**/__pycache__/
+
+# generated / heavy / caches
+logs/
+**/_cache_voz/
+**/stills/
+**/output/
+**/descartados/
+sfx/library/
+league/assets/sonidos_lol/
+
+# sensitive: n8n backups and the old reference flow (plaintext tokens), local env files
+n8n/referencia/
+n8n/*backup*/
+n8n/*backup*
+.env
+*.env
+**/credentials*
+**/*secret*
+**/*token*
+
+# third-party code
+**/_vendor/
+league/herramientas/vgmstream/

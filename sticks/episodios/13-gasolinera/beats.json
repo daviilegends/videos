@@ -1,0 +1,36 @@
+{
+ "motor": [
+  0.3,
+  8.1
+ ],
+ "letrero1": 8.3,
+ "suspiro": 13.84,
+ "llega1": [
+  15.9,
+  17.5
+ ],
+ "neon": 18.0,
+ "cobra": 26.452,
+ "reloj1": 28.9,
+ "bomba": [
+  33.62,
+  36.148
+ ],
+ "sale1": 37.14,
+ "letrero2": 42.44,
+ "llega2": 48.86,
+ "ticket": 54.78,
+ "otra_vez": 61.66,
+ "reloj2": 63.5,
+ "vuelta": 69.652,
+ "acelera": [
+  70.708,
+  75.82
+ ],
+ "letrero3": 75.92,
+ "otro_coche": 79.08,
+ "placas": 81.74,
+ "doble": 85.02,
+ "suspira_viejo": 89.16,
+ "reloj3": 95.38
+}

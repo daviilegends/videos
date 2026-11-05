@@ -1,0 +1,22 @@
+{
+ "timbre": 8.5,
+ "contesta": 10.8,
+ "susurro": 16.58,
+ "teclea": 22.08,
+ "pin": 25.628,
+ "tu_casa": 27.82,
+ "armario_inset": 33.06,
+ "patrulla_radio": 40.2,
+ "mochila_cae": 49.686,
+ "mira_mochila": 52.8,
+ "mira_uniforme": 54.92,
+ "corre": 57.34,
+ "sirena": 61.82,
+ "puerta": 66.37,
+ "armario_abre": 74.52,
+ "mirada": 79.94,
+ "papeles": 83.48,
+ "fotos_cambian": 95.0,
+ "timbre_final": 99.268,
+ "contesta_final": 103.74
+}

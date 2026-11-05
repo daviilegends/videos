@@ -1,0 +1,288 @@
+{
+ "name": "Identificar canales de YouTube",
+ "nodes": [
+  {
+   "id": "start",
+   "name": "Identificar",
+   "type": "n8n-nodes-base.manualTrigger",
+   "typeVersion": 1,
+   "position": [
+    0,
+    240
+   ],
+   "parameters": {}
+  },
+  {
+   "id": "ask0",
+   "name": "Preguntar YouTube account",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    260,
+    0
+   ],
+   "onError": "continueRegularOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "NnTmpM4UV41k2UwT",
+     "name": "YouTube account"
+    }
+   },
+   "parameters": {
+    "url": "https://www.googleapis.com/youtube/v3/channels",
+    "authentication": "predefinedCredentialType",
+    "nodeCredentialType": "youTubeOAuth2Api",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "part",
+       "value": "snippet"
+      },
+      {
+       "name": "mine",
+       "value": "true"
+      }
+     ]
+    },
+    "options": {}
+   }
+  },
+  {
+   "id": "show0",
+   "name": "Canal de YouTube account",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    520,
+    0
+   ],
+   "parameters": {
+    "jsCode": "const ch = ($json.items || [])[0];\nreturn [{ json: { credencial: 'YouTube account', canal: ch ? ch.snippet.title : 'sin canal o sin acceso: ' + JSON.stringify($json.error || $json).slice(0, 200), id_canal: ch ? ch.id : '', url: ch ? 'https://www.youtube.com/channel/' + ch.id : '' } }];"
+   }
+  },
+  {
+   "id": "ask1",
+   "name": "Preguntar YouTube account 2",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    260,
+    160
+   ],
+   "onError": "continueRegularOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "mxEcDKwmWxzah274",
+     "name": "YouTube account 2"
+    }
+   },
+   "parameters": {
+    "url": "https://www.googleapis.com/youtube/v3/channels",
+    "authentication": "predefinedCredentialType",
+    "nodeCredentialType": "youTubeOAuth2Api",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "part",
+       "value": "snippet"
+      },
+      {
+       "name": "mine",
+       "value": "true"
+      }
+     ]
+    },
+    "options": {}
+   }
+  },
+  {
+   "id": "show1",
+   "name": "Canal de YouTube account 2",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    520,
+    160
+   ],
+   "parameters": {
+    "jsCode": "const ch = ($json.items || [])[0];\nreturn [{ json: { credencial: 'YouTube account 2', canal: ch ? ch.snippet.title : 'sin canal o sin acceso: ' + JSON.stringify($json.error || $json).slice(0, 200), id_canal: ch ? ch.id : '', url: ch ? 'https://www.youtube.com/channel/' + ch.id : '' } }];"
+   }
+  },
+  {
+   "id": "ask2",
+   "name": "Preguntar YouTube account 3",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    260,
+    320
+   ],
+   "onError": "continueRegularOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "Za7TkeGfN2D8U8Ge",
+     "name": "YouTube account 3"
+    }
+   },
+   "parameters": {
+    "url": "https://www.googleapis.com/youtube/v3/channels",
+    "authentication": "predefinedCredentialType",
+    "nodeCredentialType": "youTubeOAuth2Api",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "part",
+       "value": "snippet"
+      },
+      {
+       "name": "mine",
+       "value": "true"
+      }
+     ]
+    },
+    "options": {}
+   }
+  },
+  {
+   "id": "show2",
+   "name": "Canal de YouTube account 3",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    520,
+    320
+   ],
+   "parameters": {
+    "jsCode": "const ch = ($json.items || [])[0];\nreturn [{ json: { credencial: 'YouTube account 3', canal: ch ? ch.snippet.title : 'sin canal o sin acceso: ' + JSON.stringify($json.error || $json).slice(0, 200), id_canal: ch ? ch.id : '', url: ch ? 'https://www.youtube.com/channel/' + ch.id : '' } }];"
+   }
+  },
+  {
+   "id": "ask3",
+   "name": "Preguntar YouTube account 4",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    260,
+    480
+   ],
+   "onError": "continueRegularOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "OhfBChzyVAI9gaHW",
+     "name": "YouTube account 4"
+    }
+   },
+   "parameters": {
+    "url": "https://www.googleapis.com/youtube/v3/channels",
+    "authentication": "predefinedCredentialType",
+    "nodeCredentialType": "youTubeOAuth2Api",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "part",
+       "value": "snippet"
+      },
+      {
+       "name": "mine",
+       "value": "true"
+      }
+     ]
+    },
+    "options": {}
+   }
+  },
+  {
+   "id": "show3",
+   "name": "Canal de YouTube account 4",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    520,
+    480
+   ],
+   "parameters": {
+    "jsCode": "const ch = ($json.items || [])[0];\nreturn [{ json: { credencial: 'YouTube account 4', canal: ch ? ch.snippet.title : 'sin canal o sin acceso: ' + JSON.stringify($json.error || $json).slice(0, 200), id_canal: ch ? ch.id : '', url: ch ? 'https://www.youtube.com/channel/' + ch.id : '' } }];"
+   }
+  }
+ ],
+ "connections": {
+  "Identificar": {
+   "main": [
+    [
+     {
+      "node": "Preguntar YouTube account",
+      "type": "main",
+      "index": 0
+     },
+     {
+      "node": "Preguntar YouTube account 2",
+      "type": "main",
+      "index": 0
+     },
+     {
+      "node": "Preguntar YouTube account 3",
+      "type": "main",
+      "index": 0
+     },
+     {
+      "node": "Preguntar YouTube account 4",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Preguntar YouTube account": {
+   "main": [
+    [
+     {
+      "node": "Canal de YouTube account",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Preguntar YouTube account 2": {
+   "main": [
+    [
+     {
+      "node": "Canal de YouTube account 2",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Preguntar YouTube account 3": {
+   "main": [
+    [
+     {
+      "node": "Canal de YouTube account 3",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Preguntar YouTube account 4": {
+   "main": [
+    [
+     {
+      "node": "Canal de YouTube account 4",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  }
+ },
+ "settings": {
+  "executionOrder": "v1"
+ },
+ "pinData": {}
+}

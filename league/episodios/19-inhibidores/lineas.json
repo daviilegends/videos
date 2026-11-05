@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Qué pasa cuando destruyes un inhibidor?",
+  "start": 0.25,
+  "end": 1.857
+ },
+ {
+  "id": "spoiler",
+  "text": "Es el momento en que la partida empieza a cerrarse.",
+  "start": 2.277,
+  "end": 4.241
+ },
+ {
+  "id": "que",
+  "text": "Los inhibidores son los cristales que están al final de cada línea, dentro de la base.",
+  "start": 4.661,
+  "end": 8.266
+ },
+ {
+  "id": "super",
+  "text": "Si destruyes uno, tu base empieza a mandar súper súbditos en esa línea, en cada oleada.",
+  "start": 8.686,
+  "end": 12.692
+ },
+ {
+  "id": "presion",
+  "text": "Son enormes, aguantan muchísimo y pegan fuerte: empujan la línea casi solos.",
+  "start": 13.112,
+  "end": 16.93
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: tú regresas a base a comprar, y tus súper súbditos siguen empujando por ti.",
+  "start": 17.35,
+  "end": 21.412
+ },
+ {
+  "id": "tres",
+  "text": "Si destruyes los tres, salen dos súper súbditos por línea en cada oleada.",
+  "start": 21.832,
+  "end": 25.177
+ },
+ {
+  "id": "broma",
+  "text": "Los súper súbditos son como el primo grandote que trae tu mamá a defenderte.",
+  "start": 25.597,
+  "end": 29.073
+ },
+ {
+  "id": "vuelve",
+  "text": "Pero el inhibidor no se queda roto para siempre: reaparece a los cinco minutos.",
+  "start": 29.493,
+  "end": 32.859
+ },
+ {
+  "id": "aviso",
+  "text": "Unos quince segundos antes, el anunciador avisa que está por volver.",
+  "start": 33.279,
+  "end": 36.332
+ },
+ {
+  "id": "nexo",
+  "text": "Y en cuanto cae un inhibidor, las torres del nexo y el nexo ya se pueden atacar.",
+  "start": 36.752,
+  "end": 40.422
+ },
+ {
+  "id": "vida",
+  "text": "Un inhibidor tiene cuatro mil de vida, y se regenera poco a poco.",
+  "start": 40.842,
+  "end": 43.735
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: tirar un inhibidor te da presión aunque te retires a base.",
+  "start": 44.155,
+  "end": 47.591
+ },
+ {
+  "id": "tip2",
+  "text": "Y si te tiran uno a ti, no pelees lejos: esos súper súbditos van a llegar a tu base.",
+  "start": 48.011,
+  "end": 52.07
+ },
+ {
+  "id": "tip3",
+  "text": "Mátalos rápido, con tu equipo cerca, antes de que lleguen las siguientes oleadas.",
+  "start": 52.49,
+  "end": 56.098
+ },
+ {
+  "id": "tip4",
+  "text": "Y si el rival tiene los tres, cuidado: dos súper súbditos por línea son mucha presión.",
+  "start": 56.518,
+  "end": 60.534
+ },
+ {
+  "id": "cierre",
+  "text": "Así funcionan los inhibidores. Cada like es un súper súbdito… persiguiendo a Teemo.",
+  "start": 60.954,
+  "end": 64.891
+ }
+]

@@ -1,0 +1,19 @@
+{
+  "title": "¿Qué pasaría si pasaras por la misma gasolinera una y otra vez?",
+  "short_title": "LA GASOLINERA\nQUE NO TERMINA",
+  "serie": "Ideas propias",
+  "scenes": [
+    {"id": "c1", "bg": "carretera", "text": "Son las dos de la mañana. Manejas solo por una carretera en medio del desierto, y la aguja de la gasolina ya está en rojo."},
+    {"id": "c2", "bg": "letrero", "text": "Entre la oscuridad aparece un letrero: Gasolinera, dos kilómetros. Respiras tranquilo."},
+    {"id": "c3", "bg": "gasolinera", "text": "Llegas. Es una gasolinera vieja, con una sola bomba y un letrero de neón que parpadea."},
+    {"id": "c4", "bg": "tienda", "text": "Adentro, un señor de gorra roja te cobra sin decir una palabra. Detrás de él, un reloj marca las dos y diecisiete."},
+    {"id": "c5", "bg": "gasolinera", "text": "Llenas el tanque, guardas tu ticket en la bolsa y vuelves a la carretera."},
+    {"id": "c6", "bg": "letrero", "text": "Veinte minutos después, otro letrero. Gasolinera, dos kilómetros. Debe ser otra, piensas."},
+    {"id": "c7", "bg": "gasolinera", "text": "Pero es la misma. La misma bomba, el mismo neón. Y en el piso, junto a la bomba, está tu ticket."},
+    {"id": "c8", "bg": "tienda", "text": "El señor de la gorra roja levanta la vista y dice: otra vez tú. El reloj sigue marcando las dos y diecisiete."},
+    {"id": "c9", "bg": "carretera", "text": "Te subes al coche, das media vuelta y aceleras en dirección contraria. Esta vez no te vas a detener."},
+    {"id": "c10", "bg": "letrero", "text": "Gasolinera, dos kilómetros."},
+    {"id": "c11", "bg": "gasolinera", "text": "Esta vez ya hay un coche en la bomba. Es igual al tuyo, con la misma placa. Y junto a él, alguien con tu ropa está llenando el tanque."},
+    {"id": "c12", "bg": "tienda", "text": "El señor de la gorra roja suspira. Ya van muchas vueltas esta noche, te dice. Y el reloj sigue marcando las dos y diecisiete."}
+  ]
+}

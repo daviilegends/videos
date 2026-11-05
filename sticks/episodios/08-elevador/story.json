@@ -1,0 +1,15 @@
+{
+  "title": "24 horas atrapado en un elevador: ¿sobrevivirías?",
+  "scenes": [
+    {"id": "a1", "bg": "lobby", "text": "Son las ocho de la noche."},
+    {"id": "a2", "bg": "lobby", "text": "Entras al elevador, presionas el botón de tu piso y comienzas a subir."},
+    {"id": "a3", "bg": "cabina", "text": "Pero de repente... Un golpe. Las luces parpadean y el elevador se detiene."},
+    {"id": "a4", "bg": "cabina", "text": "Presionas los botones. Nada. Intentas abrir las puertas, pero no se mueven. Estás atrapado."},
+    {"id": "a5", "bg": "cabina", "text": "Lo primero que debes saber es que un elevador detenido normalmente no significa que te estés quedando sin oxígeno. Los elevadores tienen sistemas de ventilación y no son cajas herméticas."},
+    {"id": "a6", "bg": "cabina", "text": "Pero el verdadero problema comienza cuando pasan las horas. La ansiedad puede hacerte sentir que el espacio se vuelve cada vez más pequeño. El cansancio, la sed y la incertidumbre pueden aumentar tu angustia."},
+    {"id": "a7", "bg": "cabina", "text": "Intentas llamar a alguien, pero no tienes señal. Golpeas la puerta y gritas esperando que alguien te escuche. Pasan dos horas. Después cinco."},
+    {"id": "a8", "bg": "cabina", "text": "La temperatura y las condiciones del elevador dependerán de su ventilación, el edificio y el fallo que haya ocurrido. Y entonces llega la madrugada. Lo más difícil ya no es solamente estar encerrado. Es no saber cuándo alguien va a encontrarte."},
+    {"id": "a9", "bg": "panel", "text": "En una situación real, lo correcto es utilizar el botón de alarma o comunicación, pedir ayuda y esperar al personal de rescate. Nunca intentar salir por tu cuenta."},
+    {"id": "a10", "bg": "hueco", "text": "Porque un elevador detenido puede ser aterrador, pero intentar escapar sin ayuda puede convertirlo en una emergencia mucho más peligrosa."}
+  ]
+}

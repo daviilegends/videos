@@ -1,0 +1,32 @@
+{
+ "title": "How an earthquake-proof building is built",
+ "idioma_voz": "en",
+ "subtitulos": "palabra_en",
+ "scenes": [
+  {"id": "b1", "etiqueta": "", "lines": [
+   {"en": "You live right on top of a fault line. Every few years, the ground decides to dance."}]},
+  {"id": "b2", "etiqueta": "", "lines": [
+   {"en": "So you build a normal building. When the quake hits, the ground yanks the bottom, but the top wants to stay put."},
+   {"en": "It whips back and forth, until the columns snap."}]},
+  {"id": "b3", "etiqueta": "PILES", "lines": [
+   {"en": "So this time, you drive long concrete piles all the way down to solid rock, so the building can't sink into the shaking mud.", "nombra": true}]},
+  {"id": "b4", "etiqueta": "FOUNDATION MAT", "lines": [
+   {"en": "On top, you pour one thick slab of concrete that ties them all together.", "nombra": true}]},
+  {"id": "b5", "etiqueta": "", "lines": [
+   {"en": "But here's the real trick. You don't attach the building to the ground at all."}]},
+  {"id": "b6", "etiqueta": "BASE ISOLATORS", "lines": [
+   {"en": "You set it on giant rubber pads with lead cores. They bend sideways, so the ground moves, and the building barely does.", "nombra": true}]},
+  {"id": "b7", "etiqueta": "SEISMIC GAP", "lines": [
+   {"en": "Around the base, you leave an empty gap, so the building has room to slide without slamming into anything.", "nombra": true}]},
+  {"id": "b8", "etiqueta": "CONFINEMENT TIES", "lines": [
+   {"en": "Then you wrap every column's steel bars in tight rings, so they bend instead of exploding.", "nombra": true}]},
+  {"id": "b9", "etiqueta": "DAMPERS", "lines": [
+   {"en": "You add diagonal braces with shock absorbers that squeeze the shaking into heat.", "nombra": true}]},
+  {"id": "b10", "etiqueta": "TUNED MASS DAMPER", "lines": [
+   {"en": "And at the very top, you hang a giant steel ball. When the building sways one way, it swings the other, and calms everything down.", "nombra": true}]},
+  {"id": "b11", "etiqueta": "", "lines": [
+   {"en": "Now the ground starts dancing again. The pads stretch, the dampers squeeze, the ball swings, and the building just stands there."}]},
+  {"id": "b12", "etiqueta": "", "lines": [
+   {"en": "Add windows, an elevator, and some neighbors. Congratulations! You have built an earthquake-proof building."}]}
+ ]
+}

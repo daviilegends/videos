@@ -1,0 +1,276 @@
+{
+ "duration": 106.34,
+ "scenes": [
+  {
+   "id": "c1",
+   "bg": "central",
+   "start": 0.3,
+   "end": 8.1,
+   "lines": [
+    {
+     "text": "Son las tres de la mañana.",
+     "start": 0.3,
+     "end": 2.06
+    },
+    {
+     "text": "Trabajas en el turno de noche de la línea de emergencias, y los teléfonos llevan una hora en silencio.",
+     "start": 2.26,
+     "end": 7.7
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "bg": "central",
+   "start": 8.1,
+   "end": 21.78,
+   "lines": [
+    {
+     "text": "Entonces suena una llamada.",
+     "start": 8.1,
+     "end": 10.5
+    },
+    {
+     "text": "Contestas.",
+     "start": 10.7,
+     "end": 12.3
+    },
+    {
+     "text": "Emergencias, ¿cuál es su emergencia?",
+     "start": 12.5,
+     "end": 16.18
+    },
+    {
+     "text": "Del otro lado, una mujer susurra.",
+     "start": 16.38,
+     "end": 19.58
+    },
+    {
+     "text": "Hay alguien en mi casa.",
+     "start": 19.78,
+     "end": 21.38
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "bg": "pantalla",
+   "start": 21.78,
+   "end": 29.46,
+   "lines": [
+    {
+     "text": "En la pantalla aparece la dirección de la llamada.",
+     "start": 21.78,
+     "end": 24.98
+    },
+    {
+     "text": "Y se te hiela la sangre.",
+     "start": 25.18,
+     "end": 27.42
+    },
+    {
+     "text": "Es tu dirección.",
+     "start": 27.62,
+     "end": 29.06
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "bg": "central",
+   "start": 29.46,
+   "end": 39.9,
+   "lines": [
+    {
+     "text": "Le pides que se esconda y que no cuelgue.",
+     "start": 29.46,
+     "end": 32.66
+    },
+    {
+     "text": "Ella se mete en el armario de la recámara.",
+     "start": 32.86,
+     "end": 35.26
+    },
+    {
+     "text": "Pero tú vives solo.",
+     "start": 35.46,
+     "end": 37.22
+    },
+    {
+     "text": "Nadie más debería estar ahí.",
+     "start": 37.42,
+     "end": 39.5
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "bg": "central",
+   "start": 39.9,
+   "end": 52.7,
+   "lines": [
+    {
+     "text": "Mandas una patrulla y le preguntas si puede ver a la persona.",
+     "start": 39.9,
+     "end": 43.74
+    },
+    {
+     "text": "Ella dice que sí.",
+     "start": 43.94,
+     "end": 45.22
+    },
+    {
+     "text": "Que entró por la cocina con su propia llave, que dejó una mochila gris en el sillón, y que trae puesto un uniforme oscuro.",
+     "start": 45.42,
+     "end": 52.3
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "bg": "central",
+   "start": 52.7,
+   "end": 57.14,
+   "lines": [
+    {
+     "text": "Miras tu mochila gris.",
+     "start": 52.7,
+     "end": 54.62
+    },
+    {
+     "text": "Miras tu uniforme.",
+     "start": 54.82,
+     "end": 56.74
+    }
+   ]
+  },
+  {
+   "id": "c7",
+   "bg": "calle",
+   "start": 57.14,
+   "end": 66.22,
+   "lines": [
+    {
+     "text": "Sales corriendo de la central y manejas hasta tu casa.",
+     "start": 57.14,
+     "end": 61.62
+    },
+    {
+     "text": "La patrulla ya está afuera, con las luces encendidas.",
+     "start": 61.82,
+     "end": 65.82
+    }
+   ]
+  },
+  {
+   "id": "c8",
+   "bg": "sala",
+   "start": 66.22,
+   "end": 74.22,
+   "lines": [
+    {
+     "text": "Entras.",
+     "start": 66.22,
+     "end": 67.5
+    },
+    {
+     "text": "Todo está como lo dejaste.",
+     "start": 67.7,
+     "end": 69.94
+    },
+    {
+     "text": "Tu taza, tus fotos, tu sillón.",
+     "start": 70.14,
+     "end": 73.82
+    }
+   ]
+  },
+  {
+   "id": "c9",
+   "bg": "armario",
+   "start": 74.22,
+   "end": 83.18,
+   "lines": [
+    {
+     "text": "Abres el armario.",
+     "start": 74.22,
+     "end": 75.66
+    },
+    {
+     "text": "Ahí está ella, temblando, con el teléfono en la mano.",
+     "start": 75.86,
+     "end": 79.54
+    },
+    {
+     "text": "Y te mira como si el intruso fueras tú.",
+     "start": 79.74,
+     "end": 82.78
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "bg": "sala",
+   "start": 83.18,
+   "end": 92.78,
+   "lines": [
+    {
+     "text": "Los policías revisan sus papeles.",
+     "start": 83.18,
+     "end": 85.9
+    },
+    {
+     "text": "Ella vive aquí desde hace años.",
+     "start": 86.1,
+     "end": 88.18
+    },
+    {
+     "text": "Su nombre está en el contrato, en las cartas y en las fotos de la pared.",
+     "start": 88.38,
+     "end": 92.38
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "bg": "sala",
+   "start": 92.78,
+   "end": 96.58,
+   "lines": [
+    {
+     "text": "Tú buscas tus fotos.",
+     "start": 92.78,
+     "end": 94.7
+    },
+    {
+     "text": "Ya no están.",
+     "start": 94.9,
+     "end": 96.18
+    }
+   ]
+  },
+  {
+   "id": "c12",
+   "bg": "calle",
+   "start": 96.58,
+   "end": 106.34,
+   "lines": [
+    {
+     "text": "Y mientras te llevan a la patrulla, el teléfono de la mujer vuelve a sonar.",
+     "start": 96.58,
+     "end": 101.06
+    },
+    {
+     "text": "Es la línea de emergencias.",
+     "start": 101.26,
+     "end": 103.34
+    },
+    {
+     "text": "Y la voz que contesta es la tuya.",
+     "start": 103.54,
+     "end": 105.94
+    }
+   ]
+  }
+ ]
+}

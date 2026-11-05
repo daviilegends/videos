@@ -1,0 +1,124 @@
+{
+ "title": "Así se construye una carretera",
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Tienes un camino de tierra que se vuelve lodo cada vez que llueve.",
+   "en": "You've got a dirt road that turns into mud every time it rains."
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "etiqueta": "TRAZO",
+   "text": "Primero mides el terreno y marcas con estacas por dónde pasará el camino. Eso es el trazo.",
+   "en": "First, you survey the land and mark the route with stakes. That's the layout."
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "etiqueta": "DESPALME",
+   "text": "Luego quitas la capa de tierra con raíces y plantas. Eso se llama despalme.",
+   "en": "Then you strip away the topsoil, with all its roots and plants. That's called stripping."
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "etiqueta": "SUBRASANTE",
+   "text": "Compactas el suelo que queda abajo. Esa es la subrasante.",
+   "en": "You compact the ground underneath. That's the subgrade."
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero donde un arroyo cruza el camino, el agua se lo llevaría todo.",
+   "en": "But where a stream crosses the road, the water would wash it all away."
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "etiqueta": "ALCANTARILLA",
+   "text": "Entonces entierras un tubo grande para que el agua pase por debajo. Eso es una alcantarilla.",
+   "en": "So you bury a big pipe, and the water flows right underneath. That's a culvert."
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero si pones el asfalto directo encima, los camiones lo hunden.",
+   "en": "But if you put asphalt straight on top, heavy trucks would sink right into it."
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "etiqueta": "SUB-BASE",
+   "text": "Entonces tiendes una capa de grava gruesa y la compactas. Eso es la sub-base.",
+   "en": "So you spread a layer of coarse gravel and compact it. That's the subbase."
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "etiqueta": "BASE",
+   "text": "Encima va grava más fina, también compactada. Esa es la base.",
+   "en": "On top goes finer gravel, compacted too. That's the base course."
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "etiqueta": "RIEGO DE IMPREGNACIÓN",
+   "text": "Riegas un líquido asfáltico para que la base se pegue con lo de arriba. Eso es el riego de impregnación.",
+   "en": "You spray on liquid asphalt, so the base bonds with the next layer. That's the prime coat."
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero el agua de lluvia se queda encima y destruye el camino.",
+   "en": "But rainwater sits on top and slowly destroys the road."
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "etiqueta": "BOMBEO",
+   "text": "Entonces le das una pequeña pendiente hacia los lados y haces cunetas. Esa pendiente se llama bombeo.",
+   "en": "So you slope it slightly toward the sides, and dig ditches. That slope is called the crown."
+  },
+  {
+   "id": "b13",
+   "bg": "-",
+   "etiqueta": "CARPETA ASFÁLTICA",
+   "text": "Tiendes la mezcla de asfalto caliente y la aplanas con un rodillo. Esa es la carpeta asfáltica.",
+   "en": "You lay down hot asphalt and flatten it with a roller. That's the asphalt surface."
+  },
+  {
+   "id": "b14",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero en las curvas los coches tienden a salirse.",
+   "en": "But on the curves, cars tend to slide right off."
+  },
+  {
+   "id": "b15",
+   "bg": "-",
+   "etiqueta": "PERALTE",
+   "text": "Entonces inclinas la curva hacia adentro. Eso se llama peralte.",
+   "en": "So you tilt the curve inward. That's called superelevation."
+  },
+  {
+   "id": "b16",
+   "bg": "-",
+   "etiqueta": "SEÑALAMIENTO",
+   "text": "Pones barreras de metal en las orillas, señales y pintas las líneas. Eso es el señalamiento.",
+   "en": "You add guardrails along the edges, put up signs, and paint the lines. That's the signage."
+  },
+  {
+   "id": "b17",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Felicidades, construiste una carretera.",
+   "en": "Congratulations. You just built a road."
+  }
+ ]
+}

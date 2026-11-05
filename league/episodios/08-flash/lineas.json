@@ -1,0 +1,110 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué casi todos los jugadores llevan Flash?",
+  "start": 0.25,
+  "end": 2.109
+ },
+ {
+  "id": "que",
+  "text": "Flash te teletransporta una distancia corta, al instante.",
+  "start": 2.529,
+  "end": 5.098
+ },
+ {
+  "id": "instante",
+  "text": "No hay animación que el rival vea venir: desapareces de un lado y apareces del otro.",
+  "start": 5.518,
+  "end": 9.246
+ },
+ {
+  "id": "rango",
+  "text": "Su alcance es de cuatrocientas unidades.",
+  "start": 9.666,
+  "end": 11.485
+ },
+ {
+  "id": "poquito",
+  "text": "Es poquito, pero bien usado es la diferencia entre morir y escapar.",
+  "start": 11.905,
+  "end": 14.745
+ },
+ {
+  "id": "max",
+  "text": "Si haces clic más lejos, igual sale al máximo alcance.",
+  "start": 15.165,
+  "end": 17.639
+ },
+ {
+  "id": "muros",
+  "text": "Y puede pasar por encima de muros. Por eso sirve para escapar… o para perseguir.",
+  "start": 18.059,
+  "end": 21.936
+ },
+ {
+  "id": "ejemplo",
+  "text": "Imagina: el rival te persigue, saltas el muro con Flash… y él se queda mirando la pared.",
+  "start": 22.356,
+  "end": 26.45
+ },
+ {
+  "id": "cd",
+  "text": "Pero tiene un enfriamiento de trescientos segundos. Cinco minutos.",
+  "start": 26.87,
+  "end": 29.96
+ },
+ {
+  "id": "tiempo",
+  "text": "En cinco minutos pasan diez oleadas de súbditos. Es muchísimo tiempo.",
+  "start": 30.38,
+  "end": 33.889
+ },
+ {
+  "id": "broma",
+  "text": "Cinco minutos sin Flash dura más que tu racha de victorias.",
+  "start": 34.309,
+  "end": 36.866
+ },
+ {
+  "id": "sabe",
+  "text": "Y sí: el rival también lo sabe.",
+  "start": 37.286,
+  "end": 38.836
+ },
+ {
+  "id": "uso",
+  "text": "Por eso, cuando el rival usa Flash, avísale a tu equipo: durante cinco minutos está más expuesto.",
+  "start": 39.256,
+  "end": 43.667
+ },
+ {
+  "id": "sin",
+  "text": "Y si tú no lo tienes, juega un poco más atrás hasta que vuelva.",
+  "start": 44.087,
+  "end": 46.659
+ },
+ {
+  "id": "recall",
+  "text": "Y un detalle: si usas Flash durante el recall, lo cancelas.",
+  "start": 47.079,
+  "end": 50.021
+ },
+ {
+  "id": "orden",
+  "text": "Así que primero escapa, y después haces recall.",
+  "start": 50.441,
+  "end": 52.536
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: no lo gastes por nervios. Flash es tu vida extra, úsalo cuando de verdad te salva.",
+  "start": 52.956,
+  "end": 57.547
+ },
+ {
+  "id": "cierre",
+  "text": "Ahora ya sabes usar Flash. Cada like es un Flash que Teemo no tiene cuando lo atrapamos.",
+  "start": 57.967,
+  "end": 61.888
+ }
+]

@@ -1,0 +1,81 @@
+{
+ "titulo": "Smite: el hechizo del jungla",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Smite (600 true dmg, 2 charges, 90 s recharge, 500 range, Unleashed 1000 at 15 treats, Primal 1400 at 35, 40 dmg + slow to champions)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué el jungla siempre lleva Smite?",
+   "voz": "¿Por qué el jungla siempre lleva Esmait?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Porque sin él, limpiar la jungla es lentísimo, y los objetivos se le escapan."
+  },
+  {
+   "id": "que",
+   "text": "Smite hace seiscientos de daño verdadero a un monstruo o a un súbdito enemigo.",
+   "voz": "Esmait hace seiscientos de daño verdadero a un monstruo o a un súbdito enemigo."
+  },
+  {
+   "id": "verdadero",
+   "text": "Daño verdadero significa que ignora la armadura y la resistencia mágica."
+  },
+  {
+   "id": "cargas",
+   "text": "Tiene dos cargas, y cada carga tarda noventa segundos en volver."
+  },
+  {
+   "id": "rango",
+   "text": "Su alcance es de quinientas unidades."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Es casi como golpear desde un paso largo: tienes que estar cerca, pero no encima."
+  },
+  {
+   "id": "mascota",
+   "text": "Y crece con tu mascota de la jungla: al darle quince premios, se vuelve más fuerte y hace mil."
+  },
+  {
+   "id": "primal",
+   "text": "Con treinta y cinco premios, hace mil cuatrocientos, también a los monstruos que están cerca."
+  },
+  {
+   "id": "campeones",
+   "text": "Ya mejorado, también puede golpear a campeones: poquito daño, pero los ralentiza."
+  },
+  {
+   "id": "robo",
+   "text": "Su uso más famoso: robar objetivos. El dragón o el barón son de quien da el último golpe."
+  },
+  {
+   "id": "broma",
+   "text": "Es como el último taco de la charola: el que lo agarra primero, se lo come."
+  },
+  {
+   "id": "cuenta",
+   "text": "Consejo de la profe: cuenta el daño. Cuando al monstruo le quede menos vida que tu Smite… ahí.",
+   "voz": "Consejo de la profe: cuenta el daño. Cuando al monstruo le quede menos vida que tu Esmait… ahí."
+  },
+  {
+   "id": "nervios",
+   "text": "Y no lo gastes por nervios antes de tiempo, porque luego no lo tienes cuando importa."
+  },
+  {
+   "id": "rival",
+   "text": "Y si el jungla rival está cerca del dragón, cuida tu Smite como si fuera tu cartera.",
+   "voz": "Y si el jungla rival está cerca del dragón, cuida tu Esmait como si fuera tu cartera."
+  },
+  {
+   "id": "ambos",
+   "text": "Y recuerda: el jungla rival también tiene el suyo. Es un duelo de reflejos."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona Smite. Cada like es un Smite… directo a Teemo.",
+   "voz": "Así funciona Esmait. Cada like es un Esmait… directo a Timo."
+  }
+ ]
+}

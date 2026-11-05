@@ -1,0 +1,34 @@
+{
+ "martillazo": 3.9,
+ "molino": [
+  5.933,
+  11.232
+ ],
+ "mezclar": [
+  11.232,
+  16.261
+ ],
+ "agua": 11.931999999999999,
+ "horno_prueba": [
+  16.761,
+  18.461
+ ],
+ "galleta": 19.160999999999998,
+ "extrusor": 20.92,
+ "presion": 30.761,
+ "expansion": 40.825,
+ "cuchilla": 45.472,
+ "horno": [
+  50.166,
+  57.119
+ ],
+ "queso_cae": 58.719,
+ "tambor": 62.62,
+ "aceite": 63.62,
+ "queso": 65.62,
+ "bascula": 72.184,
+ "aplastar": 77.60799999999999,
+ "nitrogeno": 80.371,
+ "sellar": 82.071,
+ "dedos": 86.146
+}

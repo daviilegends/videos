@@ -1,0 +1,155 @@
+{
+ "duration": 76.14,
+ "scenes": [
+  {
+   "id": "c1",
+   "bg": "ciudad",
+   "start": 0.3,
+   "end": 5.82,
+   "lines": [
+    {
+     "text": "Durante años, alguien entraba a las casas de mujeres mayores en la Ciudad de México.",
+     "start": 0.3,
+     "end": 5.42
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "bg": "puerta",
+   "start": 5.82,
+   "end": 13.74,
+   "lines": [
+    {
+     "text": "Las víctimas vivían solas y, en muchos casos, abrían la puerta a una persona que parecía llegar para ofrecerles ayuda.",
+     "start": 5.82,
+     "end": 13.34
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "bg": "oficina",
+   "start": 13.74,
+   "end": 23.3,
+   "lines": [
+    {
+     "text": "La policía empezó a investigar una serie de asesinatos con características muy parecidas.",
+     "start": 13.74,
+     "end": 18.86
+    },
+    {
+     "text": "Los medios bautizaron al responsable como El Mataviejitas.",
+     "start": 19.06,
+     "end": 22.9
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "bg": "oficina",
+   "start": 23.3,
+   "end": 29.94,
+   "lines": [
+    {
+     "text": "Se difundieron retratos hablados, y durante mucho tiempo las autoridades buscaron a un hombre.",
+     "start": 23.3,
+     "end": 29.54
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "bg": "ciudad",
+   "start": 29.94,
+   "end": 32.74,
+   "lines": [
+    {
+     "text": "Pero había algo que nadie esperaba.",
+     "start": 29.94,
+     "end": 32.34
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "bg": "calle",
+   "start": 32.74,
+   "end": 45.34,
+   "lines": [
+    {
+     "text": "El veinticinco de enero de dos mil seis, una mujer salió de la casa de una señora mayor que acababa de ser asesinada.",
+     "start": 32.74,
+     "end": 39.94
+    },
+    {
+     "text": "Un inquilino la vio, avisó a una patrulla que pasaba, y la detuvieron.",
+     "start": 40.14,
+     "end": 44.94
+    }
+   ]
+  },
+  {
+   "id": "c7",
+   "bg": "oficina",
+   "start": 45.34,
+   "end": 48.14,
+   "lines": [
+    {
+     "text": "Se llamaba Juana Barraza Samperio.",
+     "start": 45.34,
+     "end": 47.74
+    }
+   ]
+  },
+  {
+   "id": "c8",
+   "bg": "ring",
+   "start": 48.14,
+   "end": 54.3,
+   "lines": [
+    {
+     "text": "Había sido luchadora profesional, y en el ring usaba el nombre de La Dama del Silencio.",
+     "start": 48.14,
+     "end": 53.9
+    }
+   ]
+  },
+  {
+   "id": "c9",
+   "bg": "juzgado",
+   "start": 54.3,
+   "end": 65.62,
+   "lines": [
+    {
+     "text": "En dos mil ocho fue declarada culpable de dieciséis homicidios y doce robos, y recibió una sentencia de setecientos cincuenta y nueve años de prisión.",
+     "start": 54.3,
+     "end": 63.26
+    },
+    {
+     "text": "Hoy sigue presa.",
+     "start": 63.46,
+     "end": 65.22
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "bg": "ciudad",
+   "start": 65.62,
+   "end": 76.14,
+   "lines": [
+    {
+     "text": "La persona que la policía buscaba no era quien todos imaginaban.",
+     "start": 65.62,
+     "end": 70.1
+    },
+    {
+     "text": "Y su captura se convirtió en uno de los casos criminales más conocidos de la Ciudad de México.",
+     "start": 70.3,
+     "end": 75.74
+    }
+   ]
+  }
+ ]
+}

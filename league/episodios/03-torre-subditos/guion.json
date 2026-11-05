@@ -1,0 +1,73 @@
+{
+ "titulo": "¿Cuántos disparos de torre aguanta cada súbdito?",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Turret (damage vs minions: melee 45%, caster 70%, siege 14%, super 5% of max health per shot)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué pierdes súbditos bajo tu torre, aunque estés ahí parado? Porque no sabes contar disparos."
+  },
+  {
+   "id": "regla",
+   "text": "La torre le quita a cada súbdito un porcentaje fijo de su vida máxima, en cada disparo."
+  },
+  {
+   "id": "simetria",
+   "text": "Y no importa si es tu torre o la del rival: la regla es la misma para los dos lados."
+  },
+  {
+   "id": "melee",
+   "text": "Al súbdito melee, cada disparo le quita el cuarenta y cinco por ciento. Muere en tres disparos."
+  },
+  {
+   "id": "truco_melee",
+   "text": "El truco: después de dos disparos le queda un diez por ciento. Ahí entra tu golpe."
+  },
+  {
+   "id": "mago",
+   "text": "Al súbdito mago, cada disparo le quita el setenta por ciento. Muere en dos."
+  },
+  {
+   "id": "truco_mago",
+   "text": "Después del primer disparo le queda un treinta por ciento. Si esperas al segundo, la torre se lo lleva."
+  },
+  {
+   "id": "orden",
+   "text": "Pregunta rápida: si llegan juntos, ¿a quién le dispara primero? Al primero que entra en su rango."
+  },
+  {
+   "id": "canon",
+   "text": "El súbdito de cañón aguanta mucho más: cada disparo le quita solo el catorce por ciento. Necesita ocho."
+  },
+  {
+   "id": "broma",
+   "text": "Es como el tío que aguanta toda la fiesta: llega primero y se va al último."
+  },
+  {
+   "id": "super",
+   "text": "¿Y el súper súbdito? Cinco por ciento por disparo. Veinte disparos. Ese ni se despeina."
+  },
+  {
+   "id": "resumen",
+   "text": "Resumen: melee, tres. Mago, dos. Cañón, ocho. Súper, veinte."
+  },
+  {
+   "id": "porque",
+   "text": "¿Y por qué importa tanto? Porque cada súbdito que se te escapa es oro que se pierde."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: no le pegues al súbdito apenas llega. Deja que la torre trabaje, y tú das el último golpe."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si ves que la torre ya no alcanza, entonces sí, ayúdale tú con un golpe antes."
+  },
+  {
+   "id": "cierre",
+   "text": "Ahora ya sabes contar como la torre. Cada like es un disparo de torre a Teemo… y Teemo no es súbdito de cañón.",
+   "voz": "Ahora ya sabes contar como la torre. Cada like es un disparo de torre a Timo… y Timo no es súbdito de cañón."
+  }
+ ]
+}

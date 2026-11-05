@@ -1,0 +1,82 @@
+{
+ "titulo": "Guardianes: visión para principiantes",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Stealth_Ward (90-120 s, 900 sight, 2 charges, limit 3)",
+  "https://wiki.leagueoflegends.com/en-us/Control_Ward (75 g, reveals and disables wards, visible, 1 placed per player, 900 sight)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué los buenos jugadores siempre saben dónde estás?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es magia ni hacks. Es visión."
+  },
+  {
+   "id": "respuesta",
+   "text": "Por los guardianes. Pequeños tótems que dan visión del mapa."
+  },
+  {
+   "id": "invisible",
+   "text": "El guardián normal se vuelve invisible para el rival poco después de ponerlo."
+  },
+  {
+   "id": "radio",
+   "text": "Da visión en un radio de novecientas unidades."
+  },
+  {
+   "id": "dura",
+   "text": "Dura entre noventa y ciento veinte segundos."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: pones uno en el río, y durante un buen rato ves a quién cruza."
+  },
+  {
+   "id": "cargas",
+   "text": "El de tu accesorio tiene dos cargas, y puedes tener hasta tres de estos guardianes en el mapa."
+  },
+  {
+   "id": "control",
+   "text": "Luego está el guardián de control. Cuesta setenta y cinco de oro."
+  },
+  {
+   "id": "revela",
+   "text": "Ese sí se ve, pero revela y desactiva los guardianes enemigos que estén cerca."
+  },
+  {
+   "id": "uno",
+   "text": "Solo puedes tener uno puesto en el mapa a la vez."
+  },
+  {
+   "id": "limite",
+   "text": "Así que elige bien dónde pones tu guardián de control."
+  },
+  {
+   "id": "broma",
+   "text": "El guardián de control es como el vecino chismoso: no se esconde, pero todo lo ve."
+  },
+  {
+   "id": "donde",
+   "text": "¿Dónde ponerlos? En el río, en los arbustos, y en la entrada de la jungla."
+  },
+  {
+   "id": "jungla",
+   "text": "Y sobre todo, cerca de los objetivos: dragón, larvas, heraldo y barón."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: si no ves al jungla rival en el mapa, asume que viene por ti."
+  },
+  {
+   "id": "tip2",
+   "text": "Y cuando el rival te pone un guardián, quítalo: es como apagarle la cámara."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona la visión. Cada like es un guardián… en el arbusto favorito de Teemo.",
+   "voz": "Así funciona la visión. Cada like es un guardián… en el arbusto favorito de Timo."
+  }
+ ]
+}

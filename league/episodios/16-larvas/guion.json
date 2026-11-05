@@ -1,0 +1,77 @@
+{
+ "titulo": "Las larvas del vacío: los bichos del río",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Voidgrub (8:00, once per game, 3 grubs, despawn 14:45, Touch of the Void per kill, 3 stacks Hunger of the Void, voidmites every 12 s)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Qué son esos bichos morados que salen arriba del río?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Parecen inofensivos, pero pueden ganar la partida."
+  },
+  {
+   "id": "que",
+   "text": "Son las larvas del vacío. Aparecen en el foso de arriba, al minuto ocho."
+  },
+  {
+   "id": "tres",
+   "text": "Salen tres, una sola vez por partida."
+  },
+  {
+   "id": "hasta",
+   "text": "Y si nadie las mata, desaparecen al minuto catorce con cuarenta y cinco."
+  },
+  {
+   "id": "pelea",
+   "text": "Cuidado al pelearlas: cada doce segundos, cada larva suelta cuatro bichitos más pequeños."
+  },
+  {
+   "id": "broma",
+   "text": "Es como pelearte con una cucaracha… que trae a toda su familia."
+  },
+  {
+   "id": "premio",
+   "text": "Cada larva que matas le da a todo tu equipo una marca del vacío."
+  },
+  {
+   "id": "quema",
+   "text": "Con esa marca, tus golpes hacen que las estructuras enemigas se quemen con daño verdadero."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: le pegas a una torre y, además de tu golpe, se queda ardiendo un rato."
+  },
+  {
+   "id": "tres_marcas",
+   "text": "Y si juntas las tres, además invocas bichitos aliados que te ayudan a tirar torres."
+  },
+  {
+   "id": "para_que",
+   "text": "O sea: las larvas no son para pelear con campeones. Son para derribar torres."
+  },
+  {
+   "id": "despues",
+   "text": "Y en ese mismo foso, al minuto quince, llega el heraldo. Pero esa es la siguiente clase."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: si tu equipo quiere empujar torres, las larvas valen mucho."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si las pelean, cuidado con el jungla rival: es el momento perfecto para que llegue."
+  },
+  {
+   "id": "tip3",
+   "text": "Mejor hacerlas cuando sabes dónde está el otro equipo."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funcionan las larvas. Cada like es una larva más… en la casa de Teemo.",
+   "voz": "Así funcionan las larvas. Cada like es una larva más… en la casa de Timo."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "estilo": "Hand-drawn 2D cartoon background illustration, thick slightly irregular black ink outlines, flat colors with soft cel shading, graphic novel web cartoon style. Low-key scene in Mexico City in the early 2000s, deep shadows, sober true-crime documentary mood, muted desaturated palette of slate blue, gray, ochre and brown, highly detailed environment, wide cinematic composition. Empty scene with no people, no characters, no text, no letters.",
+  "fondos": {
+    "ciudad": [
+      467,
+      "Working-class neighborhood street in Mexico City at dusk, frontal wide view. Old three-story apartment buildings with small balconies and potted plants, water tanks on the roofs, tangled power lines, a corner shop with a plain closed metal shutter and blank walls without signs, empty sidewalk completely clear in the foreground."
+    ],
+    "puerta": [
+      413,
+      "Frontal close-up of the closed front door of an old Mexico City apartment, a heavy metal door with a small peephole and a security grille, a worn doormat, a potted plant beside it, tiled corridor floor clear in the foreground, a dim hallway lamp."
+    ],
+    "oficina": [
+      427,
+      "Police investigation office at night in the 2000s, frontal view. A cork board on the back wall covered with blank papers, blank photographs and red strings connecting them, a cluttered desk with a desk lamp, folders and an old computer, a filing cabinet, venetian blinds, floor clear in the foreground."
+    ],
+    "calle": [
+      439,
+      "Narrow residential street in Mexico City on a cold morning, frontal wide view. The entrance of a small two-story house with a gate, a police patrol car parked by the curb with its lights off, a lamppost, a few closed doors along the street, empty pavement completely clear in the foreground, pale morning light."
+    ],
+    "ring": [
+      443,
+      "Empty lucha libre wrestling arena, frontal view of the ring. A square ring with red ropes and turnbuckles under a single hard spotlight, dark empty bleachers around it, smoke in the air, the floor in front of the ring clear in the foreground."
+    ],
+    "juzgado": [
+      461,
+      "Courtroom in Mexico, frontal view. A raised wooden judge's bench in the middle with a round carved eagle emblem above it, one single green white and red Mexican flag on a stand beside the bench, wooden benches and a railing, cold fluorescent light, floor clear in the foreground."
+    ]
+  }
+}

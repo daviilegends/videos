@@ -1,0 +1,284 @@
+[
+ {
+  "text": "Son las tres de la mañana.",
+  "start": 0.56,
+  "end": 1.86,
+  "sentence": 0
+ },
+ {
+  "text": "Trabajas en el turno de noche de la",
+  "start": 2.44,
+  "end": 4.1,
+  "sentence": 1
+ },
+ {
+  "text": "línea de emergencias,",
+  "start": 4.1,
+  "end": 5.06,
+  "sentence": 1
+ },
+ {
+  "text": "y los teléfonos llevan una hora en silencio.",
+  "start": 5.06,
+  "end": 7.5,
+  "sentence": 1
+ },
+ {
+  "text": "Entonces suena una llamada.",
+  "start": 8.88,
+  "end": 10.46,
+  "sentence": 2
+ },
+ {
+  "text": "Contestas.",
+  "start": 11.36,
+  "end": 12.14,
+  "sentence": 3
+ },
+ {
+  "text": "Emergencias, ¿cuál es su emergencia?",
+  "start": 13.06,
+  "end": 16.0,
+  "sentence": 4
+ },
+ {
+  "text": "Del otro lado, una mujer susurra.",
+  "start": 17.32,
+  "end": 19.42,
+  "sentence": 5
+ },
+ {
+  "text": "Hay alguien en mi casa.",
+  "start": 20.26,
+  "end": 21.16,
+  "sentence": 6
+ },
+ {
+  "text": "En la pantalla aparece la dirección",
+  "start": 22.46,
+  "end": 24.16,
+  "sentence": 7
+ },
+ {
+  "text": "de la llamada.",
+  "start": 24.16,
+  "end": 24.82,
+  "sentence": 7
+ },
+ {
+  "text": "Y se te hiela la sangre.",
+  "start": 24.82,
+  "end": 27.26,
+  "sentence": 8
+ },
+ {
+  "text": "Es tu dirección.",
+  "start": 29.98,
+  "end": 29.98,
+  "sentence": 9
+ },
+ {
+  "text": "Le pides que se esconda y que no cuelgue.",
+  "start": 29.98,
+  "end": 32.5,
+  "sentence": 10
+ },
+ {
+  "text": "Ella se mete en el armario de la recámara.",
+  "start": 33.14,
+  "end": 35.04,
+  "sentence": 11
+ },
+ {
+  "text": "Pero tú vives solo.",
+  "start": 35.68,
+  "end": 37.04,
+  "sentence": 12
+ },
+ {
+  "text": "Nadie más debería estar ahí.",
+  "start": 37.94,
+  "end": 39.42,
+  "sentence": 13
+ },
+ {
+  "text": "Mandas una patrulla y le preguntas",
+  "start": 40.38,
+  "end": 42.36,
+  "sentence": 14
+ },
+ {
+  "text": "si puede ver a la persona.",
+  "start": 42.36,
+  "end": 43.56,
+  "sentence": 14
+ },
+ {
+  "text": "Ella dice que sí.",
+  "start": 44.3,
+  "end": 45.1,
+  "sentence": 15
+ },
+ {
+  "text": "Que entró por la cocina con su",
+  "start": 45.82,
+  "end": 47.12,
+  "sentence": 16
+ },
+ {
+  "text": "propia llave, que dejó una mochila",
+  "start": 47.12,
+  "end": 49.06,
+  "sentence": 16
+ },
+ {
+  "text": "gris en el sillón,",
+  "start": 49.06,
+  "end": 49.9,
+  "sentence": 16
+ },
+ {
+  "text": "y que trae puesto un uniforme oscuro.",
+  "start": 49.9,
+  "end": 52.18,
+  "sentence": 16
+ },
+ {
+  "text": "Miras tu mochila gris.",
+  "start": 53.12,
+  "end": 54.42,
+  "sentence": 17
+ },
+ {
+  "text": "Miras tu uniforme.",
+  "start": 55.4,
+  "end": 57.02,
+  "sentence": 18
+ },
+ {
+  "text": "Sales corriendo de la central y",
+  "start": 57.02,
+  "end": 60.38,
+  "sentence": 19
+ },
+ {
+  "text": "manejas hasta tu casa.",
+  "start": 60.38,
+  "end": 61.42,
+  "sentence": 19
+ },
+ {
+  "text": "La patrulla ya está afuera,",
+  "start": 62.5,
+  "end": 63.52,
+  "sentence": 20
+ },
+ {
+  "text": "con las luces encendidas.",
+  "start": 64.34,
+  "end": 65.6,
+  "sentence": 20
+ },
+ {
+  "text": "Entras.",
+  "start": 66.52,
+  "end": 67.16,
+  "sentence": 21
+ },
+ {
+  "text": "Todo está como lo dejaste.",
+  "start": 68.04,
+  "end": 69.76,
+  "sentence": 22
+ },
+ {
+  "text": "Tu taza, tus fotos, tu sillón.",
+  "start": 70.98,
+  "end": 73.7,
+  "sentence": 23
+ },
+ {
+  "text": "Abres el armario.",
+  "start": 74.56,
+  "end": 75.48,
+  "sentence": 24
+ },
+ {
+  "text": "Ahí está ella, temblando,",
+  "start": 76.42,
+  "end": 77.96,
+  "sentence": 25
+ },
+ {
+  "text": "con el teléfono en la mano.",
+  "start": 77.96,
+  "end": 79.36,
+  "sentence": 25
+ },
+ {
+  "text": "Y te mira como si el intruso fueras tú.",
+  "start": 79.36,
+  "end": 82.66,
+  "sentence": 26
+ },
+ {
+  "text": "Los policías revisan sus papeles.",
+  "start": 84.02,
+  "end": 85.7,
+  "sentence": 27
+ },
+ {
+  "text": "Ella vive aquí desde hace años.",
+  "start": 86.42,
+  "end": 87.86,
+  "sentence": 28
+ },
+ {
+  "text": "Su nombre está en el contrato,",
+  "start": 88.42,
+  "end": 89.88,
+  "sentence": 29
+ },
+ {
+  "text": "en las cartas y en las fotos de la pared.",
+  "start": 90.36,
+  "end": 92.16,
+  "sentence": 29
+ },
+ {
+  "text": "Tú buscas tus fotos.",
+  "start": 93.36,
+  "end": 94.34,
+  "sentence": 30
+ },
+ {
+  "text": "Ya no están.",
+  "start": 95.28,
+  "end": 95.94,
+  "sentence": 31
+ },
+ {
+  "text": "Y mientras te llevan a la patrulla,",
+  "start": 97.04,
+  "end": 98.62,
+  "sentence": 32
+ },
+ {
+  "text": "el teléfono de la mujer vuelve a sonar.",
+  "start": 99.28,
+  "end": 100.98,
+  "sentence": 32
+ },
+ {
+  "text": "Es la línea de emergencias.",
+  "start": 101.8,
+  "end": 103.04,
+  "sentence": 33
+ },
+ {
+  "text": "Y la voz que contesta es la tuya.",
+  "start": 103.96,
+  "end": 105.84,
+  "sentence": 34
+ }
+]

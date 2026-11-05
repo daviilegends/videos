@@ -1,0 +1,335 @@
+{
+ "duration": 81.346,
+ "scenes": [
+  {
+   "id": "b1",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 0.3,
+   "end": 4.601,
+   "lines": [
+    {
+     "en": "Your city makes tons of trash every single day, and there's nowhere to put it.",
+     "es": "Tu ciudad produce toneladas de basura cada día y no hay dónde ponerla.",
+     "nombra": false,
+     "start": 0.3,
+     "end": 4.221
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 4.601,
+   "end": 9.129,
+   "lines": [
+    {
+     "en": "If you just dump it in a hole, the garbage juice seeps down and poisons the groundwater.",
+     "es": "Si la tiras en un hoyo, el jugo de la basura se filtra y contamina el agua subterránea.",
+     "nombra": false,
+     "start": 4.601,
+     "end": 8.749
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 9.129,
+   "end": 13.363,
+   "lines": [
+    {
+     "en": "First, you find land far from rivers and homes, where the groundwater runs deep.",
+     "es": "Primero buscas un terreno lejos de ríos y casas, donde el agua subterránea esté profunda.",
+     "nombra": false,
+     "start": 9.129,
+     "end": 12.983
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "etiqueta": "CAPA DE ARCILLA",
+   "termino_en": "CLAY LINER",
+   "start": 13.363,
+   "end": 17.912,
+   "lines": [
+    {
+     "en": "You dig, and compact a layer of clay at the bottom that barely lets water through.",
+     "es": "Excavas y compactas una capa de arcilla en el fondo, que casi no deja pasar el agua.",
+     "nombra": true,
+     "start": 13.363,
+     "end": 17.532
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "etiqueta": "GEOMEMBRANA",
+   "termino_en": "GEOMEMBRANE",
+   "start": 17.912,
+   "end": 23.571,
+   "lines": [
+    {
+     "en": "On top, you roll out a huge, thick plastic sheet, welded at the seams.",
+     "es": "Encima tiendes un plástico gigante y grueso, soldado en las uniones.",
+     "nombra": false,
+     "start": 17.912,
+     "end": 21.759
+    },
+    {
+     "en": "That's the geomembrane.",
+     "es": "Eso es la geomembrana.",
+     "nombra": true,
+     "start": 21.939,
+     "end": 23.191
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 23.571,
+   "end": 26.196,
+   "lines": [
+    {
+     "en": "But one sharp rock could puncture the plastic.",
+     "es": "Pero una piedra filosa podría perforar el plástico.",
+     "nombra": false,
+     "start": 23.571,
+     "end": 25.816
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "etiqueta": "GEOTEXTIL",
+   "termino_en": "GEOTEXTILE",
+   "start": 26.196,
+   "end": 30.579,
+   "lines": [
+    {
+     "en": "So you cover it with a thick fabric that protects it.",
+     "es": "Entonces lo cubres con una tela gruesa que lo protege.",
+     "nombra": false,
+     "start": 26.196,
+     "end": 28.713
+    },
+    {
+     "en": "That's the geotextile.",
+     "es": "Eso es el geotextil.",
+     "nombra": true,
+     "start": 28.893,
+     "end": 30.199
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "etiqueta": "LIXIVIADO",
+   "termino_en": "LEACHATE",
+   "start": 30.579,
+   "end": 35.285,
+   "lines": [
+    {
+     "en": "But the liquid from the trash collects at the bottom.",
+     "es": "Pero el líquido de la basura se acumula abajo.",
+     "nombra": false,
+     "start": 30.579,
+     "end": 32.812
+    },
+    {
+     "en": "That liquid is called leachate.",
+     "es": "Ese líquido se llama lixiviado.",
+     "nombra": true,
+     "start": 32.992,
+     "end": 34.905
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 35.285,
+   "end": 39.273,
+   "lines": [
+    {
+     "en": "So you lay gravel and perforated pipes that carry it to a pond for treatment.",
+     "es": "Entonces pones grava y tubos perforados que lo llevan a una laguna para tratarlo.",
+     "nombra": false,
+     "start": 35.285,
+     "end": 38.893
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "etiqueta": "CELDA",
+   "termino_en": "CELL",
+   "start": 39.273,
+   "end": 45.544,
+   "lines": [
+    {
+     "en": "Now you dump the trash, crush it with heavy machines, and cover it with soil at the end of the day.",
+     "es": "Ahora descargas la basura, la compactas con máquinas y al final del día la cubres con tierra.",
+     "nombra": false,
+     "start": 39.273,
+     "end": 43.536
+    },
+    {
+     "en": "That's called a cell.",
+     "es": "Eso se llama celda.",
+     "nombra": true,
+     "start": 43.716,
+     "end": 45.164
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 45.544,
+   "end": 48.377,
+   "lines": [
+    {
+     "en": "You stack cell on cell, layer on layer.",
+     "es": "Repites celda sobre celda, capa sobre capa.",
+     "nombra": false,
+     "start": 45.544,
+     "end": 47.997
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 48.377,
+   "end": 51.537,
+   "lines": [
+    {
+     "en": "But rain falling on top turns into even more leachate.",
+     "es": "Pero la lluvia que cae encima se convierte en más lixiviado.",
+     "nombra": false,
+     "start": 48.377,
+     "end": 51.157
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "etiqueta": "CANALES PLUVIALES",
+   "termino_en": "STORMWATER CHANNELS",
+   "start": 51.537,
+   "end": 56.103,
+   "lines": [
+    {
+     "en": "So you dig channels around it that carry the clean water away before it touches the trash.",
+     "es": "Entonces haces canales alrededor que desvían el agua limpia antes de que toque la basura.",
+     "nombra": true,
+     "start": 51.537,
+     "end": 55.723
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 56.103,
+   "end": 60.062,
+   "lines": [
+    {
+     "en": "But as the trash rots, it gives off methane gas, which can explode.",
+     "es": "Pero la basura, al pudrirse, suelta gas metano, que puede explotar.",
+     "nombra": false,
+     "start": 56.103,
+     "end": 59.682
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "etiqueta": "POZOS DE BIOGÁS",
+   "termino_en": "GAS WELLS",
+   "start": 60.062,
+   "end": 65.884,
+   "lines": [
+    {
+     "en": "So you drill wells that capture the gas, and burn it or turn it into electricity.",
+     "es": "Entonces perforas pozos que capturan el gas y lo queman o lo usan para generar electricidad.",
+     "nombra": false,
+     "start": 60.062,
+     "end": 64.259
+    },
+    {
+     "en": "Those are gas wells.",
+     "es": "Esos son los pozos de biogás.",
+     "nombra": true,
+     "start": 64.439,
+     "end": 65.504
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "etiqueta": "POZOS DE MONITOREO",
+   "termino_en": "MONITORING WELLS",
+   "start": 65.884,
+   "end": 71.414,
+   "lines": [
+    {
+     "en": "Around it, you drill more wells to check that the groundwater stays clean.",
+     "es": "Alrededor perforas otros pozos para revisar que el agua subterránea siga limpia.",
+     "nombra": false,
+     "start": 65.884,
+     "end": 69.494
+    },
+    {
+     "en": "Those are monitoring wells.",
+     "es": "Esos son los pozos de monitoreo.",
+     "nombra": true,
+     "start": 69.674,
+     "end": 71.034
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 71.414,
+   "end": 77.027,
+   "lines": [
+    {
+     "en": "When it's full, you seal it with clay, soil and grass, and sometimes it becomes a park.",
+     "es": "Cuando está lleno, lo sellas con arcilla, tierra y pasto, y a veces se vuelve un parque.",
+     "nombra": false,
+     "start": 71.414,
+     "end": 76.647
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 77.027,
+   "end": 80.546,
+   "lines": [
+    {
+     "en": "Congratulations. You just built a sanitary landfill.",
+     "es": "Felicidades, construiste un relleno sanitario.",
+     "nombra": false,
+     "start": 77.027,
+     "end": 80.166
+    }
+   ]
+  }
+ ]
+}

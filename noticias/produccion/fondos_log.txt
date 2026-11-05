@@ -1,0 +1,14 @@
+en cache: []
+estudio 172s
+golfo_noche 160s
+isla 150s
+sala_prensa 152s
+cielo_combate 150s
+oficina_militar 152s
+casilla 150s
+casa_blanca 150s
+pentagono 154s
+gasolinera 150s
+capitolio 150s
+mesa_negociacion 150s
+LISTO  

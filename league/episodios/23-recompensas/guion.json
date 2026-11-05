@@ -1,0 +1,81 @@
+{
+ "titulo": "Recompensas: el oro de matar al que va ganando",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Champion_gold_bounties (300 base at lvl 1-6, 420 at 18; first blood +100; min 50; assists half; cap base+700)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué matar al que va ganando da tanto oro?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Porque el juego le pone precio a su cabeza."
+  },
+  {
+   "id": "base",
+   "text": "Matar a un campeón da trescientos de oro al principio, y hasta cuatrocientos veinte en nivel dieciocho."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: matar a alguien en nivel tres da trescientos. Mucho más que cualquier súbdito."
+  },
+  {
+   "id": "primera",
+   "text": "La primera sangre de la partida da cien de oro extra."
+  },
+  {
+   "id": "sube",
+   "text": "Pero si un campeón va ganando mucho oro, su cabeza vale más: le crece una recompensa."
+  },
+  {
+   "id": "broma",
+   "text": "Como en las películas del viejo oeste: se busca, vivo o muerto."
+  },
+  {
+   "id": "baja",
+   "text": "Y al revés: si alguien muere una y otra vez, su recompensa va bajando."
+  },
+  {
+   "id": "minimo",
+   "text": "Hasta un mínimo de cincuenta de oro."
+  },
+  {
+   "id": "broma2",
+   "text": "O sea, si mueres mucho, tu cabeza vale casi nada. Auch."
+  },
+  {
+   "id": "asistencia",
+   "text": "Los que ayudan también ganan: se reparten la mitad de la recompensa."
+  },
+  {
+   "id": "tope",
+   "text": "Y hay un tope: una sola muerte no puede dar más que la base más setecientos."
+  },
+  {
+   "id": "sobra",
+   "text": "Si su recompensa era mayor, lo que sobra se guarda para la próxima vez que muera."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: si vas perdiendo, cazar al que va ganando puede darle la vuelta a la partida."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si tú vas ganando, cuidado: ahora eres el premio gordo."
+  },
+  {
+   "id": "tip3",
+   "text": "Juega más seguro y con visión: si mueres, le regalas todo ese oro al rival."
+  },
+  {
+   "id": "tip4",
+   "text": "Y si eres el que caza, ve en grupo: la mitad para los que ayudan también cuenta."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funcionan las recompensas. Cada like sube la recompensa… por la cabeza de Teemo.",
+   "voz": "Así funcionan las recompensas. Cada like sube la recompensa… por la cabeza de Timo."
+  }
+ ]
+}

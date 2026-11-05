@@ -1,0 +1,19 @@
+{
+  "title": "La Mataviejitas: el caso que desconcertó a la policía de la Ciudad de México",
+  "short_title": "EL CASO DE\nLA MATAVIEJITAS",
+  "serie": "Archivo México",
+  "tono": "crónica seria; sin víctimas en pantalla ni violencia; solo lugares, documentos, siluetas y la investigación",
+  "fuentes": ["https://en.wikipedia.org/wiki/Juana_Barraza", "https://politica.expansion.mx/mexico/2026/09/14/que-fue-de-la-mataviejitas", "https://www.record.com.mx/historia/que-le-paso-a-la-mataviejitas-y-por-que-salio-de-prision-2026052600555490139"],
+  "scenes": [
+    {"id": "c1", "bg": "ciudad", "text": "Durante años, alguien entraba a las casas de mujeres mayores en la Ciudad de México."},
+    {"id": "c2", "bg": "puerta", "text": "Las víctimas vivían solas y, en muchos casos, abrían la puerta a una persona que parecía llegar para ofrecerles ayuda."},
+    {"id": "c3", "bg": "oficina", "text": "La policía empezó a investigar una serie de asesinatos con características muy parecidas. Los medios bautizaron al responsable como El Mataviejitas."},
+    {"id": "c4", "bg": "oficina", "text": "Se difundieron retratos hablados, y durante mucho tiempo las autoridades buscaron a un hombre."},
+    {"id": "c5", "bg": "ciudad", "text": "Pero había algo que nadie esperaba."},
+    {"id": "c6", "bg": "calle", "text": "El veinticinco de enero de dos mil seis, una mujer salió de la casa de una señora mayor que acababa de ser asesinada. Un inquilino la vio, avisó a una patrulla que pasaba, y la detuvieron."},
+    {"id": "c7", "bg": "oficina", "text": "Se llamaba Juana Barraza Samperio."},
+    {"id": "c8", "bg": "ring", "text": "Había sido luchadora profesional, y en el ring usaba el nombre de La Dama del Silencio."},
+    {"id": "c9", "bg": "juzgado", "text": "En dos mil ocho fue declarada culpable de dieciséis homicidios y doce robos, y recibió una sentencia de setecientos cincuenta y nueve años de prisión. Hoy sigue presa."},
+    {"id": "c10", "bg": "ciudad", "text": "La persona que la policía buscaba no era quien todos imaginaban. Y su captura se convirtió en uno de los casos criminales más conocidos de la Ciudad de México."}
+  ]
+}

@@ -1,0 +1,204 @@
+{
+ "duration": 67.439,
+ "scenes": [
+  {
+   "id": "b1",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 0.3,
+   "end": 5.084,
+   "lines": [
+    {
+     "en": "You live right on top of a fault line. Every few years, the ground decides to dance.",
+     "es": "",
+     "nombra": false,
+     "start": 0.3,
+     "end": 4.804
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 5.084,
+   "end": 13.23,
+   "lines": [
+    {
+     "en": "So you build a normal building. When the quake hits, the ground yanks the bottom, but the top wants to stay put.",
+     "es": "",
+     "nombra": false,
+     "start": 5.084,
+     "end": 10.383
+    },
+    {
+     "en": "It whips back and forth, until the columns snap.",
+     "es": "",
+     "nombra": false,
+     "start": 10.503,
+     "end": 12.95
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "etiqueta": "PILES",
+   "termino_en": "",
+   "start": 13.23,
+   "end": 19.395,
+   "lines": [
+    {
+     "en": "So this time, you drive long concrete piles all the way down to solid rock, so the building can't sink into the shaking mud.",
+     "es": "",
+     "nombra": true,
+     "start": 13.23,
+     "end": 19.115
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "etiqueta": "FOUNDATION MAT",
+   "termino_en": "",
+   "start": 19.395,
+   "end": 23.558,
+   "lines": [
+    {
+     "en": "On top, you pour one thick slab of concrete that ties them all together.",
+     "es": "",
+     "nombra": true,
+     "start": 19.395,
+     "end": 23.278
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 23.558,
+   "end": 26.86,
+   "lines": [
+    {
+     "en": "But here's the real trick. You don't attach the building to the ground at all.",
+     "es": "",
+     "nombra": false,
+     "start": 23.558,
+     "end": 26.58
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "etiqueta": "BASE ISOLATORS",
+   "termino_en": "",
+   "start": 26.86,
+   "end": 33.054,
+   "lines": [
+    {
+     "en": "You set it on giant rubber pads with lead cores. They bend sideways, so the ground moves, and the building barely does.",
+     "es": "",
+     "nombra": true,
+     "start": 26.86,
+     "end": 32.774
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "etiqueta": "SEISMIC GAP",
+   "termino_en": "",
+   "start": 33.054,
+   "end": 38.329,
+   "lines": [
+    {
+     "en": "Around the base, you leave an empty gap, so the building has room to slide without slamming into anything.",
+     "es": "",
+     "nombra": true,
+     "start": 33.054,
+     "end": 38.049
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "etiqueta": "CONFINEMENT TIES",
+   "termino_en": "",
+   "start": 38.329,
+   "end": 43.061,
+   "lines": [
+    {
+     "en": "Then you wrap every column's steel bars in tight rings, so they bend instead of exploding.",
+     "es": "",
+     "nombra": true,
+     "start": 38.329,
+     "end": 42.781
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "etiqueta": "DAMPERS",
+   "termino_en": "",
+   "start": 43.061,
+   "end": 47.024,
+   "lines": [
+    {
+     "en": "You add diagonal braces with shock absorbers that squeeze the shaking into heat.",
+     "es": "",
+     "nombra": true,
+     "start": 43.061,
+     "end": 46.744
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "etiqueta": "TUNED MASS DAMPER",
+   "termino_en": "",
+   "start": 47.024,
+   "end": 54.493,
+   "lines": [
+    {
+     "en": "And at the very top, you hang a giant steel ball. When the building sways one way, it swings the other, and calms everything down.",
+     "es": "",
+     "nombra": true,
+     "start": 47.024,
+     "end": 54.213
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 54.493,
+   "end": 61.203,
+   "lines": [
+    {
+     "en": "Now the ground starts dancing again. The pads stretch, the dampers squeeze, the ball swings, and the building just stands there.",
+     "es": "",
+     "nombra": false,
+     "start": 54.493,
+     "end": 60.923
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 61.203,
+   "end": 66.639,
+   "lines": [
+    {
+     "en": "Add windows, an elevator, and some neighbors. Congratulations! You have built an earthquake-proof building.",
+     "es": "",
+     "nombra": false,
+     "start": 61.203,
+     "end": 66.359
+    }
+   ]
+  }
+ ]
+}

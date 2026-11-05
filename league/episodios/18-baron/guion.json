@@ -1,0 +1,77 @@
+{
+ "titulo": "Barón Nashor: por qué gana partidas",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Baron_Nashor (20:00 initial since V26.01, 6:00 respawn, Hand of Baron 180 s to living teammates: AD, AP, empowered recall, minion aura)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué matar al barón cambia toda la partida?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es solo un monstruo grande. Es el botón de empujar de todo tu equipo."
+  },
+  {
+   "id": "cuando",
+   "text": "El barón Nashor aparece al minuto veinte, en el foso de arriba del río."
+  },
+  {
+   "id": "antes",
+   "text": "Antes aparecía al veinticinco, pero desde el parche veintiséis punto uno, sale antes."
+  },
+  {
+   "id": "reaparece",
+   "text": "Y cuando lo matan, vuelve seis minutos después."
+  },
+  {
+   "id": "premio",
+   "text": "Al matarlo, todos los aliados vivos reciben la Mano del Barón durante ciento ochenta segundos."
+  },
+  {
+   "id": "da",
+   "text": "Te da más daño de ataque y más poder de habilidad."
+  },
+  {
+   "id": "recall",
+   "text": "Tu recall se vuelve mucho más rápido."
+  },
+  {
+   "id": "subditos",
+   "text": "Y lo más fuerte: los súbditos cerca de ti se vuelven mucho más poderosos."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: una oleada normal apenas le hace cosquillas a una torre. Con el barón, la derrite."
+  },
+  {
+   "id": "broma",
+   "text": "Tus súbditos pasan de ser niños de primaria a luchadores profesionales."
+  },
+  {
+   "id": "vivos",
+   "text": "Ojo: solo lo reciben los aliados que están vivos cuando cae el barón."
+  },
+  {
+   "id": "riesgo",
+   "text": "Y es peligroso: si el rival te encuentra a medio barón, te puede robar la pelea… y el barón."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: antes de hacer barón, asegúrate de que el rival no pueda llegar. Por ejemplo, después de ganar una pelea."
+  },
+  {
+   "id": "tip2",
+   "text": "Y con el buff, empuja con tus súbditos: para eso está."
+  },
+  {
+   "id": "tip3",
+   "text": "Y si el rival hace el barón, no pelees en su línea: defiende con tus torres y súbditos."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona el barón. Cada like es un barón… que Teemo no va a ver.",
+   "voz": "Así funciona el barón. Cada like es un barón… que Timo no va a ver."
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "title": "Así se construye un muro de contención",
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Tu casa está al pie de un cerro y la tierra empieza a deslizarse."
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "etiqueta": "ESTUDIO DE SUELO",
+   "text": "Primero sacas muestras de tierra para saber qué tan fuerte empuja. Eso es el estudio de suelo."
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero si pones un muro delgado, la tierra lo empuja y lo voltea."
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "etiqueta": "ZAPATA",
+   "text": "Entonces excavas y haces una base ancha bajo el muro. Eso se llama zapata."
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero aun así, la tierra podría hacer que el muro resbale hacia adelante."
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "etiqueta": "DENTELLÓN",
+   "text": "Entonces le haces un diente de concreto por debajo que se clava en el suelo. Eso es el dentellón."
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "etiqueta": "ARMADO",
+   "text": "Colocas varillas que suben de la zapata al muro, para que trabajen juntas. Eso es el armado."
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "etiqueta": "CIMBRA",
+   "text": "Pones moldes de madera o metal a los lados. Eso es la cimbra."
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Cuelas el concreto y lo vibras para que no queden huecos."
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "etiqueta": "CURADO",
+   "text": "Lo mojas varios días mientras endurece, para que no se agriete. Eso es el curado."
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero cuando llueve, el agua se acumula detrás y empuja todavía más."
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "etiqueta": "LLORADEROS",
+   "text": "Entonces dejas tubos que atraviesan el muro para que el agua salga. Esos son los lloraderos."
+  },
+  {
+   "id": "b13",
+   "bg": "-",
+   "etiqueta": "DREN",
+   "text": "Detrás del muro pones grava y un tubo perforado al pie, para que el agua baje hasta la salida. Eso es el dren."
+  },
+  {
+   "id": "b14",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Rellenas con tierra en capas compactadas."
+  },
+  {
+   "id": "b15",
+   "bg": "-",
+   "etiqueta": "CONTRACUNETA",
+   "text": "Arriba, en el cerro, haces un canal que desvía la lluvia antes de que llegue al muro. Eso es la contracuneta."
+  },
+  {
+   "id": "b16",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Siembras plantas en la ladera para que sus raíces sujeten la tierra."
+  },
+  {
+   "id": "b17",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Felicidades, construiste un muro de contención."
+  }
+ ]
+}

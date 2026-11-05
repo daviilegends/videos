@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Alguna vez golpeaste al rival, y de repente toda su oleada se lanzó contra ti?",
+  "start": 0.25,
+  "end": 3.627
+ },
+ {
+  "id": "nosuerte",
+  "text": "No es mala suerte. Es una regla del juego, y hoy te la explico.",
+  "start": 4.047,
+  "end": 7.18
+ },
+ {
+  "id": "golpe",
+  "text": "Mira. Cuando golpeas a un campeón enemigo con un ataque básico, o con casi cualquier habilidad dirigida,",
+  "start": 7.6,
+  "end": 12.253
+ },
+ {
+  "id": "giran",
+  "text": "sus súbditos cercanos dejan lo que estaban haciendo, y se giran contra ti.",
+  "start": 12.673,
+  "end": 15.614
+ },
+ {
+  "id": "radio",
+  "text": "¿Qué tan cerca? En general, a unas quinientas unidades del súbdito.",
+  "start": 16.034,
+  "end": 19.198
+ },
+ {
+  "id": "dano",
+  "text": "Cada súbdito pega poquito: contra campeones solo hace el sesenta por ciento de su daño.",
+  "start": 19.618,
+  "end": 23.682
+ },
+ {
+  "id": "duele",
+  "text": "Pero seis al mismo tiempo pegan más fuerte que la cruda del lunes. Y con poca vida, te mandan directo a la base.",
+  "start": 24.102,
+  "end": 28.973
+ },
+ {
+  "id": "cerebro",
+  "text": "Y es que los súbditos tienen un cerebro del tamaño de un chícharo: una lista de prioridades.",
+  "start": 29.393,
+  "end": 33.274
+ },
+ {
+  "id": "p1",
+  "text": "Primero, van por el campeón enemigo que está atacando a uno de sus campeones.",
+  "start": 33.694,
+  "end": 37.052
+ },
+ {
+  "id": "p2",
+  "text": "Luego, por los súbditos enemigos que atacan a sus campeones.",
+  "start": 37.472,
+  "end": 40.082
+ },
+ {
+  "id": "p3",
+  "text": "Después, por lo que ataque a sus súbditos. Y al final, por lo que tengan más cerca.",
+  "start": 40.502,
+  "end": 44.276
+ },
+ {
+  "id": "fijo",
+  "text": "Y ojo: una vez que eligen objetivo, solo cambian si aparece alguien con más prioridad.",
+  "start": 44.696,
+  "end": 48.357
+ },
+ {
+  "id": "quiz",
+  "text": "Pregunta rápida: si golpeas a un súbdito, ¿te atacan todos? No necesariamente. La alarma se activa cuando golpeas a un campeón.",
+  "start": 48.777,
+  "end": 54.924
+ },
+ {
+  "id": "reves",
+  "text": "Lo mejor es que funciona al revés: si el rival te golpea, tus súbditos se le echan encima como tías a los tamales en Navidad.",
+  "start": 55.344,
+  "end": 60.584
+ },
+ {
+  "id": "tip",
+  "text": "Así que pelea cuando su oleada sea pequeña, o cuando sea él quien se arriesgue a pegarte.",
+  "start": 61.004,
+  "end": 64.629
+ },
+ {
+  "id": "torres",
+  "text": "Por cierto, las torres hacen algo parecido. Pero eso es tema de la próxima clase.",
+  "start": 65.049,
+  "end": 68.542
+ },
+ {
+  "id": "cierre",
+  "text": "Ahora ya sabes por qué te pega la oleada. Recuerda: cada like es un puñetazo a Teemo. Te leo en los comentarios.",
+  "start": 68.962,
+  "end": 73.978
+ }
+]

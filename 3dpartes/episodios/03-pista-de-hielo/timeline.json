@@ -1,0 +1,317 @@
+{
+ "duration": 87.783,
+ "scenes": [
+  {
+   "id": "b1",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 0.3,
+   "end": 4.01,
+   "lines": [
+    {
+     "en": "You want to go ice skating, but you live somewhere it never, ever gets cold.",
+     "es": "Quieres patinar sobre hielo, pero vives donde nunca hace frío.",
+     "nombra": false,
+     "start": 0.3,
+     "end": 3.73
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 4.01,
+   "end": 8.345,
+   "lines": [
+    {
+     "en": "So you pour water on the ground. And it just sits there. A warm, muddy puddle.",
+     "es": "Echas agua al suelo y solo queda un charco tibio de lodo.",
+     "nombra": false,
+     "start": 4.01,
+     "end": 8.064
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 8.345,
+   "end": 13.201,
+   "lines": [
+    {
+     "en": "So the floor itself has to be freezing. First, you level the ground and spread a bed of sand.",
+     "es": "Entonces el piso tiene que estar helado. Primero nivelas el terreno y tiendes arena.",
+     "nombra": false,
+     "start": 8.345,
+     "end": 12.921
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 13.201,
+   "end": 19.058,
+   "lines": [
+    {
+     "en": "But a floor that cold freezes the dirt underneath. Frozen soil swells up, and cracks everything from below.",
+     "es": "Pero ese frío congela la tierra de abajo, que se infla y rompe el piso.",
+     "nombra": false,
+     "start": 13.201,
+     "end": 18.778
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "etiqueta": "SUBSOIL HEATING",
+   "termino_en": "",
+   "start": 19.058,
+   "end": 24.426,
+   "lines": [
+    {
+     "en": "So you run pipes of warm liquid under everything, to keep the ground from freezing.",
+     "es": "Entonces pones tubos con líquido tibio debajo de todo.",
+     "nombra": false,
+     "start": 19.058,
+     "end": 22.857
+    },
+    {
+     "en": "This is subsoil heating.",
+     "es": "Es la calefacción del subsuelo.",
+     "nombra": true,
+     "start": 22.977,
+     "end": 24.146
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "etiqueta": "INSULATION",
+   "termino_en": "",
+   "start": 24.426,
+   "end": 29.407,
+   "lines": [
+    {
+     "en": "On top, you lay thick insulation boards, so the cold stays up and the heat stays down.",
+     "es": "Encima colocas placas de aislante.",
+     "nombra": true,
+     "start": 24.426,
+     "end": 29.127
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "etiqueta": "BRINE",
+   "termino_en": "",
+   "start": 29.407,
+   "end": 34.842,
+   "lines": [
+    {
+     "en": "Then you lay hundreds of pipes, really close together.",
+     "es": "Luego tiendes cientos de tubos muy juntos.",
+     "nombra": false,
+     "start": 29.407,
+     "end": 31.929
+    },
+    {
+     "en": "They carry a liquid that's colder than ice, called brine.",
+     "es": "Llevan un líquido más frío que el hielo: salmuera.",
+     "nombra": true,
+     "start": 32.049,
+     "end": 34.562
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "etiqueta": "COOLING SLAB",
+   "termino_en": "",
+   "start": 34.842,
+   "end": 38.003,
+   "lines": [
+    {
+     "en": "You bury all of them in concrete.",
+     "es": "Los cubres con concreto.",
+     "nombra": false,
+     "start": 34.842,
+     "end": 36.441
+    },
+    {
+     "en": "This is the cooling slab.",
+     "es": "Es la losa de refrigeración.",
+     "nombra": true,
+     "start": 36.561,
+     "end": 37.723
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "etiqueta": "CHILLER",
+   "termino_en": "",
+   "start": 38.003,
+   "end": 46.442,
+   "lines": [
+    {
+     "en": "A huge machine chills the brine below zero and pumps it through the pipes. Basically, a giant fridge that sucks the heat out of the floor.",
+     "es": "Una máquina enfría la salmuera y la hace circular, como un refrigerador gigante.",
+     "nombra": false,
+     "start": 38.003,
+     "end": 45.07
+    },
+    {
+     "en": "This is the chiller.",
+     "es": "Es el enfriador.",
+     "nombra": true,
+     "start": 45.19,
+     "end": 46.162
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 46.442,
+   "end": 51.378,
+   "lines": [
+    {
+     "en": "Now you spray water in super thin layers, one after another, so the ice comes out perfectly flat.",
+     "es": "Rocías agua en capas muy delgadas para que el hielo quede parejo.",
+     "nombra": false,
+     "start": 46.442,
+     "end": 51.098
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 51.378,
+   "end": 55.086,
+   "lines": [
+    {
+     "en": "But ice is clear. All you'd see is gray concrete, and no lines.",
+     "es": "Pero el hielo es transparente y solo se vería concreto gris.",
+     "nombra": false,
+     "start": 51.378,
+     "end": 54.806
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 55.086,
+   "end": 60.654,
+   "lines": [
+    {
+     "en": "So you paint the ice white, paint the lines, and seal them under more water, until it's about an inch thick.",
+     "es": "Pintas el hielo de blanco, pintas las líneas y las sellas con más agua.",
+     "nombra": false,
+     "start": 55.086,
+     "end": 60.374
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "etiqueta": "BOARDS",
+   "termino_en": "",
+   "start": 60.654,
+   "end": 65.802,
+   "lines": [
+    {
+     "en": "But hockey pucks fly straight into the crowd.",
+     "es": "Pero los discos de hockey salen volando hacia el público.",
+     "nombra": false,
+     "start": 60.654,
+     "end": 62.7
+    },
+    {
+     "en": "So you build boards all around it, with glass on top.",
+     "es": "Pones vallas alrededor, con vidrio encima.",
+     "nombra": true,
+     "start": 62.82,
+     "end": 65.522
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "etiqueta": "DEHUMIDIFIERS",
+   "termino_en": "",
+   "start": 65.802,
+   "end": 73.036,
+   "lines": [
+    {
+     "en": "But the warm, humid air turns into fog, and it drips onto the ice.",
+     "es": "Pero el aire húmedo forma niebla y gotea sobre el hielo.",
+     "nombra": false,
+     "start": 65.802,
+     "end": 69.341
+    },
+    {
+     "en": "So you add machines that dry the air. These are dehumidifiers.",
+     "es": "Pones máquinas que secan el aire: deshumidificadores.",
+     "nombra": true,
+     "start": 69.461,
+     "end": 72.756
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "etiqueta": "ICE RESURFACER",
+   "termino_en": "",
+   "start": 73.036,
+   "end": 81.761,
+   "lines": [
+    {
+     "en": "But every skate scratches the ice.",
+     "es": "Pero los patines rayan el hielo.",
+     "nombra": false,
+     "start": 73.036,
+     "end": 74.985
+    },
+    {
+     "en": "So a machine shaves the top and leaves a thin film of warm water that freezes glassy smooth.",
+     "es": "Una máquina rasura la superficie y deja agua tibia que se congela lisa.",
+     "nombra": false,
+     "start": 75.105,
+     "end": 80.029
+    },
+    {
+     "en": "This is an ice resurfacer.",
+     "es": "Es la pulidora de hielo.",
+     "nombra": true,
+     "start": 80.149,
+     "end": 81.481
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 81.761,
+   "end": 86.983,
+   "lines": [
+    {
+     "en": "Add some benches, some music, and some skaters. Congratulations! You have built an ice rink.",
+     "es": "Agrega bancas, música y patinadores. Felicidades, construiste una pista de hielo.",
+     "nombra": false,
+     "start": 81.761,
+     "end": 86.703
+    }
+   ]
+  }
+ ]
+}

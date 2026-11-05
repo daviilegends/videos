@@ -1,0 +1,1496 @@
+[
+ {
+  "text": "Son",
+  "start": 0.56,
+  "end": 1.04,
+  "sentence": 0
+ },
+ {
+  "text": "las",
+  "start": 1.04,
+  "end": 1.22,
+  "sentence": 0
+ },
+ {
+  "text": "de",
+  "start": 1.42,
+  "end": 1.52,
+  "sentence": 0
+ },
+ {
+  "text": "la",
+  "start": 1.52,
+  "end": 1.6,
+  "sentence": 0
+ },
+ {
+  "text": "mañana.",
+  "start": 1.6,
+  "end": 1.86,
+  "sentence": 0
+ },
+ {
+  "text": "Trabajas",
+  "start": 2.44,
+  "end": 3.02,
+  "sentence": 1
+ },
+ {
+  "text": "en",
+  "start": 3.02,
+  "end": 3.14,
+  "sentence": 1
+ },
+ {
+  "text": "el",
+  "start": 3.14,
+  "end": 3.24,
+  "sentence": 1
+ },
+ {
+  "text": "turno",
+  "start": 3.24,
+  "end": 3.56,
+  "sentence": 1
+ },
+ {
+  "text": "de",
+  "start": 3.56,
+  "end": 3.64,
+  "sentence": 1
+ },
+ {
+  "text": "noche",
+  "start": 3.64,
+  "end": 3.82,
+  "sentence": 1
+ },
+ {
+  "text": "de",
+  "start": 3.82,
+  "end": 4.0,
+  "sentence": 1
+ },
+ {
+  "text": "la",
+  "start": 4.0,
+  "end": 4.1,
+  "sentence": 1
+ },
+ {
+  "text": "línea",
+  "start": 4.1,
+  "end": 4.26,
+  "sentence": 1
+ },
+ {
+  "text": "de",
+  "start": 4.26,
+  "end": 4.4,
+  "sentence": 1
+ },
+ {
+  "text": "emergencias,",
+  "start": 4.4,
+  "end": 5.06,
+  "sentence": 1
+ },
+ {
+  "text": "y",
+  "start": 5.06,
+  "end": 5.68,
+  "sentence": 1
+ },
+ {
+  "text": "los",
+  "start": 5.68,
+  "end": 5.8,
+  "sentence": 1
+ },
+ {
+  "text": "teléfonos",
+  "start": 5.8,
+  "end": 6.32,
+  "sentence": 1
+ },
+ {
+  "text": "llevan",
+  "start": 6.32,
+  "end": 6.6,
+  "sentence": 1
+ },
+ {
+  "text": "una",
+  "start": 6.6,
+  "end": 6.8,
+  "sentence": 1
+ },
+ {
+  "text": "hora",
+  "start": 6.8,
+  "end": 6.94,
+  "sentence": 1
+ },
+ {
+  "text": "en",
+  "start": 6.94,
+  "end": 7.04,
+  "sentence": 1
+ },
+ {
+  "text": "silencio.",
+  "start": 7.04,
+  "end": 7.5,
+  "sentence": 1
+ },
+ {
+  "text": "Entonces",
+  "start": 8.88,
+  "end": 9.36,
+  "sentence": 2
+ },
+ {
+  "text": "suena",
+  "start": 9.36,
+  "end": 9.84,
+  "sentence": 2
+ },
+ {
+  "text": "una",
+  "start": 9.84,
+  "end": 10.02,
+  "sentence": 2
+ },
+ {
+  "text": "llamada.",
+  "start": 10.02,
+  "end": 10.46,
+  "sentence": 2
+ },
+ {
+  "text": "Contestas.",
+  "start": 11.36,
+  "end": 12.14,
+  "sentence": 3
+ },
+ {
+  "text": "Emergencias,",
+  "start": 13.06,
+  "end": 14.32,
+  "sentence": 4
+ },
+ {
+  "text": "¿cuál",
+  "start": 15.2,
+  "end": 15.3,
+  "sentence": 4
+ },
+ {
+  "text": "es",
+  "start": 15.3,
+  "end": 15.42,
+  "sentence": 4
+ },
+ {
+  "text": "su",
+  "start": 15.42,
+  "end": 15.5,
+  "sentence": 4
+ },
+ {
+  "text": "emergencia?",
+  "start": 15.5,
+  "end": 16.0,
+  "sentence": 4
+ },
+ {
+  "text": "Del",
+  "start": 17.32,
+  "end": 17.52,
+  "sentence": 5
+ },
+ {
+  "text": "otro",
+  "start": 17.52,
+  "end": 17.68,
+  "sentence": 5
+ },
+ {
+  "text": "lado,",
+  "start": 17.68,
+  "end": 18.0,
+  "sentence": 5
+ },
+ {
+  "text": "una",
+  "start": 18.52,
+  "end": 18.62,
+  "sentence": 5
+ },
+ {
+  "text": "mujer",
+  "start": 18.62,
+  "end": 18.94,
+  "sentence": 5
+ },
+ {
+  "text": "susurra.",
+  "start": 18.94,
+  "end": 19.42,
+  "sentence": 5
+ },
+ {
+  "text": "Hay",
+  "start": 20.26,
+  "end": 20.48,
+  "sentence": 6
+ },
+ {
+  "text": "alguien",
+  "start": 20.48,
+  "end": 20.72,
+  "sentence": 6
+ },
+ {
+  "text": "en",
+  "start": 20.72,
+  "end": 20.84,
+  "sentence": 6
+ },
+ {
+  "text": "mi",
+  "start": 20.84,
+  "end": 20.94,
+  "sentence": 6
+ },
+ {
+  "text": "casa.",
+  "start": 20.94,
+  "end": 21.16,
+  "sentence": 6
+ },
+ {
+  "text": "En",
+  "start": 22.46,
+  "end": 22.78,
+  "sentence": 7
+ },
+ {
+  "text": "la",
+  "start": 22.78,
+  "end": 22.86,
+  "sentence": 7
+ },
+ {
+  "text": "pantalla",
+  "start": 22.86,
+  "end": 23.22,
+  "sentence": 7
+ },
+ {
+  "text": "aparece",
+  "start": 23.22,
+  "end": 23.6,
+  "sentence": 7
+ },
+ {
+  "text": "la",
+  "start": 23.6,
+  "end": 23.78,
+  "sentence": 7
+ },
+ {
+  "text": "dirección",
+  "start": 23.78,
+  "end": 24.16,
+  "sentence": 7
+ },
+ {
+  "text": "de",
+  "start": 24.16,
+  "end": 24.32,
+  "sentence": 7
+ },
+ {
+  "text": "la",
+  "start": 24.32,
+  "end": 24.4,
+  "sentence": 7
+ },
+ {
+  "text": "llamada.",
+  "start": 24.4,
+  "end": 24.82,
+  "sentence": 7
+ },
+ {
+  "text": "Y",
+  "start": 24.82,
+  "end": 26.34,
+  "sentence": 8
+ },
+ {
+  "text": "se",
+  "start": 26.34,
+  "end": 26.48,
+  "sentence": 8
+ },
+ {
+  "text": "te",
+  "start": 26.48,
+  "end": 26.62,
+  "sentence": 8
+ },
+ {
+  "text": "hiela",
+  "start": 26.62,
+  "end": 26.86,
+  "sentence": 8
+ },
+ {
+  "text": "la",
+  "start": 26.86,
+  "end": 26.96,
+  "sentence": 8
+ },
+ {
+  "text": "sangre.",
+  "start": 26.96,
+  "end": 27.26,
+  "sentence": 8
+ },
+ {
+  "text": "Es",
+  "start": 29.98,
+  "end": 29.98,
+  "sentence": 9
+ },
+ {
+  "text": "Le",
+  "start": 29.98,
+  "end": 30.64,
+  "sentence": 10
+ },
+ {
+  "text": "pides",
+  "start": 30.64,
+  "end": 30.88,
+  "sentence": 10
+ },
+ {
+  "text": "que",
+  "start": 30.88,
+  "end": 31.04,
+  "sentence": 10
+ },
+ {
+  "text": "se",
+  "start": 31.04,
+  "end": 31.16,
+  "sentence": 10
+ },
+ {
+  "text": "esconda",
+  "start": 31.16,
+  "end": 31.56,
+  "sentence": 10
+ },
+ {
+  "text": "y",
+  "start": 31.56,
+  "end": 31.86,
+  "sentence": 10
+ },
+ {
+  "text": "que",
+  "start": 31.86,
+  "end": 31.98,
+  "sentence": 10
+ },
+ {
+  "text": "no",
+  "start": 31.98,
+  "end": 32.1,
+  "sentence": 10
+ },
+ {
+  "text": "cuelgue.",
+  "start": 32.1,
+  "end": 32.5,
+  "sentence": 10
+ },
+ {
+  "text": "Ella",
+  "start": 33.14,
+  "end": 33.42,
+  "sentence": 11
+ },
+ {
+  "text": "se",
+  "start": 33.42,
+  "end": 33.6,
+  "sentence": 11
+ },
+ {
+  "text": "mete",
+  "start": 33.6,
+  "end": 33.8,
+  "sentence": 11
+ },
+ {
+  "text": "en",
+  "start": 33.8,
+  "end": 33.94,
+  "sentence": 11
+ },
+ {
+  "text": "el",
+  "start": 33.94,
+  "end": 34.02,
+  "sentence": 11
+ },
+ {
+  "text": "armario",
+  "start": 34.02,
+  "end": 34.36,
+  "sentence": 11
+ },
+ {
+  "text": "de",
+  "start": 34.36,
+  "end": 34.48,
+  "sentence": 11
+ },
+ {
+  "text": "la",
+  "start": 34.48,
+  "end": 34.58,
+  "sentence": 11
+ },
+ {
+  "text": "recámara.",
+  "start": 34.58,
+  "end": 35.04,
+  "sentence": 11
+ },
+ {
+  "text": "Pero",
+  "start": 35.68,
+  "end": 36.14,
+  "sentence": 12
+ },
+ {
+  "text": "tú",
+  "start": 36.14,
+  "end": 36.38,
+  "sentence": 12
+ },
+ {
+  "text": "vives",
+  "start": 36.38,
+  "end": 36.7,
+  "sentence": 12
+ },
+ {
+  "text": "solo.",
+  "start": 36.7,
+  "end": 37.04,
+  "sentence": 12
+ },
+ {
+  "text": "Nadie",
+  "start": 37.94,
+  "end": 38.32,
+  "sentence": 13
+ },
+ {
+  "text": "más",
+  "start": 38.32,
+  "end": 38.56,
+  "sentence": 13
+ },
+ {
+  "text": "debería",
+  "start": 38.56,
+  "end": 38.94,
+  "sentence": 13
+ },
+ {
+  "text": "estar",
+  "start": 38.94,
+  "end": 39.18,
+  "sentence": 13
+ },
+ {
+  "text": "ahí.",
+  "start": 39.18,
+  "end": 39.42,
+  "sentence": 13
+ },
+ {
+  "text": "Mandas",
+  "start": 40.38,
+  "end": 40.82,
+  "sentence": 14
+ },
+ {
+  "text": "una",
+  "start": 40.82,
+  "end": 40.98,
+  "sentence": 14
+ },
+ {
+  "text": "patrulla",
+  "start": 40.98,
+  "end": 41.42,
+  "sentence": 14
+ },
+ {
+  "text": "y",
+  "start": 41.42,
+  "end": 41.88,
+  "sentence": 14
+ },
+ {
+  "text": "le",
+  "start": 41.88,
+  "end": 41.98,
+  "sentence": 14
+ },
+ {
+  "text": "preguntas",
+  "start": 41.98,
+  "end": 42.36,
+  "sentence": 14
+ },
+ {
+  "text": "si",
+  "start": 42.36,
+  "end": 42.6,
+  "sentence": 14
+ },
+ {
+  "text": "puede",
+  "start": 42.6,
+  "end": 42.8,
+  "sentence": 14
+ },
+ {
+  "text": "ver",
+  "start": 42.8,
+  "end": 43.0,
+  "sentence": 14
+ },
+ {
+  "text": "a",
+  "start": 43.0,
+  "end": 43.06,
+  "sentence": 14
+ },
+ {
+  "text": "la",
+  "start": 43.06,
+  "end": 43.14,
+  "sentence": 14
+ },
+ {
+  "text": "persona.",
+  "start": 43.14,
+  "end": 43.56,
+  "sentence": 14
+ },
+ {
+  "text": "Ella",
+  "start": 44.3,
+  "end": 44.48,
+  "sentence": 15
+ },
+ {
+  "text": "dice",
+  "start": 44.48,
+  "end": 44.74,
+  "sentence": 15
+ },
+ {
+  "text": "que",
+  "start": 44.74,
+  "end": 44.9,
+  "sentence": 15
+ },
+ {
+  "text": "sí.",
+  "start": 44.9,
+  "end": 45.1,
+  "sentence": 15
+ },
+ {
+  "text": "Que",
+  "start": 45.82,
+  "end": 45.88,
+  "sentence": 16
+ },
+ {
+  "text": "entró",
+  "start": 45.88,
+  "end": 46.16,
+  "sentence": 16
+ },
+ {
+  "text": "por",
+  "start": 46.16,
+  "end": 46.34,
+  "sentence": 16
+ },
+ {
+  "text": "la",
+  "start": 46.34,
+  "end": 46.46,
+  "sentence": 16
+ },
+ {
+  "text": "cocina",
+  "start": 46.46,
+  "end": 46.8,
+  "sentence": 16
+ },
+ {
+  "text": "con",
+  "start": 46.8,
+  "end": 46.96,
+  "sentence": 16
+ },
+ {
+  "text": "su",
+  "start": 46.96,
+  "end": 47.12,
+  "sentence": 16
+ },
+ {
+  "text": "propia",
+  "start": 47.12,
+  "end": 47.36,
+  "sentence": 16
+ },
+ {
+  "text": "llave,",
+  "start": 47.36,
+  "end": 47.7,
+  "sentence": 16
+ },
+ {
+  "text": "que",
+  "start": 48.2,
+  "end": 48.32,
+  "sentence": 16
+ },
+ {
+  "text": "dejó",
+  "start": 48.32,
+  "end": 48.58,
+  "sentence": 16
+ },
+ {
+  "text": "una",
+  "start": 48.58,
+  "end": 48.72,
+  "sentence": 16
+ },
+ {
+  "text": "mochila",
+  "start": 48.72,
+  "end": 49.06,
+  "sentence": 16
+ },
+ {
+  "text": "gris",
+  "start": 49.06,
+  "end": 49.3,
+  "sentence": 16
+ },
+ {
+  "text": "en",
+  "start": 49.3,
+  "end": 49.44,
+  "sentence": 16
+ },
+ {
+  "text": "el",
+  "start": 49.44,
+  "end": 49.56,
+  "sentence": 16
+ },
+ {
+  "text": "sillón,",
+  "start": 49.56,
+  "end": 49.9,
+  "sentence": 16
+ },
+ {
+  "text": "y",
+  "start": 49.9,
+  "end": 50.58,
+  "sentence": 16
+ },
+ {
+  "text": "que",
+  "start": 50.58,
+  "end": 50.68,
+  "sentence": 16
+ },
+ {
+  "text": "trae",
+  "start": 50.68,
+  "end": 50.94,
+  "sentence": 16
+ },
+ {
+  "text": "puesto",
+  "start": 50.94,
+  "end": 51.22,
+  "sentence": 16
+ },
+ {
+  "text": "un",
+  "start": 51.22,
+  "end": 51.38,
+  "sentence": 16
+ },
+ {
+  "text": "uniforme",
+  "start": 51.38,
+  "end": 51.82,
+  "sentence": 16
+ },
+ {
+  "text": "oscuro.",
+  "start": 51.82,
+  "end": 52.18,
+  "sentence": 16
+ },
+ {
+  "text": "Miras",
+  "start": 53.12,
+  "end": 53.56,
+  "sentence": 17
+ },
+ {
+  "text": "tu",
+  "start": 53.56,
+  "end": 53.68,
+  "sentence": 17
+ },
+ {
+  "text": "mochila",
+  "start": 53.68,
+  "end": 54.02,
+  "sentence": 17
+ },
+ {
+  "text": "gris.",
+  "start": 54.02,
+  "end": 54.42,
+  "sentence": 17
+ },
+ {
+  "text": "Miras",
+  "start": 55.4,
+  "end": 56.04,
+  "sentence": 18
+ },
+ {
+  "text": "tu",
+  "start": 56.04,
+  "end": 56.18,
+  "sentence": 18
+ },
+ {
+  "text": "uniforme.",
+  "start": 56.18,
+  "end": 57.02,
+  "sentence": 18
+ },
+ {
+  "text": "Sales",
+  "start": 57.02,
+  "end": 58.6,
+  "sentence": 19
+ },
+ {
+  "text": "corriendo",
+  "start": 58.6,
+  "end": 59.06,
+  "sentence": 19
+ },
+ {
+  "text": "de",
+  "start": 59.06,
+  "end": 59.22,
+  "sentence": 19
+ },
+ {
+  "text": "la",
+  "start": 59.22,
+  "end": 59.3,
+  "sentence": 19
+ },
+ {
+  "text": "central",
+  "start": 59.3,
+  "end": 59.62,
+  "sentence": 19
+ },
+ {
+  "text": "y",
+  "start": 59.62,
+  "end": 60.38,
+  "sentence": 19
+ },
+ {
+  "text": "manejas",
+  "start": 60.38,
+  "end": 60.76,
+  "sentence": 19
+ },
+ {
+  "text": "hasta",
+  "start": 60.76,
+  "end": 60.98,
+  "sentence": 19
+ },
+ {
+  "text": "tu",
+  "start": 60.98,
+  "end": 61.16,
+  "sentence": 19
+ },
+ {
+  "text": "casa.",
+  "start": 61.16,
+  "end": 61.42,
+  "sentence": 19
+ },
+ {
+  "text": "La",
+  "start": 62.5,
+  "end": 62.78,
+  "sentence": 20
+ },
+ {
+  "text": "patrulla",
+  "start": 62.78,
+  "end": 63.18,
+  "sentence": 20
+ },
+ {
+  "text": "ya",
+  "start": 63.18,
+  "end": 63.34,
+  "sentence": 20
+ },
+ {
+  "text": "está",
+  "start": 63.34,
+  "end": 63.52,
+  "sentence": 20
+ },
+ {
+  "text": "con",
+  "start": 64.34,
+  "end": 64.52,
+  "sentence": 20
+ },
+ {
+  "text": "las",
+  "start": 64.52,
+  "end": 64.7,
+  "sentence": 20
+ },
+ {
+  "text": "luces",
+  "start": 64.7,
+  "end": 64.92,
+  "sentence": 20
+ },
+ {
+  "text": "encendidas.",
+  "start": 64.92,
+  "end": 65.6,
+  "sentence": 20
+ },
+ {
+  "text": "Entras.",
+  "start": 66.52,
+  "end": 67.16,
+  "sentence": 21
+ },
+ {
+  "text": "Todo",
+  "start": 68.04,
+  "end": 68.54,
+  "sentence": 22
+ },
+ {
+  "text": "está",
+  "start": 68.54,
+  "end": 68.8,
+  "sentence": 22
+ },
+ {
+  "text": "como",
+  "start": 68.8,
+  "end": 69.14,
+  "sentence": 22
+ },
+ {
+  "text": "lo",
+  "start": 69.14,
+  "end": 69.3,
+  "sentence": 22
+ },
+ {
+  "text": "dejaste.",
+  "start": 69.3,
+  "end": 69.76,
+  "sentence": 22
+ },
+ {
+  "text": "Tu",
+  "start": 70.98,
+  "end": 71.2,
+  "sentence": 23
+ },
+ {
+  "text": "taza,",
+  "start": 71.2,
+  "end": 71.5,
+  "sentence": 23
+ },
+ {
+  "text": "tus",
+  "start": 72.1,
+  "end": 72.18,
+  "sentence": 23
+ },
+ {
+  "text": "fotos,",
+  "start": 72.18,
+  "end": 72.5,
+  "sentence": 23
+ },
+ {
+  "text": "tu",
+  "start": 73.26,
+  "end": 73.32,
+  "sentence": 23
+ },
+ {
+  "text": "sillón.",
+  "start": 73.32,
+  "end": 73.7,
+  "sentence": 23
+ },
+ {
+  "text": "Abres",
+  "start": 74.56,
+  "end": 74.96,
+  "sentence": 24
+ },
+ {
+  "text": "el",
+  "start": 74.96,
+  "end": 75.1,
+  "sentence": 24
+ },
+ {
+  "text": "armario.",
+  "start": 75.1,
+  "end": 75.48,
+  "sentence": 24
+ },
+ {
+  "text": "Ahí",
+  "start": 76.42,
+  "end": 76.56,
+  "sentence": 25
+ },
+ {
+  "text": "está",
+  "start": 76.56,
+  "end": 76.82,
+  "sentence": 25
+ },
+ {
+  "text": "ella,",
+  "start": 76.82,
+  "end": 77.1,
+  "sentence": 25
+ },
+ {
+  "text": "temblando,",
+  "start": 77.5,
+  "end": 77.96,
+  "sentence": 25
+ },
+ {
+  "text": "con",
+  "start": 77.96,
+  "end": 78.38,
+  "sentence": 25
+ },
+ {
+  "text": "el",
+  "start": 78.38,
+  "end": 78.5,
+  "sentence": 25
+ },
+ {
+  "text": "teléfono",
+  "start": 78.5,
+  "end": 78.9,
+  "sentence": 25
+ },
+ {
+  "text": "en",
+  "start": 78.9,
+  "end": 79.02,
+  "sentence": 25
+ },
+ {
+  "text": "la",
+  "start": 79.02,
+  "end": 79.1,
+  "sentence": 25
+ },
+ {
+  "text": "mano.",
+  "start": 79.1,
+  "end": 79.36,
+  "sentence": 25
+ },
+ {
+  "text": "Y",
+  "start": 79.36,
+  "end": 80.84,
+  "sentence": 26
+ },
+ {
+  "text": "te",
+  "start": 80.84,
+  "end": 81.0,
+  "sentence": 26
+ },
+ {
+  "text": "mira",
+  "start": 81.0,
+  "end": 81.18,
+  "sentence": 26
+ },
+ {
+  "text": "como",
+  "start": 81.18,
+  "end": 81.42,
+  "sentence": 26
+ },
+ {
+  "text": "si",
+  "start": 81.42,
+  "end": 81.62,
+  "sentence": 26
+ },
+ {
+  "text": "el",
+  "start": 81.62,
+  "end": 81.7,
+  "sentence": 26
+ },
+ {
+  "text": "intruso",
+  "start": 81.7,
+  "end": 82.12,
+  "sentence": 26
+ },
+ {
+  "text": "fueras",
+  "start": 82.12,
+  "end": 82.48,
+  "sentence": 26
+ },
+ {
+  "text": "tú.",
+  "start": 82.48,
+  "end": 82.66,
+  "sentence": 26
+ },
+ {
+  "text": "Los",
+  "start": 84.02,
+  "end": 84.3,
+  "sentence": 27
+ },
+ {
+  "text": "policías",
+  "start": 84.3,
+  "end": 84.74,
+  "sentence": 27
+ },
+ {
+  "text": "revisan",
+  "start": 84.74,
+  "end": 85.08,
+  "sentence": 27
+ },
+ {
+  "text": "sus",
+  "start": 85.08,
+  "end": 85.26,
+  "sentence": 27
+ },
+ {
+  "text": "papeles.",
+  "start": 85.26,
+  "end": 85.7,
+  "sentence": 27
+ },
+ {
+  "text": "Ella",
+  "start": 86.42,
+  "end": 86.62,
+  "sentence": 28
+ },
+ {
+  "text": "vive",
+  "start": 86.62,
+  "end": 86.8,
+  "sentence": 28
+ },
+ {
+  "text": "aquí",
+  "start": 86.8,
+  "end": 87.1,
+  "sentence": 28
+ },
+ {
+  "text": "desde",
+  "start": 87.1,
+  "end": 87.3,
+  "sentence": 28
+ },
+ {
+  "text": "hace",
+  "start": 87.3,
+  "end": 87.54,
+  "sentence": 28
+ },
+ {
+  "text": "años.",
+  "start": 87.54,
+  "end": 87.86,
+  "sentence": 28
+ },
+ {
+  "text": "Su",
+  "start": 88.42,
+  "end": 88.6,
+  "sentence": 29
+ },
+ {
+  "text": "nombre",
+  "start": 88.6,
+  "end": 88.88,
+  "sentence": 29
+ },
+ {
+  "text": "está",
+  "start": 88.88,
+  "end": 89.16,
+  "sentence": 29
+ },
+ {
+  "text": "en",
+  "start": 89.16,
+  "end": 89.28,
+  "sentence": 29
+ },
+ {
+  "text": "el",
+  "start": 89.28,
+  "end": 89.36,
+  "sentence": 29
+ },
+ {
+  "text": "contrato,",
+  "start": 89.36,
+  "end": 89.88,
+  "sentence": 29
+ },
+ {
+  "text": "en",
+  "start": 90.36,
+  "end": 90.5,
+  "sentence": 29
+ },
+ {
+  "text": "las",
+  "start": 90.5,
+  "end": 90.62,
+  "sentence": 29
+ },
+ {
+  "text": "cartas",
+  "start": 90.62,
+  "end": 91.08,
+  "sentence": 29
+ },
+ {
+  "text": "y",
+  "start": 91.08,
+  "end": 91.26,
+  "sentence": 29
+ },
+ {
+  "text": "en",
+  "start": 91.26,
+  "end": 91.32,
+  "sentence": 29
+ },
+ {
+  "text": "las",
+  "start": 91.32,
+  "end": 91.42,
+  "sentence": 29
+ },
+ {
+  "text": "fotos",
+  "start": 91.42,
+  "end": 91.68,
+  "sentence": 29
+ },
+ {
+  "text": "de",
+  "start": 91.68,
+  "end": 91.88,
+  "sentence": 29
+ },
+ {
+  "text": "la",
+  "start": 91.88,
+  "end": 91.96,
+  "sentence": 29
+ },
+ {
+  "text": "pared.",
+  "start": 91.96,
+  "end": 92.16,
+  "sentence": 29
+ },
+ {
+  "text": "Tú",
+  "start": 93.36,
+  "end": 93.6,
+  "sentence": 30
+ },
+ {
+  "text": "buscas",
+  "start": 93.6,
+  "end": 93.88,
+  "sentence": 30
+ },
+ {
+  "text": "tus",
+  "start": 93.88,
+  "end": 94.04,
+  "sentence": 30
+ },
+ {
+  "text": "fotos.",
+  "start": 94.04,
+  "end": 94.34,
+  "sentence": 30
+ },
+ {
+  "text": "Ya",
+  "start": 95.28,
+  "end": 95.56,
+  "sentence": 31
+ },
+ {
+  "text": "no",
+  "start": 95.56,
+  "end": 95.68,
+  "sentence": 31
+ },
+ {
+  "text": "están.",
+  "start": 95.68,
+  "end": 95.94,
+  "sentence": 31
+ },
+ {
+  "text": "Y",
+  "start": 97.04,
+  "end": 97.36,
+  "sentence": 32
+ },
+ {
+  "text": "mientras",
+  "start": 97.36,
+  "end": 97.62,
+  "sentence": 32
+ },
+ {
+  "text": "te",
+  "start": 97.62,
+  "end": 97.8,
+  "sentence": 32
+ },
+ {
+  "text": "llevan",
+  "start": 97.8,
+  "end": 98.06,
+  "sentence": 32
+ },
+ {
+  "text": "a",
+  "start": 98.06,
+  "end": 98.16,
+  "sentence": 32
+ },
+ {
+  "text": "la",
+  "start": 98.16,
+  "end": 98.22,
+  "sentence": 32
+ },
+ {
+  "text": "patrulla,",
+  "start": 98.22,
+  "end": 98.62,
+  "sentence": 32
+ },
+ {
+  "text": "el",
+  "start": 99.28,
+  "end": 99.36,
+  "sentence": 32
+ },
+ {
+  "text": "teléfono",
+  "start": 99.36,
+  "end": 99.8,
+  "sentence": 32
+ },
+ {
+  "text": "de",
+  "start": 99.8,
+  "end": 99.92,
+  "sentence": 32
+ },
+ {
+  "text": "la",
+  "start": 99.92,
+  "end": 100.02,
+  "sentence": 32
+ },
+ {
+  "text": "mujer",
+  "start": 100.02,
+  "end": 100.22,
+  "sentence": 32
+ },
+ {
+  "text": "vuelve",
+  "start": 100.22,
+  "end": 100.6,
+  "sentence": 32
+ },
+ {
+  "text": "a",
+  "start": 100.6,
+  "end": 100.66,
+  "sentence": 32
+ },
+ {
+  "text": "sonar.",
+  "start": 100.66,
+  "end": 100.98,
+  "sentence": 32
+ },
+ {
+  "text": "Es",
+  "start": 101.8,
+  "end": 101.98,
+  "sentence": 33
+ },
+ {
+  "text": "la",
+  "start": 101.98,
+  "end": 102.12,
+  "sentence": 33
+ },
+ {
+  "text": "línea",
+  "start": 102.12,
+  "end": 102.32,
+  "sentence": 33
+ },
+ {
+  "text": "de",
+  "start": 102.32,
+  "end": 102.46,
+  "sentence": 33
+ },
+ {
+  "text": "emergencias.",
+  "start": 102.46,
+  "end": 103.04,
+  "sentence": 33
+ },
+ {
+  "text": "Y",
+  "start": 103.96,
+  "end": 104.34,
+  "sentence": 34
+ },
+ {
+  "text": "la",
+  "start": 104.34,
+  "end": 104.42,
+  "sentence": 34
+ },
+ {
+  "text": "voz",
+  "start": 104.42,
+  "end": 104.58,
+  "sentence": 34
+ },
+ {
+  "text": "que",
+  "start": 104.58,
+  "end": 104.72,
+  "sentence": 34
+ },
+ {
+  "text": "contesta",
+  "start": 104.72,
+  "end": 105.22,
+  "sentence": 34
+ },
+ {
+  "text": "es",
+  "start": 105.22,
+  "end": 105.38,
+  "sentence": 34
+ },
+ {
+  "text": "la",
+  "start": 105.38,
+  "end": 105.5,
+  "sentence": 34
+ },
+ {
+  "text": "tuya.",
+  "start": 105.5,
+  "end": 105.84,
+  "sentence": 34
+ }
+]

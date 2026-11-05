@@ -1,0 +1,82 @@
+{
+ "titulo": "Flash: por qué todos lo llevan",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Flash (300 s cooldown; 400 range; over walls; casts at max range if beyond)",
+  "https://wiki.leagueoflegends.com/en-us/Recall (Flash interrupts Recall)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué casi todos los jugadores llevan Flash?"
+  },
+  {
+   "id": "que",
+   "text": "Flash te teletransporta una distancia corta, al instante."
+  },
+  {
+   "id": "instante",
+   "text": "No hay animación que el rival vea venir: desapareces de un lado y apareces del otro."
+  },
+  {
+   "id": "rango",
+   "text": "Su alcance es de cuatrocientas unidades."
+  },
+  {
+   "id": "poquito",
+   "text": "Es poquito, pero bien usado es la diferencia entre morir y escapar."
+  },
+  {
+   "id": "max",
+   "text": "Si haces clic más lejos, igual sale al máximo alcance."
+  },
+  {
+   "id": "muros",
+   "text": "Y puede pasar por encima de muros. Por eso sirve para escapar… o para perseguir."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Imagina: el rival te persigue, saltas el muro con Flash… y él se queda mirando la pared."
+  },
+  {
+   "id": "cd",
+   "text": "Pero tiene un enfriamiento de trescientos segundos. Cinco minutos."
+  },
+  {
+   "id": "tiempo",
+   "text": "En cinco minutos pasan diez oleadas de súbditos. Es muchísimo tiempo."
+  },
+  {
+   "id": "broma",
+   "text": "Cinco minutos sin Flash dura más que tu racha de victorias."
+  },
+  {
+   "id": "sabe",
+   "text": "Y sí: el rival también lo sabe."
+  },
+  {
+   "id": "uso",
+   "text": "Por eso, cuando el rival usa Flash, avísale a tu equipo: durante cinco minutos está más expuesto."
+  },
+  {
+   "id": "sin",
+   "text": "Y si tú no lo tienes, juega un poco más atrás hasta que vuelva."
+  },
+  {
+   "id": "recall",
+   "text": "Y un detalle: si usas Flash durante el recall, lo cancelas."
+  },
+  {
+   "id": "orden",
+   "text": "Así que primero escapa, y después haces recall."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: no lo gastes por nervios. Flash es tu vida extra, úsalo cuando de verdad te salva."
+  },
+  {
+   "id": "cierre",
+   "text": "Ahora ya sabes usar Flash. Cada like es un Flash que Teemo no tiene cuando lo atrapamos.",
+   "voz": "Ahora ya sabes usar Flash. Cada like es un Flash que Timo no tiene cuando lo atrapamos."
+  }
+ ]
+}

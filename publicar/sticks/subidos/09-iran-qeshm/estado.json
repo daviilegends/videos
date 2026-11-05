@@ -1,0 +1,16 @@
+{
+ "plataformas": {
+  "youtube": {
+   "estado": "hecho",
+   "id": "8u7B0AUh_xc",
+   "fecha": "2026-11-03T09:31:13-06:00"
+  },
+  "facebook": {
+   "estado": "hecho",
+   "id": "1597875864819614",
+   "fecha": "2026-11-03T09:31:26-06:00"
+  }
+ },
+ "slot": "2026-11-03T10:00:00-06:00",
+ "fijo": true
+}

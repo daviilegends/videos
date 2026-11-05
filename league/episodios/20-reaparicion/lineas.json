@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué al principio revives casi al instante, y al final esperas una eternidad?",
+  "start": 0.25,
+  "end": 3.714
+ },
+ {
+  "id": "spoiler",
+  "text": "No es tu imaginación. El juego te castiga más entre más dura la partida.",
+  "start": 4.134,
+  "end": 7.684
+ },
+ {
+  "id": "nivel",
+  "text": "El tiempo para revivir depende primero de tu nivel.",
+  "start": 8.104,
+  "end": 10.399
+ },
+ {
+  "id": "uno",
+  "text": "En nivel uno esperas diez segundos.",
+  "start": 10.819,
+  "end": 12.61
+ },
+ {
+  "id": "dieciocho",
+  "text": "En nivel dieciocho, cincuenta y dos segundos y medio.",
+  "start": 13.03,
+  "end": 15.159
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: antes del minuto quince, morir en nivel seis te deja dieciséis segundos fuera. En nivel once, treinta y cinco.",
+  "start": 15.579,
+  "end": 21.239
+ },
+ {
+  "id": "tiempo",
+  "text": "Y desde el minuto quince, la partida le va sumando un extra que crece cada medio minuto.",
+  "start": 21.659,
+  "end": 25.445
+ },
+ {
+  "id": "tope",
+  "text": "Ese extra tiene un límite: cincuenta por ciento más.",
+  "start": 25.865,
+  "end": 28.417
+ },
+ {
+  "id": "maximo",
+  "text": "O sea, lo máximo que puedes esperar es setenta y ocho segundos y tres cuartos.",
+  "start": 28.837,
+  "end": 32.337
+ },
+ {
+  "id": "broma",
+  "text": "Casi un minuto y medio viendo la pantalla gris. Suficiente para prepararte un café… y arrepentirte.",
+  "start": 32.757,
+  "end": 37.172
+ },
+ {
+  "id": "por_que",
+  "text": "¿Por qué importa? Porque mientras estás muerto, tu equipo juega con uno menos.",
+  "start": 37.592,
+  "end": 40.973
+ },
+ {
+  "id": "tarde",
+  "text": "Al final de la partida, una muerte puede costar un barón, un inhibidor, o el nexo.",
+  "start": 41.393,
+  "end": 45.228
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: entre más avanzada la partida, más vale tu vida. No te arriesgues por poquito.",
+  "start": 45.648,
+  "end": 50.17
+ },
+ {
+  "id": "tip2",
+  "text": "Y al revés: si matas a alguien tarde, tienes casi un minuto para hacer algo grande.",
+  "start": 50.59,
+  "end": 54.148
+ },
+ {
+  "id": "tip3",
+  "text": "Y ojo con las peleas en el minuto treinta: una muerte ahí pesa muchísimo.",
+  "start": 54.568,
+  "end": 58.021
+ },
+ {
+  "id": "tip4",
+  "text": "Antes de pelear tarde, pregúntate: ¿vale la pena casi un minuto fuera?",
+  "start": 58.441,
+  "end": 61.522
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona el tiempo de reaparición. Cada like es un minuto más… para Teemo en la pantalla gris.",
+  "start": 61.942,
+  "end": 66.408
+ }
+]

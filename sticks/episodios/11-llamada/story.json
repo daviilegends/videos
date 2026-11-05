@@ -1,0 +1,19 @@
+{
+  "title": "¿Qué pasaría si recibieras una llamada de emergencia desde tu propia casa?",
+  "short_title": "UNA LLAMADA DE\nTU PROPIA CASA",
+  "serie": "Ideas propias",
+  "scenes": [
+    {"id": "c1", "bg": "central", "text": "Son las tres de la mañana. Trabajas en el turno de noche de la línea de emergencias, y los teléfonos llevan una hora en silencio."},
+    {"id": "c2", "bg": "central", "text": "Entonces suena una llamada. Contestas. Emergencias, ¿cuál es su emergencia? Del otro lado, una mujer susurra. Hay alguien en mi casa."},
+    {"id": "c3", "bg": "pantalla", "text": "En la pantalla aparece la dirección de la llamada. Y se te hiela la sangre. Es tu dirección."},
+    {"id": "c4", "bg": "central", "text": "Le pides que se esconda y que no cuelgue. Ella se mete en el armario de la recámara. Pero tú vives solo. Nadie más debería estar ahí."},
+    {"id": "c5", "bg": "central", "text": "Mandas una patrulla y le preguntas si puede ver a la persona. Ella dice que sí. Que entró por la cocina con su propia llave, que dejó una mochila gris en el sillón, y que trae puesto un uniforme oscuro."},
+    {"id": "c6", "bg": "central", "text": "Miras tu mochila gris. Miras tu uniforme."},
+    {"id": "c7", "bg": "calle", "text": "Sales corriendo de la central y manejas hasta tu casa. La patrulla ya está afuera, con las luces encendidas."},
+    {"id": "c8", "bg": "sala", "text": "Entras. Todo está como lo dejaste. Tu taza, tus fotos, tu sillón."},
+    {"id": "c9", "bg": "armario", "text": "Abres el armario. Ahí está ella, temblando, con el teléfono en la mano. Y te mira como si el intruso fueras tú."},
+    {"id": "c10", "bg": "sala", "text": "Los policías revisan sus papeles. Ella vive aquí desde hace años. Su nombre está en el contrato, en las cartas y en las fotos de la pared."},
+    {"id": "c11", "bg": "sala", "text": "Tú buscas tus fotos. Ya no están."},
+    {"id": "c12", "bg": "calle", "text": "Y mientras te llevan a la patrulla, el teléfono de la mujer vuelve a sonar. Es la línea de emergencias. Y la voz que contesta es la tuya."}
+  ]
+}

@@ -1,0 +1,77 @@
+{
+ "titulo": "El cangrejo del río: el monstruo más tierno",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Rift_Scuttler (2:55 initial, 2:30 respawn after both, speed shrine 90 s with sight and speed, gold and xp by level)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué todos persiguen al cangrejo del río como si fuera un tamal?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Porque este monstruito tierno da mucho más de lo que parece."
+  },
+  {
+   "id": "que",
+   "text": "Es un monstruo pacífico que camina por el río. No ataca, solo huye."
+  },
+  {
+   "id": "cuando",
+   "text": "Aparecen dos al minuto dos cincuenta y cinco: uno arriba y uno abajo del río."
+  },
+  {
+   "id": "da",
+   "text": "Al matarlo te da oro y experiencia, y entre más avanzada la partida, más da."
+  },
+  {
+   "id": "santuario",
+   "text": "Pero lo mejor es lo que deja: un santuario de velocidad en el río, durante noventa segundos."
+  },
+  {
+   "id": "vision",
+   "text": "Ese santuario da visión de la zona alrededor."
+  },
+  {
+   "id": "rapido",
+   "text": "Y los aliados que caminan encima se mueven más rápido."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: tu jungla cruza el río más rápido para llegar a tu línea, y tú ves si el rival viene."
+  },
+  {
+   "id": "broma",
+   "text": "Es como dejar una cámara de seguridad y una caminadora eléctrica en el río."
+  },
+  {
+   "id": "reaparece",
+   "text": "Cuando los dos primeros mueren, vuelve uno cada dos minutos y medio."
+  },
+  {
+   "id": "marca",
+   "text": "Y antes de reaparecer, el mapa marca dónde va a salir."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: el cangrejo es del jungla, pero un empujoncito de tu línea puede ayudar a ganarlo."
+  },
+  {
+   "id": "tip2",
+   "text": "Y no te metas al río solo por él: un cangrejo no vale tu vida."
+  },
+  {
+   "id": "pelea",
+   "text": "Si los dos junglas llegan al mismo tiempo, el cangrejo se vuelve la excusa para una pelea."
+  },
+  {
+   "id": "tip3",
+   "text": "Y ahí, el que tiene a su línea más cerca, normalmente gana."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona el cangrejo. Cada like es un cangrejo… que Teemo no va a probar.",
+   "voz": "Así funciona el cangrejo. Cada like es un cangrejo… que Timo no va a probar."
+  }
+ ]
+}

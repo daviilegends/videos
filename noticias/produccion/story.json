@@ -1,0 +1,18 @@
+{
+  "title": "¿Qué está pasando entre Estados Unidos e Irán?",
+  "fuentes": ["https://www.milenio.com/internacional/eu-ataca-isla-de-iran-a-unas-horas-de-elecciones-wsj",
+              "https://www.al-monitor.com/originals/2026/10/iran-war-has-cost-pentagon-more-47b-what-know"],
+  "scenes": [
+    {"id": "n1", "bg": "-", "text": "Estados Unidos volvió a atacar a Irán. ¿Qué está pasando, y qué podría venir después?"},
+    {"id": "n2", "bg": "-", "text": "Según The Wall Street Journal, el lunes 2 de noviembre Estados Unidos atacó la isla iraní de Qeshm, en el golfo Pérsico."},
+    {"id": "n3", "bg": "-", "text": "Qeshm está justo a la entrada del estrecho de Ormuz, por donde normalmente pasa cerca de una quinta parte del petróleo que se consume en el mundo."},
+    {"id": "n4", "bg": "-", "text": "En la isla hay una instalación subterránea de misiles, una base naval y una importante planta desalinizadora."},
+    {"id": "n5", "bg": "-", "text": "Funcionarios estadounidenses dicen que fue un ataque defensivo, para que Irán no pueda amenazar a los barcos comerciales, y que respondió al impacto contra una aeronave militar de Estados Unidos. El Comando Central todavía no lo ha anunciado oficialmente."},
+    {"id": "n6", "bg": "-", "text": "Y ocurrió una noche antes de las elecciones de medio mandato en Estados Unidos."},
+    {"id": "n7", "bg": "-", "text": "Trump dice que Estados Unidos ya ganó la guerra, y que ni siquiera se le puede llamar guerra, porque llevan meses sin combatir. Pero el Pentágono ha reforzado su presencia en la región y tiene listas opciones para ampliar los ataques."},
+    {"id": "n8", "bg": "-", "text": "Esta guerra empezó a finales de febrero, cuando Estados Unidos e Israel atacaron Irán. Hasta el 16 de octubre, ya había costado a los contribuyentes estadounidenses cuarenta y siete mil cien millones de dólares."},
+    {"id": "n9", "bg": "-", "text": "¿Qué podría pasar ahora? Si Irán responde, la tregua podría romperse y volver la guerra abierta. Cualquier amenaza en el estrecho de Ormuz puede disparar el precio del petróleo, y con él, el de la gasolina en todo el mundo."},
+    {"id": "n10", "bg": "-", "text": "Y en Estados Unidos, el costo de la guerra ya es tema de campaña. El resultado de las elecciones podría influir en lo que pase después."},
+    {"id": "n11", "bg": "-", "text": "Por ahora, Trump dice que prefiere un acuerdo con Teherán. Pero las opciones militares siguen sobre la mesa."}
+  ]
+}

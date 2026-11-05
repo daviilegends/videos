@@ -1,0 +1,344 @@
+[
+ {
+  "text": "Estados Unidos volvió a atacar a Irán.",
+  "start": 2.5,
+  "end": 5.22,
+  "sentence": 0
+ },
+ {
+  "text": "¿Qué está pasando,",
+  "start": 5.96,
+  "end": 6.98,
+  "sentence": 1
+ },
+ {
+  "text": "y qué podría venir después?",
+  "start": 7.54,
+  "end": 8.74,
+  "sentence": 1
+ },
+ {
+  "text": "Según The Wall Street Journal,",
+  "start": 10.58,
+  "end": 12.1,
+  "sentence": 2
+ },
+ {
+  "text": "el lunes 2 de noviembre Estados",
+  "start": 12.64,
+  "end": 13.88,
+  "sentence": 2
+ },
+ {
+  "text": "Unidos atacó la isla iraní de Qeshm,",
+  "start": 13.88,
+  "end": 15.96,
+  "sentence": 2
+ },
+ {
+  "text": "en el golfo Pérsico.",
+  "start": 16.42,
+  "end": 17.9,
+  "sentence": 2
+ },
+ {
+  "text": "Qeshm está justo a la entrada del",
+  "start": 20.32,
+  "end": 21.48,
+  "sentence": 3
+ },
+ {
+  "text": "estrecho de Ormuz,",
+  "start": 21.48,
+  "end": 21.96,
+  "sentence": 3
+ },
+ {
+  "text": "por donde normalmente pasa cerca de",
+  "start": 23.02,
+  "end": 24.84,
+  "sentence": 3
+ },
+ {
+  "text": "una quinta parte del petróleo que se",
+  "start": 24.84,
+  "end": 26.42,
+  "sentence": 3
+ },
+ {
+  "text": "consume en el mundo.",
+  "start": 26.42,
+  "end": 27.26,
+  "sentence": 3
+ },
+ {
+  "text": "En la isla hay una instalación",
+  "start": 28.98,
+  "end": 31.28,
+  "sentence": 4
+ },
+ {
+  "text": "subterránea de misiles,",
+  "start": 31.28,
+  "end": 32.3,
+  "sentence": 4
+ },
+ {
+  "text": "una base naval y una importante",
+  "start": 32.94,
+  "end": 34.78,
+  "sentence": 4
+ },
+ {
+  "text": "planta desalinizadora.",
+  "start": 34.78,
+  "end": 35.26,
+  "sentence": 4
+ },
+ {
+  "text": "Funcionarios estadounidenses dicen",
+  "start": 37.88,
+  "end": 40.16,
+  "sentence": 5
+ },
+ {
+  "text": "que fue un ataque defensivo,",
+  "start": 40.16,
+  "end": 41.46,
+  "sentence": 5
+ },
+ {
+  "text": "para que Irán no pueda amenazar a",
+  "start": 41.46,
+  "end": 43.36,
+  "sentence": 5
+ },
+ {
+  "text": "los barcos comerciales,",
+  "start": 43.36,
+  "end": 44.86,
+  "sentence": 5
+ },
+ {
+  "text": "y que respondió al impacto contra",
+  "start": 44.86,
+  "end": 46.68,
+  "sentence": 5
+ },
+ {
+  "text": "una aeronave militar de Estados Unidos.",
+  "start": 46.68,
+  "end": 48.22,
+  "sentence": 5
+ },
+ {
+  "text": "El Comando Central todavía no lo ha",
+  "start": 49.6,
+  "end": 51.84,
+  "sentence": 6
+ },
+ {
+  "text": "anunciado oficialmente.",
+  "start": 51.84,
+  "end": 52.9,
+  "sentence": 6
+ },
+ {
+  "text": "Y ocurrió una noche antes de las",
+  "start": 54.02,
+  "end": 55.94,
+  "sentence": 7
+ },
+ {
+  "text": "elecciones de medio mandato en",
+  "start": 55.94,
+  "end": 57.34,
+  "sentence": 7
+ },
+ {
+  "text": "Estados Unidos.",
+  "start": 57.34,
+  "end": 58.0,
+  "sentence": 7
+ },
+ {
+  "text": "Trump dice que Estados Unidos ya",
+  "start": 59.94,
+  "end": 61.84,
+  "sentence": 8
+ },
+ {
+  "text": "ganó la guerra,",
+  "start": 61.84,
+  "end": 62.4,
+  "sentence": 8
+ },
+ {
+  "text": "y que ni siquiera se le puede llamar",
+  "start": 62.4,
+  "end": 64.44,
+  "sentence": 8
+ },
+ {
+  "text": "guerra, porque llevan meses sin combatir.",
+  "start": 64.44,
+  "end": 66.82,
+  "sentence": 8
+ },
+ {
+  "text": "Pero el Pentágono ha reforzado su",
+  "start": 67.64,
+  "end": 69.46,
+  "sentence": 9
+ },
+ {
+  "text": "presencia en la región y tiene",
+  "start": 69.46,
+  "end": 71.22,
+  "sentence": 9
+ },
+ {
+  "text": "listas opciones para ampliar los ataques.",
+  "start": 71.22,
+  "end": 72.96,
+  "sentence": 9
+ },
+ {
+  "text": "Esta guerra empezó a finales de",
+  "start": 74.82,
+  "end": 76.9,
+  "sentence": 10
+ },
+ {
+  "text": "febrero, cuando Estados Unidos e",
+  "start": 76.9,
+  "end": 78.4,
+  "sentence": 10
+ },
+ {
+  "text": "Israel atacaron Irán.",
+  "start": 78.4,
+  "end": 79.4,
+  "sentence": 10
+ },
+ {
+  "text": "Hasta el 16 de octubre,",
+  "start": 80.32,
+  "end": 82.02,
+  "sentence": 11
+ },
+ {
+  "text": "ya había costado a los",
+  "start": 82.4,
+  "end": 83.48,
+  "sentence": 11
+ },
+ {
+  "text": "contribuyentes estadounidenses",
+  "start": 83.48,
+  "end": 84.86,
+  "sentence": 11
+ },
+ {
+  "text": "cuarenta y siete mil cien millones de dólares.",
+  "start": 86.0,
+  "end": 86.84,
+  "sentence": 11
+ },
+ {
+  "text": "¿Qué podría pasar ahora?",
+  "start": 88.6,
+  "end": 90.24,
+  "sentence": 12
+ },
+ {
+  "text": "Si Irán responde,",
+  "start": 91.44,
+  "end": 92.7,
+  "sentence": 13
+ },
+ {
+  "text": "la tregua podría romperse y volver",
+  "start": 93.18,
+  "end": 94.88,
+  "sentence": 13
+ },
+ {
+  "text": "la guerra abierta.",
+  "start": 94.88,
+  "end": 95.76,
+  "sentence": 13
+ },
+ {
+  "text": "Cualquier amenaza en el estrecho de",
+  "start": 97.32,
+  "end": 98.34,
+  "sentence": 14
+ },
+ {
+  "text": "Ormuz puede disparar el precio del",
+  "start": 98.7,
+  "end": 100.24,
+  "sentence": 14
+ },
+ {
+  "text": "petróleo, y con él,",
+  "start": 100.24,
+  "end": 101.7,
+  "sentence": 14
+ },
+ {
+  "text": "el de la gasolina en todo el mundo.",
+  "start": 101.7,
+  "end": 103.52,
+  "sentence": 14
+ },
+ {
+  "text": "Y en Estados Unidos,",
+  "start": 105.08,
+  "end": 106.04,
+  "sentence": 15
+ },
+ {
+  "text": "el costo de la guerra ya es tema de campaña.",
+  "start": 106.04,
+  "end": 109.3,
+  "sentence": 15
+ },
+ {
+  "text": "El resultado de las elecciones",
+  "start": 110.24,
+  "end": 111.68,
+  "sentence": 16
+ },
+ {
+  "text": "podría influir en lo que pase después.",
+  "start": 111.68,
+  "end": 113.9,
+  "sentence": 16
+ },
+ {
+  "text": "Por ahora, Trump dice que prefiere",
+  "start": 115.72,
+  "end": 118.18,
+  "sentence": 17
+ },
+ {
+  "text": "un acuerdo con Teherán.",
+  "start": 118.18,
+  "end": 118.9,
+  "sentence": 17
+ },
+ {
+  "text": "Pero las opciones militares siguen",
+  "start": 120.06,
+  "end": 121.98,
+  "sentence": 18
+ },
+ {
+  "text": "sobre la mesa.",
+  "start": 121.98,
+  "end": 122.62,
+  "sentence": 18
+ }
+]

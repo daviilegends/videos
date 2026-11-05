@@ -1,0 +1,107 @@
+{
+ "title": "Así se construye un green de golf",
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Quieres un green de golf, donde la bola ruede perfecto y nunca haya charcos."
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "etiqueta": "SUBRASANTE",
+   "text": "Primero moldeas el terreno con suaves desniveles. Eso es la subrasante."
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "etiqueta": "ESPINA DE PESCADO",
+   "text": "Excavas zanjas en forma de espina de pescado y metes tubos perforados."
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Cubres todo con una capa de grava."
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero si pones tierra normal, se compacta y el agua no baja."
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "etiqueta": "ZONA DE RAÍCES",
+   "text": "Entonces pones unos treinta centímetros de arena mezclada con un poco de turba. Eso es la zona de raíces."
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero la arena podría colarse entre las piedras y tapar el drenaje."
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Entonces eliges una grava del tamaño justo para que la arena se quede arriba."
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "La arena deja pasar el agua, y el cambio a grava hace que se quede justo la humedad que necesita el pasto."
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Aplanas la arena pisándola y pasando un rodillo, una y otra vez."
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "etiqueta": "RIEGO",
+   "text": "Alrededor instalas aspersores enterrados que riegan de noche."
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Siembras un pasto especial y lo cortas a unos tres milímetros."
+  },
+  {
+   "id": "b13",
+   "bg": "-",
+   "etiqueta": "COLLARÍN",
+   "text": "En la orilla dejas el pasto un poco más alto. Eso es el collarín."
+  },
+  {
+   "id": "b14",
+   "bg": "-",
+   "etiqueta": "BUNKER",
+   "text": "Junto al green excavas un hoyo y lo llenas de arena. Esa es la trampa de arena, o bunker."
+  },
+  {
+   "id": "b15",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero si el hoyo siempre está en el mismo lugar, los jugadores gastan el pasto alrededor."
+  },
+  {
+   "id": "b16",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Entonces cambias el hoyo de lugar con frecuencia, a veces cada día."
+  },
+  {
+   "id": "b17",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pones la bandera. Felicidades, construiste un green de golf."
+  }
+ ]
+}

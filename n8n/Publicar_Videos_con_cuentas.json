@@ -1,0 +1,1687 @@
+{
+ "name": "Publicar - Sticks, Minecraft, 3dpartes y League",
+ "nodes": [
+  {
+   "id": "subir-cola",
+   "name": "Subir cola",
+   "type": "n8n-nodes-base.manualTrigger",
+   "typeVersion": 1,
+   "position": [
+    0,
+    0
+   ],
+   "parameters": {}
+  },
+  {
+   "id": "leer-colas-y-reservar-horarios",
+   "name": "Leer colas y reservar horarios",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    220,
+    0
+   ],
+   "parameters": {
+    "command": "\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" programar"
+   }
+  },
+  {
+   "id": "videos-a-programar",
+   "name": "Videos a programar",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    440,
+    0
+   ],
+   "parameters": {
+    "jsCode": "const out = String($json.stdout || '').trim().split(/\\r?\\n/).pop();\nconst data = JSON.parse(out);\nfor (const o of data.omitidos) console.log('Omitido', o.proyecto, o.slug, o.problemas.join('; '));\nreturn data.videos.map(v => ({ json: v }));"
+   }
+  },
+  {
+   "id": "uno-por-uno",
+   "name": "Uno por uno",
+   "type": "n8n-nodes-base.splitInBatches",
+   "typeVersion": 3,
+   "position": [
+    560,
+    0
+   ],
+   "parameters": {
+    "batchSize": 1,
+    "options": {}
+   }
+  },
+  {
+   "id": "canal",
+   "name": "Canal",
+   "type": "n8n-nodes-base.switch",
+   "typeVersion": 3.2,
+   "position": [
+    700,
+    0
+   ],
+   "parameters": {
+    "rules": {
+     "values": [
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "sticks/youtube",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "sticks/youtube"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "minecraft/youtube",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "minecraft/youtube"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "3dpartes/youtube",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "3dpartes/youtube"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "league/youtube",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "league/youtube"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "sticks/facebook",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "sticks/facebook"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "minecraft/facebook",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "minecraft/facebook"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "3dpartes/facebook",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "3dpartes/facebook"
+      },
+      {
+       "conditions": {
+        "options": {
+         "caseSensitive": true,
+         "leftValue": "",
+         "typeValidation": "strict",
+         "version": 2
+        },
+        "combinator": "and",
+        "conditions": [
+         {
+          "leftValue": "={{ $json.ruta }}",
+          "rightValue": "league/facebook",
+          "operator": {
+           "type": "string",
+           "operation": "equals"
+          }
+         }
+        ]
+       },
+       "renameOutput": true,
+       "outputKey": "league/facebook"
+      }
+     ]
+    },
+    "options": {
+     "fallbackOutput": "extra"
+    }
+   }
+  },
+  {
+   "id": "leer-video-sticks-youtube",
+   "name": "Leer video sticks youtube",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    900,
+    -360
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "youtube-sticks",
+   "name": "YouTube sticks",
+   "type": "n8n-nodes-base.youTube",
+   "typeVersion": 1,
+   "position": [
+    1120,
+    -360
+   ],
+   "parameters": {
+    "resource": "video",
+    "operation": "upload",
+    "title": "={{ $('Uno por uno').item.json.titulo }}",
+    "regionCode": "MX",
+    "categoryId": "={{ $('Uno por uno').item.json.categoria }}",
+    "binaryProperty": "data",
+    "options": {
+     "description": "={{ $('Uno por uno').item.json.descripcion }}",
+     "tags": "={{ $('Uno por uno').item.json.tags }}",
+     "privacyStatus": "private",
+     "publishAt": "={{ $('Uno por uno').item.json.publishAt }}",
+     "selfDeclaredMadeForKids": "={{ false }}",
+     "defaultLanguage": "es",
+     "notifySubscribers": true
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "NnTmpM4UV41k2UwT",
+     "name": "YouTube account"
+    }
+   }
+  },
+  {
+   "id": "registrar-sticks-youtube",
+   "name": "Registrar sticks youtube",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    -360
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $json.id || $json.uploadId }}\""
+   }
+  },
+  {
+   "id": "leer-video-minecraft-youtube",
+   "name": "Leer video minecraft youtube",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    900,
+    -200
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "youtube-minecraft",
+   "name": "YouTube minecraft",
+   "type": "n8n-nodes-base.youTube",
+   "typeVersion": 1,
+   "position": [
+    1120,
+    -200
+   ],
+   "parameters": {
+    "resource": "video",
+    "operation": "upload",
+    "title": "={{ $('Uno por uno').item.json.titulo }}",
+    "regionCode": "MX",
+    "categoryId": "={{ $('Uno por uno').item.json.categoria }}",
+    "binaryProperty": "data",
+    "options": {
+     "description": "={{ $('Uno por uno').item.json.descripcion }}",
+     "tags": "={{ $('Uno por uno').item.json.tags }}",
+     "privacyStatus": "private",
+     "publishAt": "={{ $('Uno por uno').item.json.publishAt }}",
+     "selfDeclaredMadeForKids": "={{ false }}",
+     "defaultLanguage": "es",
+     "notifySubscribers": true
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "Za7TkeGfN2D8U8Ge",
+     "name": "YouTube account 3"
+    }
+   }
+  },
+  {
+   "id": "registrar-minecraft-youtube",
+   "name": "Registrar minecraft youtube",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    -200
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $json.id || $json.uploadId }}\""
+   }
+  },
+  {
+   "id": "leer-video-3dpartes-youtube",
+   "name": "Leer video 3dpartes youtube",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    900,
+    -40
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "youtube-3dpartes",
+   "name": "YouTube 3dpartes",
+   "type": "n8n-nodes-base.youTube",
+   "typeVersion": 1,
+   "position": [
+    1120,
+    -40
+   ],
+   "parameters": {
+    "resource": "video",
+    "operation": "upload",
+    "title": "={{ $('Uno por uno').item.json.titulo }}",
+    "regionCode": "MX",
+    "categoryId": "={{ $('Uno por uno').item.json.categoria }}",
+    "binaryProperty": "data",
+    "options": {
+     "description": "={{ $('Uno por uno').item.json.descripcion }}",
+     "tags": "={{ $('Uno por uno').item.json.tags }}",
+     "privacyStatus": "private",
+     "publishAt": "={{ $('Uno por uno').item.json.publishAt }}",
+     "selfDeclaredMadeForKids": "={{ false }}",
+     "defaultLanguage": "es",
+     "notifySubscribers": true
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "OhfBChzyVAI9gaHW",
+     "name": "YouTube account 4"
+    }
+   }
+  },
+  {
+   "id": "registrar-3dpartes-youtube",
+   "name": "Registrar 3dpartes youtube",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    -40
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $json.id || $json.uploadId }}\""
+   }
+  },
+  {
+   "id": "leer-video-league-youtube",
+   "name": "Leer video league youtube",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    900,
+    120
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "youtube-league",
+   "name": "YouTube league",
+   "type": "n8n-nodes-base.youTube",
+   "typeVersion": 1,
+   "position": [
+    1120,
+    120
+   ],
+   "parameters": {
+    "resource": "video",
+    "operation": "upload",
+    "title": "={{ $('Uno por uno').item.json.titulo }}",
+    "regionCode": "MX",
+    "categoryId": "={{ $('Uno por uno').item.json.categoria }}",
+    "binaryProperty": "data",
+    "options": {
+     "description": "={{ $('Uno por uno').item.json.descripcion }}",
+     "tags": "={{ $('Uno por uno').item.json.tags }}",
+     "privacyStatus": "private",
+     "publishAt": "={{ $('Uno por uno').item.json.publishAt }}",
+     "selfDeclaredMadeForKids": "={{ false }}",
+     "defaultLanguage": "es",
+     "notifySubscribers": true
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "youTubeOAuth2Api": {
+     "id": "yXNtWEOtIWz9lFwf",
+     "name": "YouTube account 5"
+    }
+   }
+  },
+  {
+   "id": "registrar-league-youtube",
+   "name": "Registrar league youtube",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    120
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $json.id || $json.uploadId }}\""
+   }
+  },
+  {
+   "id": "facebook-sticks-inicio",
+   "name": "Facebook sticks inicio",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    900,
+    280
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "start"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrSticks00001",
+     "name": "Facebook - Sticks"
+    }
+   }
+  },
+  {
+   "id": "leer-video-sticks-facebook",
+   "name": "Leer video sticks facebook",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    1120,
+    280
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "facebook-sticks-enviar",
+   "name": "Facebook sticks enviar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1340,
+    280
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "={{ $('Facebook sticks inicio').item.json.upload_url }}",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendHeaders": true,
+    "headerParameters": {
+     "parameters": [
+      {
+       "name": "offset",
+       "value": "0"
+      },
+      {
+       "name": "file_size",
+       "value": "={{ $('Uno por uno').item.json.tamano }}"
+      }
+     ]
+    },
+    "sendBody": true,
+    "contentType": "binaryData",
+    "inputDataFieldName": "data"
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrSticks00001",
+     "name": "Facebook - Sticks"
+    }
+   }
+  },
+  {
+   "id": "facebook-sticks-programar",
+   "name": "Facebook sticks programar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1560,
+    280
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "finish"
+      },
+      {
+       "name": "video_id",
+       "value": "={{ $('Facebook sticks inicio').item.json.video_id }}"
+      },
+      {
+       "name": "video_state",
+       "value": "SCHEDULED"
+      },
+      {
+       "name": "scheduled_publish_time",
+       "value": "={{ $('Uno por uno').item.json.publish_unix }}"
+      },
+      {
+       "name": "description",
+       "value": "={{ $('Uno por uno').item.json.descripcion }}"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrSticks00001",
+     "name": "Facebook - Sticks"
+    }
+   }
+  },
+  {
+   "id": "registrar-sticks-facebook",
+   "name": "Registrar sticks facebook",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    280
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $('Facebook sticks inicio').item.json.video_id }}\""
+   }
+  },
+  {
+   "id": "facebook-minecraft-inicio",
+   "name": "Facebook minecraft inicio",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    900,
+    440
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "start"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrMinecraft01",
+     "name": "Facebook - Minecraft"
+    }
+   }
+  },
+  {
+   "id": "leer-video-minecraft-facebook",
+   "name": "Leer video minecraft facebook",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    1120,
+    440
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "facebook-minecraft-enviar",
+   "name": "Facebook minecraft enviar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1340,
+    440
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "={{ $('Facebook minecraft inicio').item.json.upload_url }}",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendHeaders": true,
+    "headerParameters": {
+     "parameters": [
+      {
+       "name": "offset",
+       "value": "0"
+      },
+      {
+       "name": "file_size",
+       "value": "={{ $('Uno por uno').item.json.tamano }}"
+      }
+     ]
+    },
+    "sendBody": true,
+    "contentType": "binaryData",
+    "inputDataFieldName": "data"
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrMinecraft01",
+     "name": "Facebook - Minecraft"
+    }
+   }
+  },
+  {
+   "id": "facebook-minecraft-programar",
+   "name": "Facebook minecraft programar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1560,
+    440
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "finish"
+      },
+      {
+       "name": "video_id",
+       "value": "={{ $('Facebook minecraft inicio').item.json.video_id }}"
+      },
+      {
+       "name": "video_state",
+       "value": "SCHEDULED"
+      },
+      {
+       "name": "scheduled_publish_time",
+       "value": "={{ $('Uno por uno').item.json.publish_unix }}"
+      },
+      {
+       "name": "description",
+       "value": "={{ $('Uno por uno').item.json.descripcion }}"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrMinecraft01",
+     "name": "Facebook - Minecraft"
+    }
+   }
+  },
+  {
+   "id": "registrar-minecraft-facebook",
+   "name": "Registrar minecraft facebook",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    440
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $('Facebook minecraft inicio').item.json.video_id }}\""
+   }
+  },
+  {
+   "id": "facebook-3dpartes-inicio",
+   "name": "Facebook 3dpartes inicio",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    900,
+    600
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "start"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrMinecraft01",
+     "name": "Facebook - Minecraft"
+    }
+   }
+  },
+  {
+   "id": "leer-video-3dpartes-facebook",
+   "name": "Leer video 3dpartes facebook",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    1120,
+    600
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "facebook-3dpartes-enviar",
+   "name": "Facebook 3dpartes enviar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1340,
+    600
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "={{ $('Facebook 3dpartes inicio').item.json.upload_url }}",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendHeaders": true,
+    "headerParameters": {
+     "parameters": [
+      {
+       "name": "offset",
+       "value": "0"
+      },
+      {
+       "name": "file_size",
+       "value": "={{ $('Uno por uno').item.json.tamano }}"
+      }
+     ]
+    },
+    "sendBody": true,
+    "contentType": "binaryData",
+    "inputDataFieldName": "data"
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrMinecraft01",
+     "name": "Facebook - Minecraft"
+    }
+   }
+  },
+  {
+   "id": "facebook-3dpartes-programar",
+   "name": "Facebook 3dpartes programar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1560,
+    600
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "finish"
+      },
+      {
+       "name": "video_id",
+       "value": "={{ $('Facebook 3dpartes inicio').item.json.video_id }}"
+      },
+      {
+       "name": "video_state",
+       "value": "SCHEDULED"
+      },
+      {
+       "name": "scheduled_publish_time",
+       "value": "={{ $('Uno por uno').item.json.publish_unix }}"
+      },
+      {
+       "name": "description",
+       "value": "={{ $('Uno por uno').item.json.descripcion }}"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput",
+   "credentials": {
+    "httpHeaderAuth": {
+     "id": "FbHdrMinecraft01",
+     "name": "Facebook - Minecraft"
+    }
+   }
+  },
+  {
+   "id": "registrar-3dpartes-facebook",
+   "name": "Registrar 3dpartes facebook",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    600
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $('Facebook 3dpartes inicio').item.json.video_id }}\""
+   }
+  },
+  {
+   "id": "facebook-league-inicio",
+   "name": "Facebook league inicio",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    900,
+    760
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "start"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput"
+  },
+  {
+   "id": "leer-video-league-facebook",
+   "name": "Leer video league facebook",
+   "type": "n8n-nodes-base.readWriteFile",
+   "typeVersion": 1.1,
+   "position": [
+    1120,
+    760
+   ],
+   "parameters": {
+    "fileSelector": "={{ $('Uno por uno').item.json.archivo }}",
+    "options": {
+     "dataPropertyName": "data"
+    }
+   }
+  },
+  {
+   "id": "facebook-league-enviar",
+   "name": "Facebook league enviar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1340,
+    760
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "={{ $('Facebook league inicio').item.json.upload_url }}",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendHeaders": true,
+    "headerParameters": {
+     "parameters": [
+      {
+       "name": "offset",
+       "value": "0"
+      },
+      {
+       "name": "file_size",
+       "value": "={{ $('Uno por uno').item.json.tamano }}"
+      }
+     ]
+    },
+    "sendBody": true,
+    "contentType": "binaryData",
+    "inputDataFieldName": "data"
+   },
+   "onError": "continueErrorOutput"
+  },
+  {
+   "id": "facebook-league-programar",
+   "name": "Facebook league programar",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    1560,
+    760
+   ],
+   "parameters": {
+    "method": "POST",
+    "url": "=https://graph.facebook.com/v25.0/{{ $('Uno por uno').item.json.page_id }}/video_reels",
+    "options": {},
+    "authentication": "genericCredentialType",
+    "genericAuthType": "httpHeaderAuth",
+    "sendQuery": true,
+    "queryParameters": {
+     "parameters": [
+      {
+       "name": "upload_phase",
+       "value": "finish"
+      },
+      {
+       "name": "video_id",
+       "value": "={{ $('Facebook league inicio').item.json.video_id }}"
+      },
+      {
+       "name": "video_state",
+       "value": "SCHEDULED"
+      },
+      {
+       "name": "scheduled_publish_time",
+       "value": "={{ $('Uno por uno').item.json.publish_unix }}"
+      },
+      {
+       "name": "description",
+       "value": "={{ $('Uno por uno').item.json.descripcion }}"
+      }
+     ]
+    }
+   },
+   "onError": "continueErrorOutput"
+  },
+  {
+   "id": "registrar-league-facebook",
+   "name": "Registrar league facebook",
+   "type": "n8n-nodes-base.executeCommand",
+   "typeVersion": 1,
+   "position": [
+    1800,
+    760
+   ],
+   "parameters": {
+    "command": "=\"C:\\Users\\david\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\" \"C:\\videos-youtube\\publicar\\publicar.py\" registrar \"{{ $('Uno por uno').item.json.proyecto }}\" \"{{ $('Uno por uno').item.json.slug }}\" \"{{ $('Uno por uno').item.json.plataforma }}\" \"{{ $('Facebook league inicio').item.json.video_id }}\""
+   }
+  }
+ ],
+ "connections": {
+  "Subir cola": {
+   "main": [
+    [
+     {
+      "node": "Leer colas y reservar horarios",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer colas y reservar horarios": {
+   "main": [
+    [
+     {
+      "node": "Videos a programar",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Videos a programar": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Uno por uno": {
+   "main": [
+    [],
+    [
+     {
+      "node": "Canal",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Canal": {
+   "main": [
+    [
+     {
+      "node": "Leer video sticks youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Leer video minecraft youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Leer video 3dpartes youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Leer video league youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Facebook sticks inicio",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Facebook minecraft inicio",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Facebook 3dpartes inicio",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Facebook league inicio",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video sticks youtube": {
+   "main": [
+    [
+     {
+      "node": "YouTube sticks",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "YouTube sticks": {
+   "main": [
+    [
+     {
+      "node": "Registrar sticks youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar sticks youtube": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video minecraft youtube": {
+   "main": [
+    [
+     {
+      "node": "YouTube minecraft",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "YouTube minecraft": {
+   "main": [
+    [
+     {
+      "node": "Registrar minecraft youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar minecraft youtube": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video 3dpartes youtube": {
+   "main": [
+    [
+     {
+      "node": "YouTube 3dpartes",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "YouTube 3dpartes": {
+   "main": [
+    [
+     {
+      "node": "Registrar 3dpartes youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar 3dpartes youtube": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video league youtube": {
+   "main": [
+    [
+     {
+      "node": "YouTube league",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "YouTube league": {
+   "main": [
+    [
+     {
+      "node": "Registrar league youtube",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar league youtube": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook sticks inicio": {
+   "main": [
+    [
+     {
+      "node": "Leer video sticks facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video sticks facebook": {
+   "main": [
+    [
+     {
+      "node": "Facebook sticks enviar",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook sticks enviar": {
+   "main": [
+    [
+     {
+      "node": "Facebook sticks programar",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook sticks programar": {
+   "main": [
+    [
+     {
+      "node": "Registrar sticks facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar sticks facebook": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook minecraft inicio": {
+   "main": [
+    [
+     {
+      "node": "Leer video minecraft facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video minecraft facebook": {
+   "main": [
+    [
+     {
+      "node": "Facebook minecraft enviar",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook minecraft enviar": {
+   "main": [
+    [
+     {
+      "node": "Facebook minecraft programar",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook minecraft programar": {
+   "main": [
+    [
+     {
+      "node": "Registrar minecraft facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar minecraft facebook": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook 3dpartes inicio": {
+   "main": [
+    [
+     {
+      "node": "Leer video 3dpartes facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video 3dpartes facebook": {
+   "main": [
+    [
+     {
+      "node": "Facebook 3dpartes enviar",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook 3dpartes enviar": {
+   "main": [
+    [
+     {
+      "node": "Facebook 3dpartes programar",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook 3dpartes programar": {
+   "main": [
+    [
+     {
+      "node": "Registrar 3dpartes facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar 3dpartes facebook": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook league inicio": {
+   "main": [
+    [
+     {
+      "node": "Leer video league facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Leer video league facebook": {
+   "main": [
+    [
+     {
+      "node": "Facebook league enviar",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook league enviar": {
+   "main": [
+    [
+     {
+      "node": "Facebook league programar",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Facebook league programar": {
+   "main": [
+    [
+     {
+      "node": "Registrar league facebook",
+      "type": "main",
+      "index": 0
+     }
+    ],
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Registrar league facebook": {
+   "main": [
+    [
+     {
+      "node": "Uno por uno",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  }
+ },
+ "settings": {
+  "executionOrder": "v1"
+ },
+ "pinData": {},
+ "id": "cvHYU1egB3yJvIWA",
+ "active": false,
+ "versionId": "6689d518-7082-4775-b297-799a49965a2e",
+ "meta": {
+  "templateCredsSetupCompleted": true
+ },
+ "tags": [],
+ "staticData": null
+}

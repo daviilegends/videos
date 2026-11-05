@@ -1,0 +1,283 @@
+{
+ "duration": 90.796,
+ "scenes": [
+  {
+   "id": "b1",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 0.3,
+   "end": 5.933,
+   "lines": [
+    {
+     "en": "",
+     "es": "Quieres hacer una fritura crujiente, ligerita y llena de queso. Pero el maíz es duro como una piedra.",
+     "texto": "Quieres hacer una fritura crujiente, ligerita y llena de queso. Pero el maíz es duro como una piedra.",
+     "nombra": false,
+     "start": 0.3,
+     "end": 5.653
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "etiqueta": "SÉMOLA",
+   "termino_en": "",
+   "start": 5.933,
+   "end": 11.232,
+   "lines": [
+    {
+     "en": "",
+     "es": "Primero lo mueles entre rodillos de acero hasta dejarlo como arena fina.",
+     "texto": "Primero lo mueles entre rodillos de acero hasta dejarlo como arena fina.",
+     "nombra": true,
+     "start": 5.933,
+     "end": 9.417
+    },
+    {
+     "en": "",
+     "es": "Eso es la sémola de maíz.",
+     "texto": "Eso es la sémola de maíz.",
+     "nombra": false,
+     "start": 9.537,
+     "end": 10.952
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 11.232,
+   "end": 16.261,
+   "lines": [
+    {
+     "en": "",
+     "es": "Le agregas un poco de agua y lo mezclas hasta tener una masa húmeda, pero no aguada.",
+     "texto": "Le agregas un poco de agua y lo mezclas hasta tener una masa húmeda, pero no aguada.",
+     "nombra": false,
+     "start": 11.232,
+     "end": 15.98
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 16.261,
+   "end": 20.92,
+   "lines": [
+    {
+     "en": "",
+     "es": "Pero si la horneas así, te sale una galleta dura y plana. Nada crujiente.",
+     "texto": "Pero si la horneas así, te sale una galleta dura y plana. Nada crujiente.",
+     "nombra": false,
+     "start": 16.261,
+     "end": 20.64
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "etiqueta": "EXTRUSOR",
+   "termino_en": "",
+   "start": 20.92,
+   "end": 30.461,
+   "lines": [
+    {
+     "en": "",
+     "es": "Entonces la metes a una máquina con un tornillo gigante que gira dentro de un tubo.",
+     "texto": "Entonces la metes a una máquina con un tornillo gigante que gira dentro de un tubo.",
+     "nombra": false,
+     "start": 20.92,
+     "end": 24.979
+    },
+    {
+     "en": "",
+     "es": "El tornillo la aprieta tanto que la fricción la calienta a más de cien grados.",
+     "texto": "El tornillo la aprieta tanto que la fricción la calienta a más de cien grados.",
+     "nombra": true,
+     "start": 25.099,
+     "end": 28.916
+    },
+    {
+     "en": "",
+     "es": "Eso es el extrusor.",
+     "texto": "Eso es el extrusor.",
+     "nombra": false,
+     "start": 29.036,
+     "end": 30.181
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 30.461,
+   "end": 35.865,
+   "lines": [
+    {
+     "en": "",
+     "es": "Ahí adentro, el agua quiere hervir, pero la presión es tan alta que no la deja convertirse en vapor.",
+     "texto": "Ahí adentro, el agua quiere hervir, pero la presión es tan alta que no la deja convertirse en vapor.",
+     "nombra": false,
+     "start": 30.461,
+     "end": 35.585
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "etiqueta": "EXPANSIÓN",
+   "termino_en": "",
+   "start": 35.865,
+   "end": 45.272,
+   "lines": [
+    {
+     "en": "",
+     "es": "Al final del tubo hay un agujerito. Cuando la masa sale, la presión desaparece de golpe.",
+     "texto": "Al final del tubo hay un agujerito. Cuando la masa sale, la presión desaparece de golpe.",
+     "nombra": false,
+     "start": 35.865,
+     "end": 41.125
+    },
+    {
+     "en": "",
+     "es": "El agua se vuelve vapor en un instante, y la masa se infla como palomita.",
+     "texto": "El agua se vuelve vapor en un instante, y la masa se infla como palomita.",
+     "nombra": true,
+     "start": 41.245,
+     "end": 44.992
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "etiqueta": "CUCHILLA ROTATORIA",
+   "termino_en": "",
+   "start": 45.272,
+   "end": 49.766,
+   "lines": [
+    {
+     "en": "",
+     "es": "Pegada al agujero gira una cuchilla que la corta en pedacitos, miles por minuto.",
+     "texto": "Pegada al agujero gira una cuchilla que la corta en pedacitos, miles por minuto.",
+     "nombra": true,
+     "start": 45.272,
+     "end": 49.486
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "etiqueta": "HORNO DE SECADO",
+   "termino_en": "",
+   "start": 49.766,
+   "end": 57.119,
+   "lines": [
+    {
+     "en": "",
+     "es": "Pero todavía están húmedas y se ponen chiclosas. Entonces pasan por un horno larguísimo que les saca el agua, hasta que truenan.",
+     "texto": "Pero todavía están húmedas y se ponen chiclosas. Entonces pasan por un horno larguísimo que les saca el agua, hasta que truenan.",
+     "nombra": true,
+     "start": 49.766,
+     "end": 56.839
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 57.119,
+   "end": 62.62,
+   "lines": [
+    {
+     "en": "",
+     "es": "Ahora el sabor. Pero si les echas polvo de queso así nada más, se resbala y se cae.",
+     "texto": "Ahora el sabor. Pero si les echas polvo de queso así nada más, se resbala y se cae.",
+     "nombra": false,
+     "start": 57.119,
+     "end": 62.34
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "etiqueta": "TAMBOR SAZONADOR",
+   "termino_en": "",
+   "start": 62.62,
+   "end": 70.184,
+   "lines": [
+    {
+     "en": "",
+     "es": "Entonces las metes a un tambor que da vueltas. Primero las rocían con aceite, y luego les cae una lluvia de queso que ahora sí se queda pegada.",
+     "texto": "Entonces las metes a un tambor que da vueltas. Primero las rocían con aceite, y luego les cae una lluvia de queso que ahora sí se queda pegada.",
+     "nombra": true,
+     "start": 62.62,
+     "end": 69.904
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "etiqueta": "BÁSCULA MULTICABEZAL",
+   "termino_en": "",
+   "start": 70.184,
+   "end": 76.008,
+   "lines": [
+    {
+     "en": "",
+     "es": "Una báscula con muchas cubetas pesa porciones al mismo tiempo, y junta justo las que suman lo de una bolsa.",
+     "texto": "Una báscula con muchas cubetas pesa porciones al mismo tiempo, y junta justo las que suman lo de una bolsa.",
+     "nombra": true,
+     "start": 70.184,
+     "end": 75.728
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "etiqueta": "NITRÓGENO",
+   "termino_en": "",
+   "start": 76.008,
+   "end": 84.946,
+   "lines": [
+    {
+     "en": "",
+     "es": "Pero con aire normal, el aceite se echa a perder y las frituras se aplastan.",
+     "texto": "Pero con aire normal, el aceite se echa a perder y las frituras se aplastan.",
+     "nombra": false,
+     "start": 76.008,
+     "end": 79.951
+    },
+    {
+     "en": "",
+     "es": "Entonces llenan la bolsa de nitrógeno. Cuida el sabor y funciona como colchón.",
+     "texto": "Entonces llenan la bolsa de nitrógeno. Cuida el sabor y funciona como colchón.",
+     "nombra": true,
+     "start": 80.071,
+     "end": 84.666
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "etiqueta": "",
+   "termino_en": "",
+   "start": 84.946,
+   "end": 89.996,
+   "lines": [
+    {
+     "en": "",
+     "es": "Y por eso tus dedos quedan naranjas. Felicidades, hiciste una fritura de queso.",
+     "texto": "Y por eso tus dedos quedan naranjas. Felicidades, hiciste una fritura de queso.",
+     "nombra": false,
+     "start": 84.946,
+     "end": 89.716
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "titulo": "El tiempo de reaparición: por qué morir tarde cuesta tanto",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Death (BRW 10 s at lvl 1 to 52.5 s at lvl 18; time factor after 15:00, cap +50%; max 78.75 s)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué al principio revives casi al instante, y al final esperas una eternidad?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es tu imaginación. El juego te castiga más entre más dura la partida."
+  },
+  {
+   "id": "nivel",
+   "text": "El tiempo para revivir depende primero de tu nivel."
+  },
+  {
+   "id": "uno",
+   "text": "En nivel uno esperas diez segundos."
+  },
+  {
+   "id": "dieciocho",
+   "text": "En nivel dieciocho, cincuenta y dos segundos y medio."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: antes del minuto quince, morir en nivel seis te deja dieciséis segundos fuera. En nivel once, treinta y cinco."
+  },
+  {
+   "id": "tiempo",
+   "text": "Y desde el minuto quince, la partida le va sumando un extra que crece cada medio minuto."
+  },
+  {
+   "id": "tope",
+   "text": "Ese extra tiene un límite: cincuenta por ciento más."
+  },
+  {
+   "id": "maximo",
+   "text": "O sea, lo máximo que puedes esperar es setenta y ocho segundos y tres cuartos."
+  },
+  {
+   "id": "broma",
+   "text": "Casi un minuto y medio viendo la pantalla gris. Suficiente para prepararte un café… y arrepentirte."
+  },
+  {
+   "id": "por_que",
+   "text": "¿Por qué importa? Porque mientras estás muerto, tu equipo juega con uno menos."
+  },
+  {
+   "id": "tarde",
+   "text": "Al final de la partida, una muerte puede costar un barón, un inhibidor, o el nexo."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: entre más avanzada la partida, más vale tu vida. No te arriesgues por poquito."
+  },
+  {
+   "id": "tip2",
+   "text": "Y al revés: si matas a alguien tarde, tienes casi un minuto para hacer algo grande."
+  },
+  {
+   "id": "tip3",
+   "text": "Y ojo con las peleas en el minuto treinta: una muerte ahí pesa muchísimo."
+  },
+  {
+   "id": "tip4",
+   "text": "Antes de pelear tarde, pregúntate: ¿vale la pena casi un minuto fuera?"
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona el tiempo de reaparición. Cada like es un minuto más… para Teemo en la pantalla gris.",
+   "voz": "Así funciona el tiempo de reaparición. Cada like es un minuto más… para Timo en la pantalla gris."
+  }
+ ]
+}

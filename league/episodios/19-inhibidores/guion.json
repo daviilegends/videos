@@ -1,0 +1,77 @@
+{
+ "titulo": "Inhibidores y súper súbditos",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Inhibitor (super minions in that lane; 2 per lane if all 3; respawn 5 min; 4000 hp; nexus turrets attackable after one falls)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Qué pasa cuando destruyes un inhibidor?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Es el momento en que la partida empieza a cerrarse."
+  },
+  {
+   "id": "que",
+   "text": "Los inhibidores son los cristales que están al final de cada línea, dentro de la base."
+  },
+  {
+   "id": "super",
+   "text": "Si destruyes uno, tu base empieza a mandar súper súbditos en esa línea, en cada oleada."
+  },
+  {
+   "id": "presion",
+   "text": "Son enormes, aguantan muchísimo y pegan fuerte: empujan la línea casi solos."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: tú regresas a base a comprar, y tus súper súbditos siguen empujando por ti."
+  },
+  {
+   "id": "tres",
+   "text": "Si destruyes los tres, salen dos súper súbditos por línea en cada oleada."
+  },
+  {
+   "id": "broma",
+   "text": "Los súper súbditos son como el primo grandote que trae tu mamá a defenderte."
+  },
+  {
+   "id": "vuelve",
+   "text": "Pero el inhibidor no se queda roto para siempre: reaparece a los cinco minutos."
+  },
+  {
+   "id": "aviso",
+   "text": "Unos quince segundos antes, el anunciador avisa que está por volver."
+  },
+  {
+   "id": "nexo",
+   "text": "Y en cuanto cae un inhibidor, las torres del nexo y el nexo ya se pueden atacar."
+  },
+  {
+   "id": "vida",
+   "text": "Un inhibidor tiene cuatro mil de vida, y se regenera poco a poco."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: tirar un inhibidor te da presión aunque te retires a base."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si te tiran uno a ti, no pelees lejos: esos súper súbditos van a llegar a tu base."
+  },
+  {
+   "id": "tip3",
+   "text": "Mátalos rápido, con tu equipo cerca, antes de que lleguen las siguientes oleadas."
+  },
+  {
+   "id": "tip4",
+   "text": "Y si el rival tiene los tres, cuidado: dos súper súbditos por línea son mucha presión."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funcionan los inhibidores. Cada like es un súper súbdito… persiguiendo a Teemo.",
+   "voz": "Así funcionan los inhibidores. Cada like es un súper súbdito… persiguiendo a Timo."
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "duration": 98.46,
+ "scenes": [
+  {
+   "id": "c1",
+   "bg": "carretera",
+   "start": 0.3,
+   "end": 8.1,
+   "lines": [
+    {
+     "text": "Son las dos de la mañana.",
+     "start": 0.3,
+     "end": 2.06
+    },
+    {
+     "text": "Manejas solo por una carretera en medio del desierto, y la aguja de la gasolina ya está en rojo.",
+     "start": 2.26,
+     "end": 7.7
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "bg": "letrero",
+   "start": 8.1,
+   "end": 15.9,
+   "lines": [
+    {
+     "text": "Entre la oscuridad aparece un letrero: Gasolinera, dos kilómetros.",
+     "start": 8.1,
+     "end": 13.54
+    },
+    {
+     "text": "Respiras tranquilo.",
+     "start": 13.74,
+     "end": 15.5
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "bg": "gasolinera",
+   "start": 15.9,
+   "end": 23.38,
+   "lines": [
+    {
+     "text": "Llegas.",
+     "start": 15.9,
+     "end": 17.5
+    },
+    {
+     "text": "Es una gasolinera vieja, con una sola bomba y un letrero de neón que parpadea.",
+     "start": 17.7,
+     "end": 22.98
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "bg": "tienda",
+   "start": 23.38,
+   "end": 33.42,
+   "lines": [
+    {
+     "text": "Adentro, un señor de gorra roja te cobra sin decir una palabra.",
+     "start": 23.38,
+     "end": 28.5
+    },
+    {
+     "text": "Detrás de él, un reloj marca las dos y diecisiete.",
+     "start": 28.7,
+     "end": 33.02
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "bg": "gasolinera",
+   "start": 33.42,
+   "end": 38.78,
+   "lines": [
+    {
+     "text": "Llenas el tanque, guardas tu ticket en la bolsa y vuelves a la carretera.",
+     "start": 33.42,
+     "end": 38.38
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "bg": "letrero",
+   "start": 38.78,
+   "end": 48.86,
+   "lines": [
+    {
+     "text": "Veinte minutos después, otro letrero.",
+     "start": 38.78,
+     "end": 42.14
+    },
+    {
+     "text": "Gasolinera, dos kilómetros.",
+     "start": 42.34,
+     "end": 45.54
+    },
+    {
+     "text": "Debe ser otra, piensas.",
+     "start": 45.74,
+     "end": 48.46
+    }
+   ]
+  },
+  {
+   "id": "c7",
+   "bg": "gasolinera",
+   "start": 48.86,
+   "end": 58.3,
+   "lines": [
+    {
+     "text": "Pero es la misma.",
+     "start": 48.86,
+     "end": 50.62
+    },
+    {
+     "text": "La misma bomba, el mismo neón.",
+     "start": 50.82,
+     "end": 54.18
+    },
+    {
+     "text": "Y en el piso, junto a la bomba, está tu ticket.",
+     "start": 54.38,
+     "end": 57.9
+    }
+   ]
+  },
+  {
+   "id": "c8",
+   "bg": "tienda",
+   "start": 58.3,
+   "end": 67.54,
+   "lines": [
+    {
+     "text": "El señor de la gorra roja levanta la vista y dice: otra vez tú.",
+     "start": 58.3,
+     "end": 63.1
+    },
+    {
+     "text": "El reloj sigue marcando las dos y diecisiete.",
+     "start": 63.3,
+     "end": 67.14
+    }
+   ]
+  },
+  {
+   "id": "c9",
+   "bg": "carretera",
+   "start": 67.54,
+   "end": 75.82,
+   "lines": [
+    {
+     "text": "Te subes al coche, das media vuelta y aceleras en dirección contraria.",
+     "start": 67.54,
+     "end": 72.82
+    },
+    {
+     "text": "Esta vez no te vas a detener.",
+     "start": 73.02,
+     "end": 75.42
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "bg": "letrero",
+   "start": 75.82,
+   "end": 78.78,
+   "lines": [
+    {
+     "text": "Gasolinera, dos kilómetros.",
+     "start": 75.82,
+     "end": 78.38
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "bg": "gasolinera",
+   "start": 78.78,
+   "end": 88.86,
+   "lines": [
+    {
+     "text": "Esta vez ya hay un coche en la bomba.",
+     "start": 78.78,
+     "end": 81.34
+    },
+    {
+     "text": "Es igual al tuyo, con la misma placa.",
+     "start": 81.54,
+     "end": 84.42
+    },
+    {
+     "text": "Y junto a él, alguien con tu ropa está llenando el tanque.",
+     "start": 84.62,
+     "end": 88.46
+    }
+   ]
+  },
+  {
+   "id": "c12",
+   "bg": "tienda",
+   "start": 88.86,
+   "end": 98.46,
+   "lines": [
+    {
+     "text": "El señor de la gorra roja suspira.",
+     "start": 88.86,
+     "end": 91.26
+    },
+    {
+     "text": "Ya van muchas vueltas esta noche, te dice.",
+     "start": 91.46,
+     "end": 94.98
+    },
+    {
+     "text": "Y el reloj sigue marcando las dos y diecisiete.",
+     "start": 95.18,
+     "end": 98.06
+    }
+   ]
+  }
+ ]
+}

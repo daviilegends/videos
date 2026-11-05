@@ -1,0 +1,77 @@
+{
+ "titulo": "El arbusto no te hace invisible para siempre",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Brush (hidden until sight is granted; targeted attacks/abilities reveal 300 radius for 2 s)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Te escondiste en el arbusto, y aun así te encontraron? Hoy te digo por qué."
+  },
+  {
+   "id": "spoiler",
+   "text": "Spoiler: no es magia. Son reglas, y hoy te las enseño."
+  },
+  {
+   "id": "regla",
+   "text": "Dentro de un arbusto, los enemigos que están afuera no te ven."
+  },
+  {
+   "id": "broma",
+   "text": "Ahí te sientes ninja de película. Pero cuidado."
+  },
+  {
+   "id": "ward",
+   "text": "Si alguien pone visión dentro del arbusto, por ejemplo un guardián, te ven completito."
+  },
+  {
+   "id": "vision",
+   "text": "Cualquier tipo de visión sobre el arbusto te revela."
+  },
+  {
+   "id": "ejemplos",
+   "text": "Un guardián, un aliado parado adentro, o una habilidad que da visión: todo cuenta."
+  },
+  {
+   "id": "ataque",
+   "text": "Y aquí está el error clásico: si haces un ataque o una habilidad con objetivo desde el arbusto,"
+  },
+  {
+   "id": "revela",
+   "text": "te revelas durante dos segundos, en un radio de trescientas unidades a tu alrededor."
+  },
+  {
+   "id": "broma2",
+   "text": "O sea, tú solito prendes la luz del escondite."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Imagina: el rival pasa, tú lo golpeas desde el arbusto… y de repente brillas como árbol de Navidad."
+  },
+  {
+   "id": "dos",
+   "text": "Dos segundos parecen nada, pero alcanzan para que te vean y te persigan."
+  },
+  {
+   "id": "tip1",
+   "text": "Consejo de la profe: si vas a emboscar, entra al arbusto antes de que te vean."
+  },
+  {
+   "id": "tip2",
+   "text": "Y cuando ataques, que sea para rematar, no para avisar."
+  },
+  {
+   "id": "tip3",
+   "text": "Y si pasas junto a un arbusto sin visión… mejor sospecha."
+  },
+  {
+   "id": "tip4",
+   "text": "Y tú también puedes usar visión para revisar un arbusto antes de entrar."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona el arbusto. Cada like es un guardián en el arbusto donde se esconde Teemo.",
+   "voz": "Así funciona el arbusto. Cada like es un guardián en el arbusto donde se esconde Timo."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "estilo": "Hand-drawn 2D cartoon background illustration, thick slightly irregular black ink outlines, flat colors with soft cel shading, graphic novel web cartoon style. Very dark low-key night scene in a lonely desert, deep shadows, eerie liminal horror atmosphere, muted desaturated palette of dark teal, slate blue, dusty ochre and sickly green, highly detailed environment, wide cinematic composition. Empty scene with no people, no characters, no cars, no text, no letters, no numbers.",
+  "fondos": {
+    "carretera": [
+      503,
+      "Side view of an empty two-lane desert highway at night running straight from the left edge to the right edge across the lower third of the image, dashed center line, flat sandy desert with dry bushes and cactus behind the road, distant dark mountains, starry night sky with a thin crescent moon, the asphalt road completely clear."
+    ],
+    "letrero": [
+      511,
+      "Frontal view of a tall old roadside billboard sign beside a desert highway at night, the sign is a big completely blank pale rectangle on two wooden posts in the middle of the frame, lit from below by pale light, the edge of the asphalt road at the bottom, dark desert and starry sky behind."
+    ],
+    "gasolinera": [
+      523,
+      "Frontal wide view of an old lonely gas station in the desert at night. A single old fuel pump in the middle under a small flat canopy with a flickering fluorescent tube, a small convenience store building on the right with a lit glass door and a window, a blank empty rectangular sign board on a pole on the left, cracked concrete floor completely clear in the foreground, dark desert and starry sky behind."
+    ],
+    "tienda": [
+      531,
+      "Inside a small old convenience store at night, frontal view. A long counter with an old cash register in the middle, shelves with snacks and bottles on the back wall, a big plain round white wall clock with a blank face hanging above the shelves, a glass door on the left with the dark night outside, worn tiled floor completely clear in the foreground, sickly greenish fluorescent light, no moon."
+    ]
+  }
+}

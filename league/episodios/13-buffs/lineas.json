@@ -1,0 +1,104 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Qué tienen de especial el buff azul y el buff rojo de la jungla?",
+  "start": 0.25,
+  "end": 2.857
+ },
+ {
+  "id": "spoiler",
+  "text": "No son solo colores bonitos: cambian cómo juega tu campeón.",
+  "start": 3.277,
+  "end": 5.954
+ },
+ {
+  "id": "donde",
+  "text": "Los sueltan dos monstruos grandes de la jungla: uno azul y uno rojo.",
+  "start": 6.374,
+  "end": 9.667
+ },
+ {
+  "id": "azul",
+  "text": "El azul te da aceleración de habilidades: tus hechizos vuelven más rápido.",
+  "start": 10.087,
+  "end": 13.328
+ },
+ {
+  "id": "azul2",
+  "text": "Y además, mucha regeneración de maná, o de energía si tu campeón la usa.",
+  "start": 13.748,
+  "end": 17.237
+ },
+ {
+  "id": "rojo",
+  "text": "El rojo hace que tus ataques básicos quemen y ralenticen al enemigo.",
+  "start": 17.657,
+  "end": 20.571
+ },
+ {
+  "id": "rojo2",
+  "text": "Y cuando no estás peleando, te va regenerando vida.",
+  "start": 20.991,
+  "end": 23.307
+ },
+ {
+  "id": "ejemplo",
+  "text": "Ejemplo: un tirador con el rojo ralentiza a quien persigue, y es muy difícil escaparle.",
+  "start": 23.727,
+  "end": 27.76
+ },
+ {
+  "id": "dura",
+  "text": "Los dos duran ciento veinte segundos.",
+  "start": 28.18,
+  "end": 29.748
+ },
+ {
+  "id": "roba",
+  "text": "Y aquí viene lo bueno: si un enemigo te mata con el buff puesto, se lo lleva.",
+  "start": 30.168,
+  "end": 33.941
+ },
+ {
+  "id": "broma",
+  "text": "Es como si te asaltaran y además se llevaran tu torta.",
+  "start": 34.361,
+  "end": 36.618
+ },
+ {
+  "id": "inversa",
+  "text": "Y si tú matas a alguien que lo trae, el buff es tuyo, y se reinicia su tiempo.",
+  "start": 37.038,
+  "end": 40.379
+ },
+ {
+  "id": "quien",
+  "text": "¿Quién lo necesita más? El azul, los que gastan mucho maná. El rojo, los que pegan con ataques básicos.",
+  "start": 40.799,
+  "end": 45.838
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: si llevas un buff, no te arriesgues de más. Si mueres, se lo regalas.",
+  "start": 46.258,
+  "end": 50.302
+ },
+ {
+  "id": "tip2",
+  "text": "Y si ves al rival brillando de azul o rojo, ese es un premio extra.",
+  "start": 50.722,
+  "end": 53.754
+ },
+ {
+  "id": "jungla",
+  "text": "Y si eres el jungla, recuerda que tu equipo también los puede necesitar.",
+  "start": 54.174,
+  "end": 57.135
+ },
+ {
+  "id": "cierre",
+  "text": "Así funcionan los buffs. Cada like es un buff rojo… quemando a Teemo.",
+  "start": 57.555,
+  "end": 60.776
+ }
+]

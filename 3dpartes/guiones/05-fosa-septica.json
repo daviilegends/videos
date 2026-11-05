@@ -1,0 +1,113 @@
+{
+ "title": "Así se construye una fosa séptica",
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Vives en el campo y no hay drenaje. ¿A dónde van las aguas del baño?"
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Si las tiras al suelo, contaminan el pozo de agua de tus vecinos."
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Primero eliges un lugar más bajo que la casa y lejos del pozo de agua."
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "etiqueta": "FOSA SÉPTICA",
+   "text": "Excavas y entierras un tanque. Eso es la fosa séptica."
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "etiqueta": "PENDIENTE",
+   "text": "Los tubos de la casa llegan con una pequeña inclinación, para que todo baje solo."
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero la grasa de la cocina se endurece y tapa los tubos."
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "etiqueta": "TRAMPA DE GRASAS",
+   "text": "Entonces antes pones una caja que la atrapa. Eso es la trampa de grasas."
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "etiqueta": "LODOS",
+   "text": "El agua entra al tanque y se queda quieta. Lo pesado se hunde y forma lodos."
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "etiqueta": "NATA",
+   "text": "La grasa que queda flota y forma una capa arriba. Eso es la nata."
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Unas bacterias que viven sin oxígeno se comen gran parte de los lodos."
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "etiqueta": "DOS CÁMARAS",
+   "text": "Divides el tanque con un muro, para que el agua se asiente dos veces antes de salir."
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "El agua de en medio, más limpia, sale por el otro lado. Pero todavía no está limpia del todo."
+  },
+  {
+   "id": "b13",
+   "bg": "-",
+   "etiqueta": "PRUEBA DE PERCOLACIÓN",
+   "text": "Haces un hoyo, lo llenas de agua y mides cuánto tarda en bajar, para saber cuánto terreno necesitas. Eso es la prueba de percolación."
+  },
+  {
+   "id": "b14",
+   "bg": "-",
+   "etiqueta": "CAMPO DE INFILTRACIÓN",
+   "text": "Entonces mandas el agua a tubos perforados enterrados en zanjas con grava, y el suelo termina de filtrarla. Eso es el campo de infiltración."
+  },
+  {
+   "id": "b15",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Pero los gases del tanque huelen mal y se acumulan."
+  },
+  {
+   "id": "b16",
+   "bg": "-",
+   "etiqueta": "VENTILACIÓN",
+   "text": "Entonces pones un tubo que los saca por encima del techo. Eso es la ventilación."
+  },
+  {
+   "id": "b17",
+   "bg": "-",
+   "etiqueta": "REGISTRO",
+   "text": "Dejas una tapa para sacar los lodos cada pocos años. Esa tapa es el registro."
+  },
+  {
+   "id": "b18",
+   "bg": "-",
+   "etiqueta": "",
+   "text": "Felicidades, construiste una fosa séptica."
+  }
+ ]
+}

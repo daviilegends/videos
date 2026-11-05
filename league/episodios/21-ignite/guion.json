@@ -1,0 +1,86 @@
+{
+ "titulo": "Ignite: quemar y cortar la curación",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Ignite (180 s cooldown, 600 range, true dmg over 5 s, Grievous Wounds 40% for 5 s, reveals target)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Por qué Ignite es el terror de los que se curan?",
+   "voz": "¿Por qué Ignait es el terror de los que se curan?"
+  },
+  {
+   "id": "spoiler",
+   "text": "Porque no solo quema. También corta la curación."
+  },
+  {
+   "id": "que",
+   "text": "Ignite quema al enemigo y le hace daño verdadero durante cinco segundos.",
+   "voz": "Ignait quema al enemigo y le hace daño verdadero durante cinco segundos."
+  },
+  {
+   "id": "verdadero",
+   "text": "Daño verdadero: no importa cuánta armadura o resistencia tenga."
+  },
+  {
+   "id": "heridas",
+   "text": "Pero lo más importante: le aplica heridas graves durante esos cinco segundos."
+  },
+  {
+   "id": "cuarenta",
+   "text": "Heridas graves reduce un cuarenta por ciento la curación que recibe, y su regeneración de vida."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Ejemplo: si el rival se iba a curar cien de vida, con Ignite solo recupera sesenta.",
+   "voz": "Ejemplo: si el rival se iba a curar cien de vida, con Ignait solo recupera sesenta."
+  },
+  {
+   "id": "broma",
+   "text": "Es como ponerle sal a la herida. Literal."
+  },
+  {
+   "id": "revela",
+   "text": "Y mientras quema, también lo revela, aunque se esconda en un arbusto."
+  },
+  {
+   "id": "rango",
+   "text": "Su alcance es de seiscientas unidades."
+  },
+  {
+   "id": "cd",
+   "text": "Pero tiene un enfriamiento de ciento ochenta segundos. Tres minutos."
+  },
+  {
+   "id": "comparacion",
+   "text": "Es menos que Flash, pero igual: si lo gastas mal, tienes que esperar."
+  },
+  {
+   "id": "cuando",
+   "text": "¿Cuándo usarlo? Cuando el rival está a punto de curarse, o cuando ya casi lo tienes."
+  },
+  {
+   "id": "no",
+   "text": "No lo uses al inicio de la pelea por emoción: guárdalo para rematar."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: si el rival tiene un sanador, Ignite le arruina el día.",
+   "voz": "Consejo de la profe: si el rival tiene un sanador, Ignait le arruina el día."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si eres tú el que se cura mucho, cuidado con el rival que lleva Ignite.",
+   "voz": "Y si eres tú el que se cura mucho, cuidado con el rival que lleva Ignait."
+  },
+  {
+   "id": "tip3",
+   "text": "Cuando lo veas brillar en su barra, aléjate antes de que te queme."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona Ignite. Cada like es un Ignite… en la herida de Teemo.",
+   "voz": "Así funciona Ignait. Cada like es un Ignait… en la herida de Timo."
+  }
+ ]
+}

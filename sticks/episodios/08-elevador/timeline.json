@@ -1,0 +1,210 @@
+{
+ "duration": 98.98,
+ "scenes": [
+  {
+   "id": "a1",
+   "bg": "lobby",
+   "start": 0.3,
+   "end": 2.78,
+   "lines": [
+    {
+     "text": "Son las ocho de la noche.",
+     "start": 0.3,
+     "end": 2.38
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "bg": "lobby",
+   "start": 2.78,
+   "end": 7.66,
+   "lines": [
+    {
+     "text": "Entras al elevador, presionas el botón de tu piso y comienzas a subir.",
+     "start": 2.78,
+     "end": 7.26
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "bg": "cabina",
+   "start": 7.66,
+   "end": 15.02,
+   "lines": [
+    {
+     "text": "Pero de repente...",
+     "start": 7.66,
+     "end": 9.42
+    },
+    {
+     "text": "Un golpe.",
+     "start": 9.62,
+     "end": 10.74
+    },
+    {
+     "text": "Las luces parpadean y el elevador se detiene.",
+     "start": 10.94,
+     "end": 14.62
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "bg": "cabina",
+   "start": 15.02,
+   "end": 25.14,
+   "lines": [
+    {
+     "text": "Presionas los botones.",
+     "start": 15.02,
+     "end": 17.26
+    },
+    {
+     "text": "Nada.",
+     "start": 17.46,
+     "end": 18.58
+    },
+    {
+     "text": "Intentas abrir las puertas, pero no se mueven.",
+     "start": 18.78,
+     "end": 22.46
+    },
+    {
+     "text": "Estás atrapado.",
+     "start": 22.66,
+     "end": 24.74
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "bg": "cabina",
+   "start": 25.14,
+   "end": 37.9,
+   "lines": [
+    {
+     "text": "Lo primero que debes saber es que un elevador detenido normalmente no significa que te estés quedando sin oxígeno.",
+     "start": 25.14,
+     "end": 32.02
+    },
+    {
+     "text": "Los elevadores tienen sistemas de ventilación y no son cajas herméticas.",
+     "start": 32.22,
+     "end": 37.5
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "bg": "cabina",
+   "start": 37.9,
+   "end": 51.82,
+   "lines": [
+    {
+     "text": "Pero el verdadero problema comienza cuando pasan las horas.",
+     "start": 37.9,
+     "end": 41.26
+    },
+    {
+     "text": "La ansiedad puede hacerte sentir que el espacio se vuelve cada vez más pequeño.",
+     "start": 41.46,
+     "end": 45.78
+    },
+    {
+     "text": "El cansancio, la sed y la incertidumbre pueden aumentar tu angustia.",
+     "start": 45.98,
+     "end": 51.42
+    }
+   ]
+  },
+  {
+   "id": "a7",
+   "bg": "cabina",
+   "start": 51.82,
+   "end": 63.38,
+   "lines": [
+    {
+     "text": "Intentas llamar a alguien, pero no tienes señal.",
+     "start": 51.82,
+     "end": 55.18
+    },
+    {
+     "text": "Golpeas la puerta y gritas esperando que alguien te escuche.",
+     "start": 55.38,
+     "end": 59.06
+    },
+    {
+     "text": "Pasan dos horas.",
+     "start": 59.26,
+     "end": 61.18
+    },
+    {
+     "text": "Después cinco.",
+     "start": 61.38,
+     "end": 62.98
+    }
+   ]
+  },
+  {
+   "id": "a8",
+   "bg": "cabina",
+   "start": 63.38,
+   "end": 78.94,
+   "lines": [
+    {
+     "text": "La temperatura y las condiciones del elevador dependerán de su ventilación, el edificio y el fallo que haya ocurrido.",
+     "start": 63.38,
+     "end": 70.42
+    },
+    {
+     "text": "Y entonces llega la madrugada.",
+     "start": 70.62,
+     "end": 72.38
+    },
+    {
+     "text": "Lo más difícil ya no es solamente estar encerrado.",
+     "start": 72.58,
+     "end": 75.78
+    },
+    {
+     "text": "Es no saber cuándo alguien va a encontrarte.",
+     "start": 75.98,
+     "end": 78.54
+    }
+   ]
+  },
+  {
+   "id": "a9",
+   "bg": "panel",
+   "start": 78.94,
+   "end": 90.58,
+   "lines": [
+    {
+     "text": "En una situación real, lo correcto es utilizar el botón de alarma o comunicación, pedir ayuda y esperar al personal de rescate.",
+     "start": 78.94,
+     "end": 87.58
+    },
+    {
+     "text": "Nunca intentar salir por tu cuenta.",
+     "start": 87.78,
+     "end": 90.18
+    }
+   ]
+  },
+  {
+   "id": "a10",
+   "bg": "hueco",
+   "start": 90.58,
+   "end": 98.98,
+   "lines": [
+    {
+     "text": "Porque un elevador detenido puede ser aterrador, pero intentar escapar sin ayuda puede convertirlo en una emergencia mucho más peligrosa.",
+     "start": 90.58,
+     "end": 98.58
+    }
+   ]
+  }
+ ]
+}

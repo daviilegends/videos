@@ -1,0 +1,191 @@
+{
+ "duration": 57.196,
+ "scenes": [
+  {
+   "id": "b1",
+   "bg": "-",
+   "start": 0.268,
+   "end": 3.339,
+   "lines": [
+    {
+     "text": "Tienes un jardín vacío y quieres una alberca.",
+     "start": 0.268,
+     "end": 2.982
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "bg": "-",
+   "start": 3.339,
+   "end": 7.589,
+   "lines": [
+    {
+     "text": "Primero marcas la forma con estacas y cuerda.",
+     "start": 3.339,
+     "end": 5.768
+    },
+    {
+     "text": "Eso se llama trazo.",
+     "start": 5.946,
+     "end": 7.232
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "bg": "-",
+   "start": 7.589,
+   "end": 13.554,
+   "lines": [
+    {
+     "text": "Luego excavas.",
+     "start": 7.589,
+     "end": 9.304
+    },
+    {
+     "text": "Pero si cavas paredes rectas, la tierra se derrumba.",
+     "start": 9.482,
+     "end": 13.196
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "bg": "-",
+   "start": 13.554,
+   "end": 19.661,
+   "lines": [
+    {
+     "text": "Entonces cortas las paredes un poco inclinadas, para que la tierra no se caiga.",
+     "start": 13.554,
+     "end": 18.125
+    },
+    {
+     "text": "Eso es un talud.",
+     "start": 18.304,
+     "end": 19.304
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "bg": "-",
+   "start": 19.661,
+   "end": 24.304,
+   "lines": [
+    {
+     "text": "En el fondo pones grava y la compactas, para que el piso no se hunda.",
+     "start": 19.661,
+     "end": 23.946
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "bg": "-",
+   "start": 24.304,
+   "end": 27.946,
+   "lines": [
+    {
+     "text": "Pero el concreto solo se agrieta con el peso del agua.",
+     "start": 24.304,
+     "end": 27.589
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "bg": "-",
+   "start": 27.946,
+   "end": 33.911,
+   "lines": [
+    {
+     "text": "Entonces colocas una malla de varillas de acero.",
+     "start": 27.946,
+     "end": 31.089
+    },
+    {
+     "text": "Eso se llama armado.",
+     "start": 31.268,
+     "end": 33.554
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "bg": "-",
+   "start": 33.911,
+   "end": 38.554,
+   "lines": [
+    {
+     "text": "Después lanzas el concreto sobre el armado, piso y paredes en una sola pieza.",
+     "start": 33.911,
+     "end": 38.196
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "bg": "-",
+   "start": 38.554,
+   "end": 41.625,
+   "lines": [
+    {
+     "text": "Pero el concreto deja pasar el agua poco a poco.",
+     "start": 38.554,
+     "end": 41.268
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "bg": "-",
+   "start": 41.625,
+   "end": 44.839,
+   "lines": [
+    {
+     "text": "Entonces lo cubres con un impermeabilizante.",
+     "start": 41.625,
+     "end": 44.482
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "bg": "-",
+   "start": 44.839,
+   "end": 51.375,
+   "lines": [
+    {
+     "text": "Instalas las tuberías.",
+     "start": 44.839,
+     "end": 46.696
+    },
+    {
+     "text": "El agua sale por el fondo, pasa por un filtro y regresa limpia.",
+     "start": 46.875,
+     "end": 51.018
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "bg": "-",
+   "start": 51.375,
+   "end": 57.196,
+   "lines": [
+    {
+     "text": "Pones el azulejo y llenas de agua.",
+     "start": 51.375,
+     "end": 53.804
+    },
+    {
+     "text": "Felicidades, construiste una alberca.",
+     "start": 53.982,
+     "end": 56.839
+    }
+   ]
+  }
+ ]
+}

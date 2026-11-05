@@ -1,0 +1,98 @@
+[
+ {
+  "id": "hook",
+  "text": "¿Por qué todos se pelean por el dragón como si fuera el último tamal de la fiesta?",
+  "start": 0.25,
+  "end": 3.284
+ },
+ {
+  "id": "spoiler",
+  "text": "No es solo por el dragón. Es por lo que viene después.",
+  "start": 3.704,
+  "end": 6.247
+ },
+ {
+  "id": "cuatro",
+  "text": "El primer equipo que consigue cuatro dragones se gana el alma del dragón.",
+  "start": 6.667,
+  "end": 9.828
+ },
+ {
+  "id": "marcas",
+  "text": "Cada dragón que matas le suma a tu equipo una marca de cazadragones. Cuatro marcas, y el alma es tuya.",
+  "start": 10.248,
+  "end": 14.932
+ },
+ {
+  "id": "dos",
+  "text": "Los dos primeros dragones son de elementos distintos.",
+  "start": 15.352,
+  "end": 17.541
+ },
+ {
+  "id": "mapa",
+  "text": "Y cuando el mapa toma un elemento, el río y la jungla cambian de aspecto.",
+  "start": 17.961,
+  "end": 21.021
+ },
+ {
+  "id": "resto",
+  "text": "Después, todos los dragones son del elemento que domina el mapa.",
+  "start": 21.441,
+  "end": 24.343
+ },
+ {
+  "id": "alma",
+  "text": "Y el alma es justo de ese elemento. Una vez que la tienes, es permanente para todo tu equipo.",
+  "start": 24.763,
+  "end": 29.001
+ },
+ {
+  "id": "elder",
+  "text": "Cuando un equipo ya tiene el alma, en lugar de dragones elementales aparece el dragón ancestral.",
+  "start": 29.421,
+  "end": 33.491
+ },
+ {
+  "id": "aspecto",
+  "text": "Si lo matan, los aliados que siguen vivos reciben el Aspecto del Dragón durante ciento cincuenta segundos.",
+  "start": 33.911,
+  "end": 38.342
+ },
+ {
+  "id": "muerte",
+  "text": "Pero ojo: si mueres, lo pierdes.",
+  "start": 38.762,
+  "end": 40.785
+ },
+ {
+  "id": "vivos",
+  "text": "Solo lo reciben los aliados vivos. Si tu compañero murió en la pelea, se lo pierde.",
+  "start": 41.205,
+  "end": 44.798
+ },
+ {
+  "id": "broma",
+  "text": "O sea, el poder más fuerte del juego… y lo pierdes por andar de valiente.",
+  "start": 45.218,
+  "end": 48.695
+ },
+ {
+  "id": "tip",
+  "text": "Consejo de la profe: revisa el marcador de dragones. Si el rival ya lleva tres, el cuarto no se regala.",
+  "start": 49.115,
+  "end": 53.756
+ },
+ {
+  "id": "tip2",
+  "text": "Y a partir del tercer dragón, cada pelea en el río puede decidir la partida.",
+  "start": 54.176,
+  "end": 57.423
+ },
+ {
+  "id": "cierre",
+  "text": "Así funciona el alma. Cada like es un aliento de dragón… directo a Teemo.",
+  "start": 57.843,
+  "end": 61.216
+ }
+]

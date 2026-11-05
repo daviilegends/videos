@@ -1,0 +1,173 @@
+{
+ "_nota": "Sound slots. 'lol' = real game sounds (variants under assets/sonidos_lol/wav, played in turn); otherwise 'archivo' is looked up in C:/videos-youtube/sfx/library. 'largo' = seconds to use, 'vol' = volume (peak-normalized).",
+ "whoosh": {
+  "archivo": "068_Cable_Whoosh.wav",
+  "vol": 0.32,
+  "largo": 1.2
+ },
+ "tiza": {
+  "archivo": "Parched,drawing,crisp,paper,notebook,pen,stroke,scribble,short,steady.wav",
+  "vol": 0.3,
+  "largo": 1.0
+ },
+ "ding": {
+  "lol": "_propios/pop__*.wav",
+  "vol": 0.13,
+  "largo": 0.35
+ },
+ "caitlyn_basico": {
+  "lol": "Caitlyn/Play_sfx_Caitlyn_CaitlynBasicAttack_OnMissileLaunch__*.wav",
+  "vol": 0.45,
+  "largo": 1.0
+ },
+ "habilidad": {
+  "lol": "Caitlyn/Play_sfx_Caitlyn_CaitlynRMissile_OnMissileLaunch__*.wav",
+  "vol": 0.45,
+  "largo": 1.6
+ },
+ "habilidad_hit": {
+  "lol": "Caitlyn/Play_sfx_Caitlyn_CaitlynRMissile_hit__*.wav",
+  "vol": 0.45,
+  "largo": 1.4
+ },
+ "jinx_basico": {
+  "lol": "Jinx/Play_sfx_Jinx_JinxBasicAttack_OnMissileLaunch__*.wav",
+  "vol": 0.45,
+  "largo": 1.0
+ },
+ "jinx_hit": {
+  "lol": "Jinx/Play_sfx_Jinx_JinxBasicAttack_OnHit__*.wav",
+  "vol": 0.35,
+  "largo": 0.8
+ },
+ "ashe_basico": {
+  "lol": "Ashe/Play_sfx_Ashe_AsheBasicAttack_OnMissileLaunch__*.wav",
+  "vol": 0.45,
+  "largo": 1.0
+ },
+ "draven_hacha": {
+  "lol": "Draven/Play_sfx_Draven_DravenAttackP_R_OnMissileLaunch__*.wav",
+  "vol": 0.5,
+  "largo": 1.0
+ },
+ "draven_hit": {
+  "lol": "Draven/Play_sfx_Draven_DravenAttackP_R_OnHit__*.wav",
+  "vol": 0.4,
+  "largo": 0.9
+ },
+ "impacto": {
+  "archivo": "Bluezone-BC0226-hit-impact-004.wav",
+  "vol": 0.2,
+  "largo": 1.0
+ },
+ "golpe_subdito": {
+  "archivo": "Bluezone-BC0226-hit-impact-004.wav",
+  "vol": 0.09,
+  "largo": 0.5
+ },
+ "subdito_muere": {
+  "archivo": "Sci-fi,Water,Hit,Punch,Impact,Bubbles,Granular,Set-B_16.wav",
+  "vol": 0.3,
+  "largo": 0.8
+ },
+ "torre_disparo": {
+  "lol": "_mapa/Play_sfx_Env_map11_ChaosTurretChampionBasicAttack_missilelaunch__*.wav",
+  "vol": 0.5,
+  "largo": 1.6
+ },
+ "torre_impacto": {
+  "lol": "_mapa/Play_sfx_Env_map11_ChaosTurretChampionBasicAttack_hit__*.wav",
+  "vol": 0.45,
+  "largo": 1.4
+ },
+ "torre_a_subdito": {
+  "lol": "_mapa/Play_sfx_Env_map11_ChaosTurretMinionBasicAttack_missilelaunch__*.wav",
+  "vol": 0.45,
+  "largo": 1.4
+ },
+ "torre_subdito_hit": {
+  "lol": "_mapa/Play_sfx_Env_map11_ChaosTurretMinionBasicAttack_hit__*.wav",
+  "vol": 0.4,
+  "largo": 1.2
+ },
+ "oro": {
+  "lol": "_mapa/Play_sfx_GoldAquisition_P_cast__*.wav",
+  "vol": 0.4,
+  "largo": 1.4
+ },
+ "teemo_muere": {
+  "lol": "Teemo/Play_sfx_Teemo_Death3D_cast__*.wav",
+  "vol": 0.5,
+  "largo": 1.8
+ },
+ "teemo_risa": {
+  "lol": "Teemo/Play_sfx_Teemo_Laugh3D_buffactivate__*.wav",
+  "vol": 0.45,
+  "largo": 2.0
+ },
+ "puno": {
+  "archivo": "Bluezone-BC0226-whoosh-impact-005.wav",
+  "vol": 0.35,
+  "largo": 1.2
+ },
+ "muerte": {
+  "archivo": "Bluezone-BC0226-whoosh-impact-005.wav",
+  "vol": 0.3,
+  "largo": 1.5
+ },
+ "flash": {
+  "lol": "_mapa/Play_sfx_SummonerFlash_OnCast__*.wav",
+  "vol": 0.5,
+  "largo": 1.2
+ },
+ "recall": {
+  "lol": "_mapa/Play_sfx_Recall_Shared_buffactivate__*.wav",
+  "vol": 0.4,
+  "largo": 8.5
+ },
+ "recall_llega": {
+  "lol": "_mapa/Play_sfx_Recall_return__*.wav",
+  "vol": 0.45,
+  "largo": 2.0
+ },
+ "ward": {
+  "lol": "_mapa/Play_sfx_BlueTrinket_SightWardAudioBuff_OnBuffActivate__*.wav",
+  "vol": 0.45,
+  "largo": 1.5
+ },
+ "arbusto": {
+  "lol": "_mapa/Play_sfx_Env_Global_Emitter_Brush_OnMovement__*.wav",
+  "vol": 0.5,
+  "largo": 1.2
+ },
+ "dragon_vuela": {
+  "lol": "_mapa/Play_sfx_SRU_Dragon_DragonTakeOff_cast__*.wav",
+  "vol": 0.2,
+  "largo": 1.5
+ },
+ "dragon_fuego": {
+  "lol": "_mapa/Play_sfx_SRU_Dragon_DragonFireball_hit__*.wav",
+  "vol": 0.2,
+  "largo": 1.4
+ },
+ "dragon_muere": {
+  "lol": "_mapa/Play_sfx_SRU_Dragon_death_cast__*.wav",
+  "vol": 0.28,
+  "largo": 2.5
+ },
+ "anciano_muere": {
+  "lol": "_mapa/Play_sfx_SRU_Dragon_Elder_death_vox_cast__*.wav",
+  "vol": 0.5,
+  "largo": 3.0
+ },
+ "campeon_muere": {
+  "lol": "_mapa/Play_sfx_Death_Self__*.wav",
+  "vol": 0.4,
+  "largo": 2.0
+ },
+ "ignite": {
+  "lol": "_mapa/Play_sfx_SummonerDot_OnHit__*.wav",
+  "vol": 0.4,
+  "largo": 1.2
+ }
+}

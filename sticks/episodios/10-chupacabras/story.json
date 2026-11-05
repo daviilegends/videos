@@ -1,0 +1,18 @@
+{
+  "title": "El Chupacabras: el monstruo que puso a México a buscar una criatura desconocida",
+  "short_title": "¿RECUERDAS AL\nCHUPACABRAS?",
+  "serie": "Archivo México",
+  "scenes": [
+    {"id": "c1", "bg": "granja", "text": "Imagina salir al corral una mañana y encontrar a tus animales muertos, con pequeños agujeros en el cuello."},
+    {"id": "c2", "bg": "granja", "text": "Durante los años noventa, México comenzó a escuchar una historia que parecía sacada de una película de ciencia ficción."},
+    {"id": "c3", "bg": "corral", "text": "En distintas comunidades se reportaba la muerte de animales de granja. Algunos testimonios aseguraban que los cuerpos tenían heridas extrañas, y que algo los había atacado durante la noche."},
+    {"id": "c4", "bg": "plaza", "text": "Pronto apareció un nombre que todos comenzaron a repetir. El Chupacabras."},
+    {"id": "c5", "bg": "sala", "text": "La historia había comenzado en Puerto Rico, a mediados de los años noventa. Pero muy rápido llegó a México y a otros países."},
+    {"id": "c6", "bg": "monte", "text": "Los relatos describían una criatura extraña, con ojos inquietantes, aspecto de reptil y espinas en la espalda. Decían que se alimentaba de la sangre de los animales."},
+    {"id": "c7", "bg": "sala", "text": "La televisión y los periódicos difundieron testimonios, fotografías y supuestos avistamientos. El tema se convirtió en un fenómeno nacional."},
+    {"id": "c8", "bg": "plaza", "text": "Algunas personas aseguraban haberlo visto. Otras estaban convencidas de que era un experimento secreto."},
+    {"id": "c9", "bg": "laboratorio", "text": "Pero con el tiempo aparecieron explicaciones más terrenales. Al revisar animales señalados como chupacabras, los investigadores encontraron coyotes y perros con sarna severa. Es una enfermedad que les hace perder el pelo y cambia por completo su aspecto."},
+    {"id": "c10", "bg": "monte", "text": "Nunca se confirmó científicamente que aquella criatura existiera."},
+    {"id": "c11", "bg": "sala", "text": "Sin embargo, el Chupacabras ya había conseguido algo extraordinario. Convertirse en uno de los misterios más famosos de la cultura popular mexicana. ¿Tú recuerdas cuando todos hablaban del Chupacabras?"}
+  ]
+}

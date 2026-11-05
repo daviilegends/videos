@@ -1,0 +1,77 @@
+{
+ "titulo": "El heraldo de la grieta: el cabezazo de 3000",
+ "fuentes": [
+  "https://wiki.leagueoflegends.com/en-us/Rift_Herald (15:00 baron pit, once, despawn 19:45, Eye 20 s, 3000 true dmg first headbutt, loses 66% current health, knockback)"
+ ],
+ "lineas": [
+  {
+   "id": "hook",
+   "text": "¿Qué monstruo tira torres de un solo cabezazo?"
+  },
+  {
+   "id": "spoiler",
+   "text": "No es un campeón. Es un monstruo que tu equipo puede invocar."
+  },
+  {
+   "id": "que",
+   "text": "El heraldo de la grieta. Aparece al minuto quince, en el foso de arriba del río."
+  },
+  {
+   "id": "una",
+   "text": "Sale una sola vez por partida, y si nadie lo mata, se va al minuto diecinueve con cuarenta y cinco."
+  },
+  {
+   "id": "ojo",
+   "text": "Cuando lo matas, suelta su ojo en la entrada del foso, durante veinte segundos."
+  },
+  {
+   "id": "recoge",
+   "text": "Un jugador de tu equipo lo recoge, y al usarlo, invoca al heraldo de tu lado."
+  },
+  {
+   "id": "carga",
+   "text": "El heraldo se prepara dos segundos y medio, y salta directo contra la estructura."
+  },
+  {
+   "id": "tresmil",
+   "text": "El primer cabezazo hace tres mil de daño verdadero."
+  },
+  {
+   "id": "ejemplo",
+   "text": "Tres mil de daño verdadero. Hay torres que pierden un buen pedazo de un solo golpe."
+  },
+  {
+   "id": "broma",
+   "text": "Tres mil. Ni tu tío cuando le cambias el canal en plena final."
+  },
+  {
+   "id": "menos",
+   "text": "Los siguientes golpes hacen cada vez menos daño, y cada choque le quita mucha vida al heraldo."
+  },
+  {
+   "id": "campeones",
+   "text": "Y si hay campeones enemigos cerca del impacto, los avienta para atrás."
+  },
+  {
+   "id": "despues",
+   "text": "Después del heraldo, en ese foso aparece el barón. Esa también es otra clase."
+  },
+  {
+   "id": "tip",
+   "text": "Consejo de la profe: úsalo cuando la torre no tenga defensores cerca, para que el cabezazo cuente."
+  },
+  {
+   "id": "tip2",
+   "text": "Y si lo invocas junto con tu oleada, la torre tiene que elegir a quién defender."
+  },
+  {
+   "id": "tip3",
+   "text": "Con el heraldo, la torre que pensabas tirar en cinco minutos cae en uno."
+  },
+  {
+   "id": "cierre",
+   "text": "Así funciona el heraldo. Cada like es un cabezazo… directo a la torre de Teemo.",
+   "voz": "Así funciona el heraldo. Cada like es un cabezazo… directo a la torre de Timo."
+  }
+ ]
+}
